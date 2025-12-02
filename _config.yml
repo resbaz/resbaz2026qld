@@ -14,8 +14,8 @@ future: true # Enable future posts (date > current date)
 title: "Research Bazaar Queensland"
 email: "mailto:resbaz@qcif.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where students and researchers come together to learn the latest in digital research tools and digital scholarship."
-baseurl: "/resbaz2025qld"
-url: "https://resbaz.github.io/resbaz2025qld/"
+baseurl: "/resbaz2026qld"
+url: "https://resbaz.github.io/resbaz2026qld/"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "matty-plumski.github.io"
@@ -64,7 +64,7 @@ navigationLinks:
 # Hero Block
 heroImage: "USC_Petrie_1.png"
 heroTitle: "Research Bazaar Queensland"
-eventDate: "1st-3rd Jul 2025 - UniSC Moreton Bay"
+eventDate: "23rd-25th Jun 2026 - QUT Kelvin Grove Campus"
 
 
 
@@ -75,7 +75,7 @@ aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of d
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>In 2025, ResBazQLD turns 9, and UniSC is hosting for the first time. The <a href='https://www.usc.edu.au/study/life-at-unisc/study-locations/unisc-moreton-bay/about-unisc-moreton-bay-campus'>Moreton Bay campus</a> is UniSC's newest campus and is just 25 km north of the city centre. Find out <a href='/resbaz2025qld/transport/'>how to get there</a>.</p>"
+<p>In 2026, ResBazQLD turns 10, and QUT is hosting for the first time. The <a href='https://www.usc.edu.au/study/life-at-unisc/study-locations/unisc-moreton-bay/about-unisc-moreton-bay-campus'>Moreton Bay campus</a> is UniSC's newest campus and is just 25 km north of the city centre. Find out <a href='/resbaz2026qld/transport/'>how to get there</a>.</p>"
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -184,7 +184,7 @@ socialLinks:
  - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", icon: "linkedin"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
- - {link: "https://github.com/resbaz/resbaz2025qld", icon: "github"}
+ - {link: "https://github.com/resbaz/resbaz2026qld", icon: "github"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
  -
