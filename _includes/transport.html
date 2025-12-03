@@ -29,4 +29,12 @@
         </div> 
     </div> 
 </section>
+<script>
+  document
+    .querySelectorAll('#transport a[href]')
+    .forEach((link) => {
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    });
+</script>
 
