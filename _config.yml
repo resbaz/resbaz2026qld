@@ -53,7 +53,7 @@ navigationLinks:
  #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/dietaries/", text: "Food"}
- - {permalink: "/partners/", text: "Sponsors"}
+ # - {permalink: "/partners/", text: "Sponsors"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
@@ -90,10 +90,10 @@ aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of d
 # latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
-#rockstarSpeakersCount: 3
-#rockstarSpeakersTitle: "Keystory speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+# rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
+# rockstarSpeakersCount: 3
+# rockstarSpeakersTitle: "Keystory speakers"
+# rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
