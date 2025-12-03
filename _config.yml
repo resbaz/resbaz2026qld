@@ -90,26 +90,26 @@ aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of d
 # latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
-rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Keystory speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
+#rockstarSpeakersCount: 3
+#rockstarSpeakersTitle: "Keystory speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "University of the Sunshine Coast - Brisbane Campus"
-eventLocationLink: "https://www.openstreetmap.org/#map=18/-27.271069/152.981604"
-eventStreetAddress: "1 Moreton Parade"
-eventAddressLocality: "Petrie"
-eventAddressLocalityRegion: " QLD"
-eventPostalCode: "4502"
+eventLocationName: "Queensland University of Technology - Kelvin Grove Campus"
+eventLocationLink: "https://www.openstreetmap.org/relation/14524093#map=16/-27.45265/153.02002&layers=C"
+eventStreetAddress: "149 Victoria Park Rd"
+eventAddressLocality: "Kelvin Grove"
+eventAddressLocalityRegion: "QLD"
+eventPostalCode: "4059"
 eventAddressCountry: "Australia"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-27.271069, 152.981604"
-mapCenterCoordinates: "-27.271069, 152.981604"
-mapMobileCenterCoordinates: "-27.271069, 152.981604"
+eventPlaceCoordinates: "-27.451870, 153.016495"
+mapCenterCoordinates: "-27.451870, 153.016495"
+mapMobileCenterCoordinates: "-27.451870, 153.016495"
 #
 # Venue Block
 # venueBlockTitle: "Past Events"
@@ -199,14 +199,14 @@ footerBlocks:
 #   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
  -
   title: "Gold Sponsors"
-  links:
-   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+  #links:
+   #- {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 #   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
   title: "Silver Sponsor"
-  links:
-    - {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
-    - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
+  #links:
+    #- {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+    #- {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
  -  
   title: "Collaborating Institutes"
   links:
