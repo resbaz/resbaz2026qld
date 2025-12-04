@@ -144,21 +144,6 @@ layout: compress
                 $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
             });
 	</script>
-	<script> // Open external links as new page
-	  document.addEventListener("DOMContentLoaded", function () {
-		const currentHost = window.location.host;
-
-		document.querySelectorAll("a[href]").forEach((link) => {
-		  const url = new URL(link.href, window.location.origin);
-
-		  // External links only (different host)
-		  if (url.host !== currentHost) {
-			link.setAttribute("target", "_blank");
-			link.setAttribute("rel", "noopener noreferrer");
-		  }
-		});
-	  });
-	</script>
     {% endif %}
 
     {% include schema-event.html %}
