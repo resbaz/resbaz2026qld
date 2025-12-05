@@ -3280,6 +3280,35 @@ nav li a:hover {
 	text-align: justify;
 	/* font-weight: bold; */
 }
+.confetti-target {
+  position: relative;
+  cursor: pointer;
+}
+.confetti-target:hover {
+  color: #ff5c5c;
+  font-weight: bold;
+}
+.confetti-piece {
+  position: fixed;
+  width: 6px;
+  height: 12px;
+  border-radius: 2px;
+  pointer-events: none;
+  opacity: 0;
+  transform: translate3d(0, 0, 0);
+  animation: confetti-fall 1.1s ease-out forwards;
+  z-index: 9999;
+}
+@keyframes confetti-fall {
+  0% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translate3d(var(--dx), var(--dy), 0) rotate(720deg);
+  }
+}
 .statistic .stat {
     font-size: 100px;
     color: #03a9f4;

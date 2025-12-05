@@ -147,6 +147,46 @@ layout: compress
     {% endif %}
 
     {% include schema-event.html %}
+	
+	<script>
+	  document.addEventListener("DOMContentLoaded", function () {
+		var target = document.querySelector(".confetti-target");
+		if (!target) return;
+
+		function makeConfettiPiece(x, y) {
+		  var piece = document.createElement("span");
+		  piece.className = "confetti-piece";
+
+		  var colors = ["#ff5c5c", "#ffd15c", "#5cff89", "#5cc8ff", "#c85cff"];
+		  piece.style.backgroundColor =
+			colors[Math.floor(Math.random() * colors.length)];
+
+		  piece.style.left = x + "px";
+		  piece.style.top = y + "px";
+
+		  var dx = (Math.random() - 0.5) * 80;
+		  var dy = 150 + Math.random() * 80;
+		  piece.style.setProperty("--dx", dx + "px");
+		  piece.style.setProperty("--dy", dy + "px");
+
+		  document.body.appendChild(piece);
+
+		  setTimeout(function () {
+			if (piece.parentNode) piece.parentNode.removeChild(piece);
+		  }, 1200);
+		}
+
+		target.addEventListener("mouseenter", function () {
+		  var rect = target.getBoundingClientRect();
+		  var originX = rect.left + rect.width / 2;
+		  var originY = rect.top + rect.height / 2;
+
+		  for (var i = 0; i < 25; i++) {
+			makeConfettiPiece(originX, originY);
+		  }
+		});
+	  });
+	</script>
 </body>
 
 </html>
