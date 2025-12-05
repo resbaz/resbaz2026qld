@@ -3283,6 +3283,8 @@ nav li a:hover {
 .confetti-target {
   position: relative;
   cursor: pointer;
+  color: #ff5c5c;   /* always red */
+  font-weight: bold; /* always bold */
 }
 .confetti-target:hover {
   color: #ff5c5c;
