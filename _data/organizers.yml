@@ -17,7 +17,7 @@
   group: "Co-organisers"
   elements: 
    - {description: "The University of Queensland", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-   - {description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   # - {description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
    - {description: "Griffith University", link: "griffith.edu.au",  imageUrl: "../img/organizers/GU.gif"}
    - {description: "UniSC", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
    - {description: "SCU", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/SCU.png"}
