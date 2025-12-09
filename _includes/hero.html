@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1><b>{{ site.heroTitle }}</b></h1>
-            <h3>{{ site.eventDate }}</h3>
+            <h3 class="event-date">{{ site.eventDate }}</h3>
             {% for button in site.heroButtons %}
             <a class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ button.text }}</a>
             {% endfor %}
