@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
- #- {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd689WEt6ZJPmd-833S7DaHjthJlvcNmm6qSfePuqnxiyrg6Q/viewform", text: "Get involved"}
+ - {link: "https://docs.google.com/forms/d/1irfd45Ugc-Ao2ToQQV1jOQIYpXweCrJACUEjEnmj0hI/viewform", text: "Keep me informed"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/sessions/", text: "Sessions"}
@@ -57,9 +57,9 @@ navigationLinks:
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
-  # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
+  # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd689WEt6ZJPmd-833S7DaHjthJlvcNmm6qSfePuqnxiyrg6Q/viewform", text: "Get involved - volunteer here!"}
 #rightNavigationButtons:
-# - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd689WEt6ZJPmd-833S7DaHjthJlvcNmm6qSfePuqnxiyrg6Q/viewform", text: "Get involved - volunteer here!"}
 
 # Hero Block
 heroImage: "ResBaz2026_Banner_v2.jpg"
