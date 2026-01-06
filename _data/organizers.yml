@@ -12,7 +12,7 @@
   group: "Main organisers"
   elements: 
    - {description: "QCIF",  link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
-   - {description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.png"}
 -
   group: "Co-organisers"
   elements: 
