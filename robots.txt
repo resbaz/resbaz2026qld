@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resbaz.github.io/resbaz2026qld/sitemap.xml
