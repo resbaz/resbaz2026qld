@@ -11,7 +11,7 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "Research Bazaar Queensland"
+title: "Research Bazaar Queensland - ResBaz QLD 2026"
 email: "mailto:resbaz@qcif.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where students and researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbaz2026qld"
@@ -70,7 +70,7 @@ eventDate: "23rd-25th Jun 2026 - QUT Kelvin Grove Campus"
 
 
 # About Block
-aboutTitle: "About ResBaz Queensland"
+aboutTitle: "About ResBaz Queensland 2026"
 aboutSubtitle: "A festival of digital research"
 aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and - above all - fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques.</p>
 
