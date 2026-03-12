@@ -1,15 +1,19 @@
 -
   group: "Gold Sponsors"
   elements: 
-    # - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
     # - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
 -
   group: "Silver Sponsors"
   elements: 
     # - {description: "AARNet", link: "https://aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
-    # - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+    - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
 -
-  group: "Main organisers"
+  group: "Celebratory Bronze Sponsors"
+  elements: 
+    - {description: "Tricky Goose", link: "https://www.trickygoose.training/", imageUrl: "../img/organizers/tricky_goose.jpg"}
+-
+  group: "Main Organisers"
   elements: 
    - {description: "QCIF",  link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
    - {description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.png"}
