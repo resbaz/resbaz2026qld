@@ -2,6 +2,7 @@
   group: "Gold Sponsors"
   elements: 
     - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    - {description: "CSIRO on Prime", link: "https://www.csiro.au/en/work-with-us/funding-programs/Innovation-programs/ON-Prime", imageUrl: "../img/organizers/CSIRO-ONInnovationProgram.png"}
     # - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
 -
   group: "Silver Sponsors"
