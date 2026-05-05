@@ -9,7 +9,12 @@ layout: compress
 
 <body>
     <div id="preloader" class="preloader">
-        <object id="loader_animation" width="200" type="image/svg+xml" data="/img/resbaz_logos/ResBaz2026_10_final_transparent_web.svg"></object>
+        <object
+		  id="loader_animation"
+		  width="200"
+		  type="image/svg+xml"
+		  data="{{ '/img/resbaz_logos/ResBaz2026_10_final_transparent_web.svg' | prepend: site.baseurl }}">
+		</object>
     </div>
 
     <div id="st-container" class="st-container disable-scrolling">
@@ -52,7 +57,7 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
+    {% if page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
@@ -66,7 +71,7 @@ layout: compress
     {% endif %} 
     <script>
         Waves.displayEffect();
-        {% if page.permalink == '/' %}
+        {% if false %}
             if ($(window).width() > 767) {
                 var googleMaps = 'index',
                     eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
