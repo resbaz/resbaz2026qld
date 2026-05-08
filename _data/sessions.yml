@@ -661,3 +661,22 @@ In the workshop, participants will use practical ON tools (including an Impact &
 </p><p>
 Attendees will leave with a draft impact narrative, clearer language for describing benefits to partners, and a simple action plan to progress at least one potential collaboration opportunity.  
 </p>"
+-
+title: "Writing better, 'long-surviving' code as bioscientists"
+themes: []
+id: 2045
+speakers: [271]
+subtype: Workshop
+service:
+hidden: false
+description: "Most research code works… until it doesn’t. In this talk, I’ll walk through shifting from writing one-off scripts to building a real, deployable tool (in the genomics context with Python), and the software engineering principles that should matter for scaling and reusability. It is not a coding tutorial but a practical look at how small decisions in research code shape whether it quietly collapses under its own weight, illustrated with recommended practices and relevant supporting Python packages. It will also touch on publishing research packages for public use, with pip and conda."
+
+-
+title: ""
+themes: []
+id: 2999
+speakers: []
+subtype: Workshop
+service:
+hidden: false
+description: "<p></p><p></p>"

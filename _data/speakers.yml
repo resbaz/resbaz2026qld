@@ -733,6 +733,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/richelle-mcnae
+-
+  id: 271
+  name: Halimat
+  surname: Atanda
+  pronouns: She/Her
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999
