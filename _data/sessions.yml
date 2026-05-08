@@ -696,14 +696,23 @@ The workshop also introduces a broader philosophical perspective on learning bey
   hidden: false
   description: "This workshop aims to show you how you can make the most of the Proceedings of Australian Federal Parliament (1901-present) in your research. We will start by showing you some of how Parliament works through their official transcripts and explore their search interface. Then we will show you how you can take things to the next level with computational tools to analyse a.) the passage of a specific piece of legislation and b.) explore how particular language is used since Australia's Federation."
 -
-  title: ""
+  title: "NCBI Genome Portal essentials: Finding, viewing and comparing genomes"
   themes: []
   id: 2048
   speakers: [274]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "This hands-on workshop introduces participants to the National Center for Biotechnology Information (NCBI) database and some of its tools, with a focus on genomes, exploring annotations, and using genome browsers and comparative tools. Participants will learn how to efficiently locate genomic resources and interpret genome structure and annotation directly within NCBI."
+-
+  title: "Word sucks for long form writing! Thesis and manuscript writing using fit for purpose software"
+  themes: []
+  id: 2049
+  speakers: [275]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop introduces software designed for long-form academic writing and its capacity to organise thoughts, structure chapters, and support conceptual thinking. Scrivener and freeware alternatives function as project-based systems in which entire manuscripts reside within a single hierarchised file. Unlike Word's document-centric approach, these platforms integrate structure and content management, enabling researchers to store drafts, references, and notes in a cohesive manner, and experiment with restructuring sections and chapters with ease. This privileges concept-centric networks and developmental thinking over sequential structures and the pressure to produce polished writing immediately. Participants will learn how these platforms enable 'writing for thinking' rather than 'writing up', facilitating thematic connections and reducing the chaos of multiple open documents during thesis or manuscript development."
 
 -
   title: ""
