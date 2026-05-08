@@ -827,6 +827,35 @@ She is currently developing an experimental writing project exploring how dialog
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 278
+  name: Shauna
+  surname: Fjaagesund
+  pronouns: She/Her
+  company: USC
+  title: 
+  bio: "Shauna Fjaagesund is an industry-based researcher associated with the University of the Sunshine Coast and the University of Queensland. She concentrates on creating sustainable community and corporate health and well being models, with a focus on governance and stakeholder partnerships."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 279
+  name: Dr Florin
+  surname: Oprescu
+  pronouns: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+
 
 -
   id: 999
