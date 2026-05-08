@@ -806,7 +806,24 @@ We'll also build a what-if model, to demonstrate the process in action, and show
   service:
   hidden: false
   description: "<p></p><p></p>"
-
+-
+  title: "Data visualisation basics for publishing"
+  themes: []
+  id: 2057
+  speakers: [201,283]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Explore methods and tools to create publication quality visualisations of structured, tabular data. Tools covered include MS Excel and open-source tool Raw Graphs.
+</p><p>
+On completion of this hands-on workshop, participants will be familiar with:
+</p>
+<ul>
+<li>appropriate visualisation models for a dataset</li>
+<li>visualisation tools and steps for tabular data</li>
+<li>methods to save a visualisation to a publication quality file format.</li>
+<li></li>
+</ul>"
 -
   title: ""
   themes: []

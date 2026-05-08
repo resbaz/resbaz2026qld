@@ -1,18 +1,4 @@
 # -
-#   id: 201
-#   name: Sharron
-#   surname: Stapleton
-#   pronouns: She/Her
-#   company: Griffith University
-#   title: Research Library Specialist
-#   bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor, a strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer and organiser.
-#   thumbnailUrl: SharronStapleton.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/sharronstapleton
-# -
 #   id: 206
 #   name: Robert
 #   surname: Fleet
@@ -665,6 +651,20 @@
     - {abbr: "", title: "", url: ""}
   social: https://amandamiotto.github.io/
 -
+  id: 201
+  name: Sharron
+  surname: Stapleton
+  pronouns: She/Her
+  company: Griffith University
+  title: Research Library Specialist
+  bio: "Sharron Stapleton is a Research Library Specialist at Griffith Library with over 30 years of experience in information management. She trains and advises researchers on data sourcing, preparation, visualization and publishing, and is a certified Data Carpentry instructor. A strong advocate for open research, Sharron regularly contributes as a trainer at ResBaz."
+  thumbnailUrl: sharron_stapleton.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/sharronstapleton
+-
   id: 202
   name: Dr Sam
   surname: Hames
@@ -901,7 +901,20 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
-
+-
+  id: 283
+  name: Kylie
+  surname: Burgess
+  pronouns: 
+  company: 
+  title: 
+  bio: "<p></p><p></p>"
+  thumbnailUrl: kylie_burgess.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/kylieburgess
 
 -
   id: 999
