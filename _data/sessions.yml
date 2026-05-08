@@ -797,6 +797,15 @@ We'll also build a what-if model, to demonstrate the process in action, and show
   service:
   hidden: false
   description: "This workshop introduces researchers to the principles of graphical storytelling and the design of clear, publication-ready figures. It focuses on how to plan figures with purpose, so that each image supports the narrative of a paper, thesis, or presentation rather than simply filling space. Topics include a practical checklist for figure design, choosing suitable plotting and design software, improving figure aesthetics, and using simple tools and resources to create cleaner and more effective visuals. Through examples and case studies, participants will learn how to move from raw content to figures that communicate methods, workflows, and results more clearly."
+-
+  title: "Data science for storytelling"
+  themes: []
+  id: 2056
+  speakers: [282]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
 
 -
   title: ""

@@ -887,6 +887,20 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 282
+  name: Kaitlin
+  surname: Moat
+  pronouns: She/Her
+  company: UQ
+  title: 
+  bio: "Kaitlin is a post doctoral researcher working at UQ. During her time in research, she has had to communicate the same data to a wide variety of audiences, from industry partners at Boeing to senior academics at international conferences. Learning how to present the story of your data well is a skill Kaitlin has developed, and hopes to share with you in this workshop."
+  thumbnailUrl: kaitlin_moat.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 
 -
