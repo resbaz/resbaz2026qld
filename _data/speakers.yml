@@ -747,6 +747,26 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 272
+  name: Fang (Jane)
+  surname: Li
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "<p>Fang Li is a Master of Education student at the Queensland University of Technology.
+</p><p>
+Her interests include education philosophy, digital learning, and the emerging relationship between human thinking and artificial intelligence.
+</p><p>
+She is currently developing an experimental writing project exploring how dialogue between humans and AI can support idea generation, reflective thinking, and knowledge creation.
+</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+
 
 -
   id: 999

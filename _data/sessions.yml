@@ -670,6 +670,22 @@
   service:
   hidden: false
   description: "Most research code works… until it doesn’t. In this talk, I’ll walk through shifting from writing one-off scripts to building a real, deployable tool (in the genomics context with Python), and the software engineering principles that should matter for scaling and reusability. It is not a coding tutorial but a practical look at how small decisions in research code shape whether it quietly collapses under its own weight, illustrated with recommended practices and relevant supporting Python packages. It will also touch on publishing research packages for public use, with pip and conda."
+-
+  title: "Human-AI dialogue for research idea Generation"
+  themes: []
+  id: 2046
+  speakers: [272]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This interactive workshop explores how structured dialogue with AI can support research thinking, idea generation, and reflective learning.
+</p><p>
+Using examples from an experimental e-book project titled 'Idea Builder: A Billion-Dollar Brain', the session demonstrates how conversations between a human and AI can function as a cognitive workflow for developing research questions, clarifying concepts, and generating new ideas.
+</p><p>
+Participants will learn a simple Human-AI dialogue framework that transforms curiosity into researchable questions. Through guided exercises, attendees will experiment with AI-assisted thinking to explore their own research interests.
+</p><p>
+The workshop also introduces a broader philosophical perspective on learning beyond traditional classroom structures and discusses the emerging role of AI as a thinking partner in academic knowledge creation.
+</p>"
 
 -
   title: ""
