@@ -63,20 +63,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://au.linkedin.com/in/sharronstapleton
 # -
-#   id: 202
-#   name: Dr Sam
-#   surname: Hames
-#   pronouns: He/Him
-#   company: UQ
-#   title: Research Fellow
-#   bio: "Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and the research analytics lead for the Language Data Commons of Australia. Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences."
-#   thumbnailUrl: sam_hames.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://about.uq.edu.au/experts/35549
-# -
 #   id: 203
 #   name: Amanda
 #   surname: Miotto
@@ -714,7 +700,20 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://chemeng.uq.edu.au/profile/2223/tony-howes
-
+-
+  id: 202
+  name: Dr Sam
+  surname: Hames
+  pronouns: He/Him
+  company: UQ
+  title: Research Fellow
+  bio: "Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and works on the Language Data Commons of Australia research infrastructure project. He is co-lead on the Reusable and Accessible Public Interest Documents Project, part of the ARDC Community Data Lab (RAPID-CDL). Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences."
+  thumbnailUrl: sam_hames.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://about.uq.edu.au/experts/35549
 -
   id: 244
   name: Richelle
@@ -761,6 +760,20 @@ Her interests include education philosophy, digital learning, and the emerging r
 She is currently developing an experimental writing project exploring how dialogue between humans and AI can support idea generation, reflective thinking, and knowledge creation.
 </p>"
   thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 273
+  name: Dr Martin
+  surname: Schweinberger
+  pronouns: 
+  company: UQ
+  title: 
+  bio: "<p></p><p></p>"
+  thumbnailUrl: martin_schweinberger.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
