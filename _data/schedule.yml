@@ -1,21 +1,40 @@
 - 
-  date: "2025-07-01"
-  dateReadable: "1st of July 2025"
+  date: "2026-06-23"
+  dateReadable: "23rd of June 2026"
   tracks: 
-    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "A1 - 2.05", color: "#FF8C00"}
-    - {title: "A1 - 2.19", color: "#48D1CC"}
-    - {title: "A1 - 2.21", color: "#FF00FF"}
-    - {title: "A1 - G.32", color: "#48D1CC"}
-    - {title: "A1 - G.33", color: "#2E8B57"}
-    - {title: "A1 - G.34", color: "#e91e63"}
+    - {title: "KG-E5 Education Precinct Function Room", color: "#e59442"} # orange
+    - {title: "KG-E054", color: "#fde725"} # viridis 1: yellow
+    - {title: "KG-E053", color: "#5fca60"} # viridis 2: green
+    - {title: "KG-E151", color: "#1f928b"} # viridis 3: turquoise
+    - {title: "KG-E152", color: "#38598c"} # viridis 4: blue
+    - {title: "KG-E153", color: "#440d57"} # viridis 5: purple
+    - {title: "KG-E557", color: "#ffdf5d"} # python yellow
+    - {title: "KG-E558", color: "#1f65b7"} # R blue
+    - {title: "KG-E555", color: "#e8ea62"} # QCIF blue
   timeslots:
-    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
+    - {
+      startTime: "07:45",
+      endTime: "08:30",
+      sessionIds: [001]}
+    - {
+      startTime: "08:30",
+      endTime: "08:45",
+      sessionIds: []
+      }
+    - {
+      startTime: "08:45",
+      endTime: "09:15",
+      sessionIds: []
+    }
     - {
       startTime: "09:15",
+      endTime: "09:30",
+      sessionIds: [000]
+    }
+    - {
+      startTime: "09:30",
       endTime: "10:30",
-      sessionIds: [2001,2002,2015,2014,2004,2005,2006,2016]
+      sessionIds: []
     }
     - {
       startTime: "10:30",
@@ -25,7 +44,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [2007,2008,2015,2014,2004,2009,2010,2011]
+      sessionIds: []
     }
     - {
       startTime: "12:30",
@@ -34,81 +53,41 @@
     }
     - {
       startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [101]
+      endTime: "15:00",
+      sessionIds: []
     }
     - {
-      startTime: "14:00",
-      endTime: "15:15",
-      sessionIds: [000,2012,2015,2014,2013,2017,000,2011]
-    }
--
-  date: "2025-07-02"
-  dateReadable: "2nd of July 2025"
-  tracks: 
-    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "A1 - 2.05", color: "#FF8C00"}
-    - {title: "A1 - 2.19", color: "#48D1CC"}
-    - {title: "A1 - 2.21", color: "#FF00FF"}
-    - {title: "A1 - G.32", color: "#48D1CC"}
-    - {title: "A1 - G.33", color: "#2E8B57"}
-    - {title: "A1 - G.34", color: "#e91e63"}
-  timeslots:
-    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
-    - {
-      startTime: "09:15",
-      endTime: "10:30",
-      sessionIds: [2018,2019,2015,2014,2020,2021,2022,2028]
-    }
-    - {
-      startTime: "10:30",
-      endTime: "11:00",
-      sessionIds: [002]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:30",
-      sessionIds: [2018,000,2015,2014,2024,2025,2027,2028]
-    }
-    - {
-      startTime: "12:30",
-      endTime: "13:30",
-      sessionIds: [004]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: [102]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "15:15",
-      sessionIds: [000,2029,2015,2014,000,2030,000,2028]
+      startTime: "15:00",
+      endTime: "15:30",
+      sessionIds: [003]
     }
     - {
       startTime: "15:30",
       endTime: "17:30",
-      sessionIds: [000,000,000,005,000,000,000,000]
+      sessionIds: []
     }
--
-  date: "2025-07-03"
-  dateReadable: "3rd of July 2025"
+- 
+  date: "2026-06-24"
+  dateReadable: "24th of June 2026"
   tracks: 
-    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "A1 - 2.05", color: "#FF8C00"}
-    - {title: "A1 - 2.19", color: "#48D1CC"}
-    - {title: "A1 - 2.21", color: "#FF00FF"}
-    - {title: "A1 - G.32", color: "#48D1CC"}
-    - {title: "A1 - G.33", color: "#2E8B57"}
-    - {title: "A1 - G.34", color: "#e91e63"}
+    - {title: "KG-E5 Education Precinct Function Room", color: "#e59442"} # orange
+    - {title: "KG-E054", color: "#fde725"} # viridis 1: yellow
+    - {title: "KG-E053", color: "#5fca60"} # viridis 2: green
+    - {title: "KG-E151", color: "#1f928b"} # viridis 3: turquoise
+    - {title: "KG-E152", color: "#38598c"} # viridis 4: blue
+    - {title: "KG-E153", color: "#440d57"} # viridis 5: purple
+    - {title: "KG-E557", color: "#ffdf5d"} # python yellow
+    - {title: "KG-E558", color: "#1f65b7"} # R blue
+    - {title: "KG-E555", color: "#e8ea62"} # QCIF blue
   timeslots:
-    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {
-      startTime: "09:15",
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [001]}
+    - {
+      startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [2031,2032,2034,2035,2036,2037,2038,2026]
+      sessionIds: []
     }
     - {
       startTime: "10:30",
@@ -118,7 +97,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [2039,2040,2034,2041,2036,2042,2033,2026]
+      sessionIds: []
     }
     - {
       startTime: "12:30",
@@ -127,11 +106,69 @@
     }
     - {
       startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: []
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [003]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "16:30",
+      sessionIds: []
+    }
+- 
+  date: "2026-06-25"
+  dateReadable: "25th of June 2026"
+  tracks: 
+    - {title: "KG-E5 Education Precinct Function Room", color: "#e59442"} # orange
+    - {title: "KG-E054", color: "#fde725"} # viridis 1: yellow
+    - {title: "KG-E053", color: "#5fca60"} # viridis 2: green
+    - {title: "KG-E151", color: "#1f928b"} # viridis 3: turquoise
+    - {title: "KG-E152", color: "#38598c"} # viridis 4: blue
+    - {title: "KG-E153", color: "#440d57"} # viridis 5: purple
+    - {title: "KG-E557", color: "#ffdf5d"} # python yellow
+    - {title: "KG-E558", color: "#1f65b7"} # R blue
+    - {title: "KG-E555", color: "#e8ea62"} # QCIF blue
+  timeslots:
+    - {
+      startTime: "08:30",
+      endTime: "09:00",
+      sessionIds: [001]}
+    - {
+      startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: []
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: []
+    }
+    - {
+      startTime: "12:00",
+      endTime: "13:30",
+      sessionIds: [004]
+    }
+    - {
+      startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [103]
+      sessionIds: []
     }
     - {
       startTime: "14:00",
-      endTime: "15:15",
-      sessionIds: [2043,2044,2034,000,000,000,000,2026]
+      endTime: "14:30",
+      sessionIds: [005]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:30",
+      sessionIds: [006]
     }
