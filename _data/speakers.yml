@@ -1,54 +1,4 @@
 # -
-#   id: 101
-#   name: Prof. Ross
-#   surname: Young
-#   pronouns:
-#   company: UniSC
-#   title: Deputy Vice-Chancellor (Research and Innovation)
-#   bio: "<p>Professor Ross Young is Deputy Vice-Chancellor (Research and Innovation) at the University of the Sunshine Coast. Prior to joining UniSC, Ross had extensive experience in clinical and academic health and in medical research. This included as Chair of Trauma Rehabilitation at the Jamieson Trauma Institute, Metro North Health; Executive Dean, Faculty of Health and Executive Director of the Institute of Health and Biomedical Innovation at Queensland University of Technology (QUT); and Director of the Behaviour Research and Therapy Centre (Psychiatry) at the University of Queensland.
-# </p><p>
-# A clinical psychologist by background, Ross’s research interests are in the integration of psychological and biological risk factors in mental illness, often linking whole genome and -omics data with clinical data. He is committed to social justice and maximising health outcomes for all people, particularly the most vulnerable in our communities. Ross supports the use of novel digital and technological solutions to address important health and societal challenges, and his commercial collaboration and patent activity has included licensing gene chip technology.
-# </p><p>
-# At RezBaz Ross has been asked to reflect on the importance of research partnerships, embracing an entrepreneurial mindset and some of the lessons learnt in his career that he would have taught his “younger self”.</p>"
-#   thumbnailUrl: ross_young.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.usc.edu.au/staff/professor-ross-young
-# -
-#   id: 102
-#   name: Paul
-#   surname: Salmon
-#   pronouns: 
-#   company: UniSC
-#   title: 
-#   bio: "Paul is a professor of Human Factors and creator of the Centre for Human Factors and Sociotechnical Systems at the University of the Sunshine Coast. He has almost 25 years’ experience of applied Human Factors and systems science research in a diverse set of domains. His current research interests are focused on the application of systems science to manage global level risks. Paul has received several prestigious awards from the International, Australian, US, and UK Human Factors and Ergonomics societies, and for the past 5 years The Australian has identified him as Australia’s field leader in the area of quality and reliability."
-#   thumbnailUrl: paul_salmon.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.usc.edu.au/staff/professor-paul-salmon
-# -
-#   id: 103
-#   name: Alise
-#   surname: Fox
-#   pronouns: 
-#   company: QLD Department of Primary Industries
-#   title: Senior Fisheries Scientist
-#   bio: "<p>Alise is a mathematician, science communicator, and advocate for gender and neurodivergence representation in STEM. 
-#   </p><p>
-#   As a fisheries scientist, her job is to figure out how many fish are in the ocean. She develops population models for wild-caught species in Queensland waters. You could say she's a mathemafishian... Her work combines big data, maths, stats and ecology; securing food, jobs and a healthy ocean for our future.
-#   </p><p>
-#   She has a long track record of science communication, like travelling to outback Queensland for STEM outreach, appearing in Vogue magazine and performing science stand-up comedy. Alise has been honoured with a Queensland Women in STEM Prize and is in the current Superstars of STEM cohort.</p>"
-#   thumbnailUrl: alise_fox.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: http://alisefox.com/
-# -
 #   id: 201
 #   name: Sharron
 #   surname: Stapleton
@@ -62,20 +12,6 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://au.linkedin.com/in/sharronstapleton
-# -
-#   id: 203
-#   name: Amanda
-#   surname: Miotto
-#   pronouns: She/Her
-#   company: Griffith
-#   title: eResearch Analyst
-#   bio: "Amanda Miotto is an eResearch Analyst for Griffith University, with 15 years of experience in the industry. She started off in the field of Bioinformatics and learnt to appreciate the beauty of science before discovering the joys of coding. She aims to bring innovations and resources to researchers to help accelerate their research projects."
-#   thumbnailUrl: amanda_miotto.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://amandamiotto.github.io/
 # -
 #   id: 206
 #   name: Robert
@@ -700,6 +636,62 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://chemeng.uq.edu.au/profile/2223/tony-howes
+-
+  id: 101
+  name: Prof. Michael
+  surname: Milford
+  pronouns:
+  company: QUT, Faculty of Engineering, School of Electrical Engineering & Robotics
+  title: 
+  bio: 
+  thumbnailUrl: michael_milford.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 102
+  name: Celise
+  surname: Gibson
+  pronouns: 
+  company: QUT College
+  title: Discipline Lead of Creative Industries
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.celisegibson.com/about
+-
+  id: 103
+  name: Natasha
+  surname: Kitano
+  pronouns: 
+  company: QUT
+  title: Language and Learning Educator
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 104
+  name: Amanda
+  surname: Miotto
+  pronouns: She/Her
+  company: Department of the Environment, Tourism, Science and Innovation
+  title: 
+  bio: 
+  thumbnailUrl: amanda_miotto.png
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://amandamiotto.github.io/
 -
   id: 202
   name: Dr Sam

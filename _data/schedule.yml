@@ -24,7 +24,7 @@
     - {
       startTime: "08:45",
       endTime: "09:15",
-      sessionIds: [000]
+      sessionIds: [101]
     }
     - {
       startTime: "09:15",
@@ -107,7 +107,7 @@
     - {
       startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [000]
+      sessionIds: [102]
     }
     - {
       startTime: "14:30",
@@ -117,7 +117,7 @@
     - {
       startTime: "15:00",
       endTime: "16:30",
-      sessionIds: [000]
+      sessionIds: [103]
     }
 - 
   date: "2026-06-25"
@@ -160,7 +160,7 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [000]
+      sessionIds: [104]
     }
     - {
       startTime: "14:00",
