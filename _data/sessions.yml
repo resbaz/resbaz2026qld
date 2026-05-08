@@ -195,15 +195,7 @@
 # <p>Through collaborative analysis and discussion, we will explore how these walkthroughs can inform the development of 'report cards', a framework for communicating the technical and ethical dimensions of RGAI tools to broader academic and public audiences. Drawing on recent work (Snoswell et al., 2023; Gilbert et al., 2023), we will also consider how these evaluations can support future research into how generative AI is reshaping scholarly communication, authorship, and the academic publishing process.</p>
 
 # <p>By the end of the session, participants will have practical experience in auditing generative AI tools and a deeper understanding of how to critically engage with their integration into academic research and writing.</p>"
-# -
-#   title: "Bridging research and real-world impact: CSIRO's ON Innovation Program"
-#   themes: []
-#   id: 2012
-#   speakers: [244]
-#   subtype: Workshop
-#   service:
-#   hidden: false
-#   description: "The CSIRO ON Innovation Program helps transform cutting-edge research into real-world impact. Designed for research-driven innovation, ON provides entrepreneurial researchers with the skills, networks, and pathways to successfully commercialise their ideas. The program fosters collaboration between researchers, industry, and investors, driving Australia’s deep-tech innovation and strengthening its innovation ecosystem."
+
 # -
 #   title: Maximising Health Research Outcomes with Secondary Clinical Trial Data
 #   themes: []
@@ -650,3 +642,22 @@
 
 # <p>Note, this session is designed to provide general copyright guidance, not legal advice.</p>"
 # -
+
+-
+title: "Speaking industry’s language: how ON helps turn research into real-world value"
+themes: []
+id: 2012
+speakers: [244]
+subtype: Workshop
+service:
+hidden: false
+description: "<p>CSIRO’s ON Innovation Program will host an interactive panel and hands-on workshop showing researchers how to move from “grant-speak” to partnership-ready impact stories that resonate with industry, government and investors.  
+</p><p>
+Unpack the core ingredients for research commercialisation success - clarity, customers, community and impact - and show how these translate into compelling value propositions for non-academic partners.  
+</p><p>
+The panel will explore real-world examples of ON teams who have used customer discovery to identify industry needs, navigate institutional pathways and build collaborations that accelerate translation, from licensing and joint ventures to startups and policy influence.  
+</p><p>
+In the workshop, participants will use practical ON tools (including an Impact & Commercialisation Pathway Canvas and 30/60/90-day impact roadmaps) to reframe their own projects around problems, users and value, then craft concrete next steps towards an industry conversation.   
+</p><p>
+Attendees will leave with a draft impact narrative, clearer language for describing benefits to partners, and a simple action plan to progress at least one potential collaboration opportunity.  
+</p>"
