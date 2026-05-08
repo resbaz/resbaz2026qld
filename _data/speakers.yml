@@ -799,6 +799,34 @@ She is currently developing an experimental writing project exploring how dialog
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 276
+  name: Anthony
+  surname: Truskinger
+  pronouns: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 277
+  name: Philip
+  surname: Eichinski
+  pronouns: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999
