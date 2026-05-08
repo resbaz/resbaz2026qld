@@ -869,6 +869,24 @@ She is currently developing an experimental writing project exploring how dialog
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 281
+  name: Alireza Y.
+  surname: Bavil
+  pronouns: He/Him
+  company: Griffith University
+  title: 
+  bio: "<p>Dr. Alireza Bavil’s areas of expertise include orthopaedic biomechanics, computational modelling, and surgical planning for bone implant systems. Since commencing his PhD at Griffith University, he has developed a highly translational research program focused on patient specific digital twins, neuromusculoskeletal modelling, and finite element analysis for orthopaedic applications. His work bridges clinical insight with advanced biomechanical simulation, with the aim of improving personalised surgical planning for complex procedures such as proximal femoral osteotomies and bone anchored prostheses.
+</p><p>
+His multidisciplinary approach spans the development of EMG informed neuromusculoskeletal models, high fidelity finite element models using Abaqus, and automated pipelines for digital twin generation. This body of work has led to several high impact publications and has been recognised with multiple awards, including the Excellence in Research Thesis award for his PhD.
+</p><p>
+In addition to his academic research, Dr. Bavil is strongly committed to translating biomechanical modelling into clinically relevant tools. In his current role as a Research Fellow at Griffith University, he contributes to NHMRC and US DoD funded projects that integrate mechano-acoustic measurements, kinetic analysis, and computational modelling into next generation socket design, bone anchored implant assessment, and orthopaedic surgical workflows.</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 
 -
