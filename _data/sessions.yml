@@ -644,39 +644,39 @@
 # -
 
 -
-title: "Speaking industry’s language: how ON helps turn research into real-world value"
-themes: []
-id: 2012
-speakers: [244]
-subtype: Workshop
-service:
-hidden: false
-description: "<p>CSIRO’s ON Innovation Program will host an interactive panel and hands-on workshop showing researchers how to move from “grant-speak” to partnership-ready impact stories that resonate with industry, government and investors.  
-</p><p>
-Unpack the core ingredients for research commercialisation success - clarity, customers, community and impact - and show how these translate into compelling value propositions for non-academic partners.  
-</p><p>
-The panel will explore real-world examples of ON teams who have used customer discovery to identify industry needs, navigate institutional pathways and build collaborations that accelerate translation, from licensing and joint ventures to startups and policy influence.  
-</p><p>
-In the workshop, participants will use practical ON tools (including an Impact & Commercialisation Pathway Canvas and 30/60/90-day impact roadmaps) to reframe their own projects around problems, users and value, then craft concrete next steps towards an industry conversation.   
-</p><p>
-Attendees will leave with a draft impact narrative, clearer language for describing benefits to partners, and a simple action plan to progress at least one potential collaboration opportunity.  
-</p>"
+  title: "Speaking industry’s language: how ON helps turn research into real-world value"
+  themes: []
+  id: 2012
+  speakers: [244]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>CSIRO’s ON Innovation Program will host an interactive panel and hands-on workshop showing researchers how to move from “grant-speak” to partnership-ready impact stories that resonate with industry, government and investors.
+  </p><p>
+  Unpack the core ingredients for research commercialisation success - clarity, customers, community and impact - and show how these translate into compelling value propositions for non-academic partners.  
+  </p><p>
+  The panel will explore real-world examples of ON teams who have used customer discovery to identify industry needs, navigate institutional pathways and build collaborations that accelerate translation, from licensing and joint ventures to startups and policy influence.  
+  </p><p>
+  In the workshop, participants will use practical ON tools (including an Impact & Commercialisation Pathway Canvas and 30/60/90-day impact roadmaps) to reframe their own projects around problems, users and value, then craft concrete next steps towards an industry conversation.   
+  </p><p>
+  Attendees will leave with a draft impact narrative, clearer language for describing benefits to partners, and a simple action plan to progress at least one potential collaboration opportunity.  
+  </p>"
 -
-title: "Writing better, 'long-surviving' code as bioscientists"
-themes: []
-id: 2045
-speakers: [271]
-subtype: Workshop
-service:
-hidden: false
-description: "Most research code works… until it doesn’t. In this talk, I’ll walk through shifting from writing one-off scripts to building a real, deployable tool (in the genomics context with Python), and the software engineering principles that should matter for scaling and reusability. It is not a coding tutorial but a practical look at how small decisions in research code shape whether it quietly collapses under its own weight, illustrated with recommended practices and relevant supporting Python packages. It will also touch on publishing research packages for public use, with pip and conda."
+  title: "Writing better, 'long-surviving' code as bioscientists"
+  themes: []
+  id: 2045
+  speakers: [271]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Most research code works… until it doesn’t. In this talk, I’ll walk through shifting from writing one-off scripts to building a real, deployable tool (in the genomics context with Python), and the software engineering principles that should matter for scaling and reusability. It is not a coding tutorial but a practical look at how small decisions in research code shape whether it quietly collapses under its own weight, illustrated with recommended practices and relevant supporting Python packages. It will also touch on publishing research packages for public use, with pip and conda."
 
 -
-title: ""
-themes: []
-id: 2999
-speakers: []
-subtype: Workshop
-service:
-hidden: false
-description: "<p></p><p></p>"
+  title: ""
+  themes: []
+  id: 2999
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
