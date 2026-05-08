@@ -440,20 +440,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://au.linkedin.com/in/jessicachen5
 # -
-#   id: 257
-#   name: Dimanthinie
-#   surname: De Silva
-#   pronouns: 
-#   company: QUT
-#   title: 
-#   bio: "An IT academic for the last 14 years in undergraduate education, now pursuing a PhD at Queensland University of Technology."
-#   thumbnailUrl: dimanthinie_de_silva.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: 
-# -
 #   id: 258
 #   name: Steele
 #   surname: Cooke
@@ -710,6 +696,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/richelle-mcnae
+-
+  id: 257
+  name: Dimanthinie
+  surname: De Silva
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "Dimanthinie is a responsible academic in higher education for Information Technology. She serves as a mentor, supervisor, and student advocate, assisting and directing students from the beginning of their undergraduate studies until graduation. She is now pursuing a PhD in Higher Education at Queensland University of Technology, with a research focus on developing an IT graduate who can adapt to the dynamic needs of an IT industry in terms of professional skills and competencies."
+  thumbnailUrl: dimanthinie_de_silva.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 -
   id: 271
   name: Halimat
