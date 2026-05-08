@@ -772,6 +772,22 @@ The session is relevant to HDR candidates, early career researchers and establis
   service:
   hidden: false
   description: "Understand what an emergent conceptual framework is, identify research contexts and methodological approaches, develop an emergent conceptual framework based on research data, and learn how to write the methodology and discussion chapter."
+-
+  title: "Basic models and big impacts"
+  themes: []
+  id: 2054
+  speakers: [280]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>What's the difference between important and interesting? How can I prove the impact of my project afterward? What's the direct value of this research?
+</p><p>
+Whether you're trying to raise a new project or focus an existing one, the humble spreadsheet can be a persuasive guide. And surprisingly easy to impress people with, since it's a convenient wrapping of some high-school algebra.
+</p><p>
+Post-PhD, I've been working to help get research out of the lab, and into the ocean. I'll discuss how technically-simple spreadsheets have directed research investment, demonstrated impacts at different scales, and reminded us of what matters once research leaves our hands. I'll also discuss the limits of the approach.
+</p><p>
+We'll also build a what-if model, to demonstrate the process in action, and show how the results can highlight the scope for new work ... and what will be difficult to justify.
+</p>"
 
 -
   title: ""

@@ -855,6 +855,20 @@ She is currently developing an experimental writing project exploring how dialog
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 280
+  name: Nicholas
+  surname: Dendle
+  pronouns: Any
+  company: QUT
+  title: 
+  bio: "Nicholas is an operations research specialist, currently working with the Reef Restoration and Adaptation Program's Pilot Deployments Program, to help the Great Barrier Reef survive marine heatwaves. This followed a PhD on discrete-event simulation techniques for reducing waste in open-pit mining. The contrast continues to surprise others who aren't yet familiar with Nicholas' pursuit of answering the useful questions rather than the easy ones."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 
 -
