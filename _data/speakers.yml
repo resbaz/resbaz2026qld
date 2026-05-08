@@ -567,20 +567,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://orcid.org/0000-0001-6933-1025
 # -
-#   id: 266
-#   name: Dr Moji
-#   surname: Ghadimi
-#   pronouns: 
-#   company: QCIF
-#   title: Head of Applied AI and Quantum Algorithms
-#   bio:
-#   thumbnailUrl: moji_ghadimi.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/moji-ghadimi
-# -
 #   id: 267
 #   name: Dr Abigail
 #   surname: Koay
@@ -738,6 +724,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 266
+  name: Dr Moji
+  surname: Ghadimi
+  pronouns: 
+  company: QCIF
+  title: Head of Applied AI and Quantum Algorithms
+  bio:
+  thumbnailUrl: moji_ghadimi.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/moji-ghadimi
 -
   id: 272
   name: Fang (Jane)

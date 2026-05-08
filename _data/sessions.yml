@@ -720,6 +720,26 @@ The workshop also introduces a broader philosophical perspective on learning bey
   service:
   hidden: false
   description: "This workshop introduces software designed for long-form academic writing and its capacity to organise thoughts, structure chapters, and support conceptual thinking. Scrivener and freeware alternatives function as project-based systems in which entire manuscripts reside within a single hierarchised file. Unlike Word's document-centric approach, these platforms integrate structure and content management, enabling researchers to store drafts, references, and notes in a cohesive manner, and experiment with restructuring sections and chapters with ease. This privileges concept-centric networks and developmental thinking over sequential structures and the pressure to produce polished writing immediately. Participants will learn how these platforms enable 'writing for thinking' rather than 'writing up', facilitating thematic connections and reducing the chaos of multiple open documents during thesis or manuscript development."
+-
+  title: "Practical LLMs for research: From concepts to workflows"
+  themes: []
+  id: 2050
+  speakers: [266]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This interactive session introduces researchers to practical uses of large language models (LLMs) across the research lifecycle. It combines conceptual understanding with hands-on demonstrations of real workflows.
+</p><p>
+Participants will:
+</p>
+<ul>
+<li>Understand how LLMs work at a high level and their limitations</li>
+<li>Learn effective prompting strategies and reasoning techniques</li>
+<li>Explore literature review workflows using LLMs</li>
+<li>Use LLMs for coding, data analysis, and research automation</li>
+<li>Discuss reliability, ethics, and responsible use in research</li>
+</ul>
+<p>The session is designed to be accessible across disciplines, with examples from scientific and data-driven research.</p>"
 
 -
   title: ""
