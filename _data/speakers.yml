@@ -1,18 +1,4 @@
 # -
-#   id: 206
-#   name: Robert
-#   surname: Fleet
-#   pronouns: He/Him
-#   company: QUT Digital Observatory
-#   title: Senior Data Scientist
-#   bio: "Robert Fleet is a Senior Data Scientist/Developer at Queensland University of Technology's Research Infrastructure, where he specialises in AI implementation for research and social network analysis. He is also an Affiliate of the QUT node of the ARC Centre of Excellence for Automated Decision Making and Society, and a certified Carpentries Instructor."
-#   thumbnailUrl: robert_fleet.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social:
-# -
 #   id: 211
 #   name: Dr Emily
 #   surname: Kahl
@@ -309,20 +295,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.admscentre.org.au/dr-bogdan-mamaev/
 # -
-#   id: 249
-#   name: Dr Simon
-#   surname: Musgrave
-#   pronouns: He/Him
-#   company: LDaCA / Monash
-#   title: 
-#   bio: "Simon Musgrave is Research Support and Training lead for the Language Data Commons of Australia project at The University of Queensland and an Adjunct Research Fellow in the School of Languages, Literatures, Cultures and Linguistics, Monash University. Amongst other research interests, he has been interested throughout his career in the  use of technology for linguistic research."
-#   thumbnailUrl: simon_musgrave.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave
-# -
 #   id: 250
 #   name: Dr Delaney
 #   surname: Burnard
@@ -482,20 +454,6 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.usc.edu.au/staff/dr-karen-sutherland
-# -
-#   id: 262
-#   name: Cameron
-#   surname: Rutter
-#   pronouns: He/Him
-#   company: QUT
-#   title: University Copyright Officer
-#   bio: "Cameron Rutter (he/him) is a Creative Practitioner, Information Professional and Librarian with over fifteen years' experience working in academic libraries. He is currently the University Copyright Officer at Queensland University of Technology."
-#   thumbnailUrl: cameron_rutter.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.library.qut.edu.au/about/contact/staff/c_rutter.jsp
 # -
 #   id: 263
 #   name: Siobhann  
@@ -679,6 +637,34 @@
     - {abbr: "", title: "", url: ""}
   social: https://about.uq.edu.au/experts/35549
 -
+  id: 206
+  name: Robert
+  surname: Fleet
+  pronouns: He/Him
+  company: QUT Digital Observatory
+  title: Senior Data Scientist
+  bio: "Robert Fleet is a Senior Data Scientist and Developer at the QUT Digital Observatory, where he designs innovative platforms and tools to analyse complex human data. With a diverse technical background, Robert has previously served as an eResearch Analyst and as the Technical Lead for a drone surveillance project. His current research focuses on the intersection of behavioural data and digital environments, specifically utilising Massive Multiplayer Online (MMO) game data. By examining these virtual ecosystems, Robert investigates the organisational structures of criminal groups, leveraging gaming metrics to uncover patterns of illicit collaboration. He combines advanced data science with software development to transform raw digital traces into actionable insights."
+  thumbnailUrl: robert_fleet.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 249
+  name: Dr Simon
+  surname: Musgrave
+  pronouns: He/Him
+  company: LDaCA / Monash University
+  title: 
+  bio: "Simon Musgrave is Research Support and Training lead for the Language Data Commons of Australia project at The University of Queensland and an Adjunct Research Fellow in the School of Languages, Literatures, Cultures and Linguistics, Monash University. Amongst other research interests, he has been interested throughout his career in the use of technology for linguistic research."
+  thumbnailUrl: simon_musgrave.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave
+-
   id: 244
   name: Richelle
   surname: Wight
@@ -724,6 +710,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 262
+  name: Cameron
+  surname: Rutter
+  pronouns: He/Him
+  company: QUT
+  title: University Copyright Officer
+  bio: "Cameron Rutter is a Creative Practitioner, Information Professional and Librarian with over fifteen years' experience working in academic libraries. He is currently the University Copyright Officer at Queensland University of Technology (QUT)."
+  thumbnailUrl: cameron_rutter.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.library.qut.edu.au/about/contact/staff/c_rutter.jsp
 -
   id: 266
   name: Dr Moji
@@ -915,6 +915,104 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/kylieburgess
+-
+  id: 284
+  name: Rani
+  surname: McLennan
+  pronouns: She/Her
+  company: QUT
+  title: Copyright Information Officer
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 285
+  name: Rafael
+  surname: Couto
+  pronouns: He/Him
+  company: Griffith University
+  title: Senior eResearch Analyst
+  bio: "Rafael Couto is a Senior eResearch Analyst at Griffith University. With a PhD in Theoretical Chemistry from the Royal Institute of Technology (KTH), Sweden, and several years of post-doctoral experience, Rafael brings a wealth of knowledge to the table. They have extensive expertise in teaching, software development, data analysis, high-performance computing (HPC), and programming in Python, C, and Bash. Currently, Rafael focuses on supporting researchers with IT, data management, and training needs."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 286
+  name: Anjusree
+  surname: Karnavar
+  pronouns: She/Her
+  company: Griffith University
+  title: 
+  bio: "<p>Anjusree is a Doctoral Researcher at Griffith University, focusing on Computer Vision, Image Restoration, and Deep Learning. Her research develops advanced deep learning and generative AI methods, including diffusion models and Vision Transformers, to restore and enhance degraded visual data for more reliable vision-based systems.Alongside her PhD, she holds a Master of Technology (by Research) in Computer Science and Engineering from Kerala University, India, where she published research in computer vision at national and international conferences. She brings over six years of professional experience across academia and industry. She has worked as an IT Support Officer at Migrant and Refugee Settlement Services (MARSS), Canberra, where she supported IT systems, user training, and technical operations. Prior to that, she spent six years as an Assistant Professor in Computer Science, contributing to teaching, mentoring, and research supervision. She is passionate about applying computer vision and AI to real-world problems, particularly in image understanding, restoration, and generative modeling. She is currently open to opportunities in Computer Vision, Machine Learning, and AI roles in industry and research."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 287
+  name: Dr Robert
+  surname: Clemens
+  pronouns: 
+  company: 
+  title: 
+  bio: "An ecologist with experience in ornithology and spatial modelling, Rob identifies skills gaps, formulates skills strategies and co-designs skills-related resources, so that the data and analytics delivered through the ARDC Planet Research Data Commons can be used to their full potential by earth and environmental science researchers."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 288
+  name: Cameron
+  surname: West
+  pronouns: He/Him
+  company: UQ
+  title: 
+  bio: "Cameron is a technology trainer for UQ library and PhD student in atomic physics. He regularly runs Python training and consultations for researchers at the university, and uses the language in the computational aspects of his research (along with C++), which involves performing atomic structure calculations for exotic systems and interactions."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 289
+  name: Salinda
+  surname: Weerasinghe
+  pronouns: 
+  company: QUT
+  title: 
+  bio: "<p>I am a PhD student at QUT and a researcher committed to enhancing societal well-being by fostering collaboration between organisations and consumers to address their challenges. My research has been recognised at both national and international levels, earning me prestigious awards such as the Presidential Research Award, Emerald Literati Award, University Excellence Research Award, Vice Chancellor Research Award, and Faculty Excellence Research Award within a relatively short period of my academic career. My findings have been published in esteemed journals, including the Journal of Knowledge Management, Knowledge and Innovation, International Journal of Education Management, Industry and Higher Education, and Quality Assurance in Education."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 290
+  name: Dr Zachary
+  surname: Amir
+  pronouns: She/Her
+  company: TERN / UQ
+  title: Principal Data Scientist
+  bio: "Zachary Amir is a Principal Data Scientist working for TERN to develop the Wildlife Observatory of Australia (WildObs). Zachary's particular focus is on developing the WildObs database, a large standardized collection of camera trapping observations, deployments, and media that is accessible to researchers and biodiversity data aggregators. Zachary completed his PhD at UQ in 2024, having worked across the lifecycle of camera-trapping data, from fieldwork to research publications."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999

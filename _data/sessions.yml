@@ -822,8 +822,138 @@ On completion of this hands-on workshop, participants will be familiar with:
 <li>appropriate visualisation models for a dataset</li>
 <li>visualisation tools and steps for tabular data</li>
 <li>methods to save a visualisation to a publication quality file format.</li>
-<li></li>
 </ul>"
+-
+  title: "Demystifying AI for research (V2): Introductory level class for AI beginners"
+  themes: []
+  id: 2058
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "An update to the original Demystifying AI for Research presented in 2023. This presentation covers the topic of how AI is involved in Research and is an introductory level class for AI beginners. The presentation talks about what AI is and what AI isn't. Covers the common ways researchers can interact with AI and ends by talking about what is going to happen in the future and just how fast AI is developing. It acts as an introduction to the ideas of AI for Research and the more practical follow-up Beginner level workshop."
+-
+  title: "From a mess to a map"
+  themes: []
+  id: 2059
+  speakers: [202,249]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop will look at the problems which might be encountered turning messy text data into the very structured data needed for many kinds of computational analysis. As an example, we will start with data collected in an online survey about Australian slang and end with maps showing the comparative distribution of some slang terms across the country. We will look at parts of the workflow where computational approaches are useful (e.g. normalising typography and parsing complex responses), but will also emphasise the decisions which remain the responsibility of the researcher (e.g. categorising responses)."
+-
+  title: "Copyright made practical"
+  themes: []
+  id: 2060
+  speakers: [284,262]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This interactive 1.5‑hour workshop helps researchers build confidence in navigating copyright across the research lifecycle. After a short overview of key copyright principles and why they matter, we work through real‑world scenarios - reusing figures, sharing datasets, including images in theses and other publications, and republishing your own work. Researchers will learn how to assess rights, identify risks, and make informed decisions. The session concludes with a live Q&A where participants can explore their own copyright questions."
+-
+  title: "Making the most of your qualitative transcripts with a little bit of computing"
+  themes: []
+  id: 2061
+  speakers: [202]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Qualitative research projects sometimes get away from us and we find that we have more material than we know what to do with. This workshop aims to give you a pathway for navigating 'too much' with a little bit of computational assistance and *without* giving up on the core qualitative foundation of of your work.
+</p><p>
+We'll work through a case study and some demonstration tools to help you:
+</p>
+<ul>
+<li>Make the most of your transcripts by identifying consistency issues that will confuse a computer (and maybe your collaborators)</li>
+<li>Work through marking up some transcripts in a more consistent format</li>
+<li>Demonstrate some possibilities for computers to help you search and find things</li>
+<li>Demonstrate computational methods that might help you address the 'big picture' or what you might be missing, while still being able to close read your transcripts</li>
+</ul>"
+-
+  title: "AI-assisted programming: No autopilot required"
+  themes: []
+  id: 2062
+  speakers: [285]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "AI tools can accelerate coding, but blind trust creates fragile and insecure workflows. This workshop introduces a human in the loop approach to AI assisted programming, focusing on how to work directly with AI outputs while keeping full control of the code. It covers key principles, limitations, and guardrails for responsible use, followed by practical, example driven use of AI for code generation, refactoring, explanation, and testing in real workflows. Designed for researchers who want AI assistance rather than an autopilot."
+-
+  title: "OmniRestore: Robust universal image restoration from combined and unspecified degradations"
+  themes: []
+  id: 2063
+  speakers: [286]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "A novel restoration framework for removing combined and unspecified combinations of degradations present in an image"
+-
+  title: "Accelerate your research with cloud computing on the ARDC Nectar Research Cloud"
+  themes: []
+  id: 2064
+  speakers: [287]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
+-
+  title: "Python behind-the-scenes: What data scientists should know"
+  themes: []
+  id: 2065
+  speakers: [288]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Data scientists rely on Python's numpy, scipy, pandas and matplotlib libraries for most of their analysis. Why is this? Do you know the Python code these packages use?
+</p><p>
+In this workshop we'll dive into the Python code behind common data science tools, focusing on features often missed during data-oriented tutorials, to bridge the gap between Python for programmers and Python for data scientists.
+</p><p>
+We'll look at questions like:
+</p><p>
+<ul>
+<li>'When should I loop?'</li>
+<li>'Why can't I use Python's built-in data types?'</li>
+<li>'What really *is* a Dataframe?'</li>
+</ul>"
+-
+  title: "Dyadic Data Analysis Using R"
+  themes: []
+  id: 2066
+  speakers: [289]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This hands-on workshop introduces dyadic data analysis using R, focusing on data collected from interdependent pairs (e.g., partners, students–teachers, supervisors–employees). Participants will learn the logic of dyadic data, key assumptions, and how to apply appropriate statistical models in R through practical examples.
+<p></p>
+By the end of the workshop, participants will be able to identify dyadic data structures and conduct a basic dyadic data analysis using R.</p>
+"
+-
+  title: "Introduction to computational text analytics"
+  themes: []
+  id: 2067
+  speakers: [202]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
+-
+  title: "The research orchestrator: Building multi-tool agentic workflows for research"
+  themes: []
+  id: 2068
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This interactive workshop offers a beginner level explanation of agentic workflows for research. This workshop covers the change in approaches to using AI for research from simple prompt-based linear chats to more flexible and capable agentic workflows. Rather than providing a complex multi-step prompt researchers can build focused AI-powered tools to accomplish specific tasks in a process while still maintaining control over the entire process. The workshop also demonstrates how these tools can be orchestrated by a supervising AI to allow for even more flexibility and power. The workshop contains a demonstration and audience-based exercises designed to get researchers to think about how these agents can be used in their research. Finally we talk about the future of what agentic workflows tools might be and discuss the current limitations of agents found in the foundation models."
+-
+  title: "Using the WildObs image platform"
+  themes: []
+  id: 2069
+  speakers: [290]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop introduces the WildObs Image Platform and demonstrates how it can streamline camera trap data processing. Participants will learn the step-by-step workflow for uploading camera trap images, running automated species classification using AI models, and verifying results through the platform’s human-in-the-loop review system. We will also show how processed datasets can be downloaded and used for further ecological analysis and reporting."
+
 -
   title: ""
   themes: []
