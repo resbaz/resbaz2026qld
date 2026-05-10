@@ -953,6 +953,99 @@ By the end of the workshop, participants will be able to identify dyadic data st
   service:
   hidden: false
   description: "This workshop introduces the WildObs Image Platform and demonstrates how it can streamline camera trap data processing. Participants will learn the step-by-step workflow for uploading camera trap images, running automated species classification using AI models, and verifying results through the platform’s human-in-the-loop review system. We will also show how processed datasets can be downloaded and used for further ecological analysis and reporting."
+-
+  title: "What makes a “Good” plot good? - Designing effective data visualisations"
+  themes: []
+  id: 2070
+  speakers: [291]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "In an era of rapidly increasing data volume and accessibility, the ability to design effective data visualisations is a critical research skill. In this workshop we will explore what makes a “good” plot good through a focus on the philosophy, physiology, and narrative storytelling role of visualisation, rather than on specific tools or software. Drawing on principles of human perception, cognition, and scientific storytelling, the session discusses how design choices shape what readers actually see and understand. This workshop aims to provide participants with a transferable understanding of design principles for creating visualisations that distil complex information into clear, meaningful, and persuasive research narratives."
+-
+  title: "Harness the power of your ORCID"
+  themes: []
+  id: 2071
+  speakers: [292]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This practical session will walk you through the essentials of curating your ORCID profile to streamline future ARC and NHMRC grant applications and otherwise captialise on your ORCID."
+-
+  title: "Thematic analysis using Obsidian"
+  themes: []
+  id: 2072
+  speakers: [293]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Thematic analysis has become a popular method in the humanities and other disciplines. However, the process of extracting codes and developing themes can be confusing, tedious and time consuming. The markup and notation tool Obsidian makes thematic coding much faster and more useful. This workshop shows how to set up your Obsidian workspace for thematic analysis, including creating the relevant bases and templates. It then goes through the process of coding a short piece of text to illustrate a suggested way to record text codes and themes."
+-
+  title: "Deploying a self-hosted RAG AI Mentor on ARDC Nectar"
+  themes: []
+  id: 2073
+  speakers: [287]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Want to build an AI assistant that guides learning rather than just handing out answers? This 1-hour demo walks through deploying a secure, Retrieval-Augmented Generation (RAG) chatbot using Dify on the ARDC Nectar Research Cloud.
+</p><p>
+Using an Information Data Spaces (IDSA) learning mentor as our practical use-case, we will demystify the end-to-end pipeline:
+</p><p>
+<ul>
+<li>Structuring raw documentation for optimal AI retrieval.</li>
+<li>Provisioning open-source hosting and deploying Dify.</li>
+<li>Leveraging Google IDE tools to streamline configuration.</li>
+<li>Crafting 'state-machine' system prompts that prioritise guided learning.</li>
+<li>Evaluating RAG outputs to prevent hallucinations.</li>
+<li>Launching your application and API.</li>
+</ul>
+<p>
+Finally, we will explore registering any future RAG training chatbot you develop on DReSA (dresa.org.au), Australia’s national registry for training events and materials, to ensure your tool reaches a nationwide audience.
+</p>"
+-
+  title: "Research smarter with GenAI and digital tools at eGrad School"
+  themes: []
+  id: 2074
+  speakers: [294,295]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Artificial Intelligence is rapidly reshaping research practice, yet many researchers remain unsure where to begin, how to use AI responsibly, or how to meaningfully integrate it into their existing workflows.
+</p><p>
+This presentation introduces practical, research-focused uses of generative AI tools that can support HDR students, early career researchers, and supervisors across disciplines. Participants will explore how GenAI can assist with literature review, research planning, writing support, coding, data analysis, and research communication with a strong emphasis on ethical and transparent use.
+</p><p>
+The session will also showcase the eGrad School platform, which offers open-access digital modules designed to strengthen researchers’ AI literacy, digital capability, and professional skills. Together, these tools and resources aim to empower researchers to work smarter, more efficiently, and with integrity in an evolving digital research landscape.</p>"
+-
+  title: "Cinematic thinking in real-time visual storytelling"
+  themes: []
+  id: 2075
+  speakers: [296]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This session explores how cinematic thinking and real-time visualisation practices are applied in contemporary creative industries to communicate ideas, narratives, and complex information. Drawing from professional experience in virtual production and real-time cinematic workflows, the session provides insight into how visual storytelling is designed, constructed, and communicated in practice.
+</p><p>
+The session presents industry case studies and visual breakdowns of real-world projects to demonstrate how cinematic language is translated into real-time environments. Key areas of focus include framing, lighting, camera movement, composition, and narrative design within immersive and screen-based contexts.
+</p><p>
+Participants will also engage in guided discussion activities that explore how these approaches can inform research communication and interdisciplinary creative practice. The session is designed to be accessible to a broad audience and does not require prior technical experience.
+</p>"
+-
+  title: "Managing Python environments and installations: Bring your problems"
+  themes: []
+  id: 2076
+  speakers: [288]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Python can be surprisingly difficult to set up well, partly because there are so many options. We'll cover some of the differences, pros and cons, and have some time to troubleshoot issues that you might be encountering.
+</p><p>
+We'll cover questions like,
+</p></ul>
+<li>'Should I use Anaconda?'</li>
+<li>'What is a virtual environment?'</li>
+<li>'Please help me: Python is not a recognised command, cmdlet etc.!!!'</li>
+</ul>"
 
 -
   title: ""

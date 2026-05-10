@@ -961,8 +961,8 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   id: 287
   name: Dr Robert
   surname: Clemens
-  pronouns: 
-  company: 
+  pronouns: He/Him
+  company: ARDC
   title: 
   bio: "An ecologist with experience in ornithology and spatial modelling, Rob identifies skills gaps, formulates skills strategies and co-designs skills-related resources, so that the data and analytics delivered through the ARDC Planet Research Data Commons can be used to their full potential by earth and environmental science researchers."
   thumbnailUrl: 
@@ -1007,6 +1007,105 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   company: TERN / UQ
   title: Principal Data Scientist
   bio: "Zachary Amir is a Principal Data Scientist working for TERN to develop the Wildlife Observatory of Australia (WildObs). Zachary's particular focus is on developing the WildObs database, a large standardized collection of camera trapping observations, deployments, and media that is accessible to researchers and biodiversity data aggregators. Zachary completed his PhD at UQ in 2024, having worked across the lifecycle of camera-trapping data, from fieldwork to research publications."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 291
+  name: Dr Jesse
+  surname: Sharp
+  pronouns: 
+  company: QUT
+  title: Postdoctoral Fellow
+  bio: "Dr Jesse Sharp is a Postdoctoral Fellow in the School of Mathematical Sciences at QUT, and co-leads the Environment, Agriculture & Natural Systems theme at the QUT Centre for Data Science. His research sits at the intersection of mathematical modelling, data science and statistics, applied to industry based projects in ecology and agriculture. In shaping this session, Jesse draws on a breadth of experience spanning his research activities, his lecturing in data visualisation at QUT, and his earlier work as an economist at Deloitte."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 292
+  name: Cheri
+  surname: Joy
+  pronouns: She/Her
+  company: UniSC
+  title: 
+  bio: "Cheri has been working in academic libraries since 2009 and is UniSC ORCID Health Check expert."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 293
+  name: Yuri
+  surname: Banens
+  pronouns: He/Him
+  company: Griffith University
+  title: 
+  bio: "Yuri Banens is a PhD candidate in law focusing on the right to repair. He has previously worked for Griffith Library in the digital research space."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 294
+  name: Aleksandra
+  surname: Olechnowicz
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "<p>Aleksandra Olechnowicz is the eGrad School Online Module Coordinator within the Graduate Research Education Development team at Queensland University of Technology (QUT). She leads the design and delivery of digital and professional capability modules for HDR students and researchers across Australia and internationally.
+</p><p>
+Her work focuses on digital research skills, ethical AI use, research communication, and accessible online research training. She coordinates the annual eGrad School Global Conference and collaborates with national and international partners to enhance researcher development.
+</p><p>
+Aleksandra is passionate about practical, accessible AI literacy that empowers researchers to work smarter — without compromising research integrity.</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 295
+  name: Murray
+  surname: Lane
+  pronouns: 
+  company: QUT
+  title: 
+  bio: "<p>Murray Lane is a Senior lecturer and Learning Designer within Graduate Research Education Development team at Queensland University of Technology (QUT). He is a research development and digital innovation specialist with extensive experience supporting researchers and research students across disciplines. His work focuses on strengthening digital capability, improving research practices, and enhancing engagement through technology-enabled learning environments.
+</p><p>
+Murray has contributed to the design and delivery of research training initiatives that empower HDR students and early career researchers to improve their research skills and digital research practices. His interests include applications of AI in research contexts, research communication, and practical strategies that improve productivity while maintaining research integrity.
+</p><p>
+He is passionate about making digital tools accessible, practical, and meaningful for researchers at all stages of their careers.</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 296
+  name: Dimitri
+  surname: Josephine
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "<p>Dimitri Josephine is a Creative Technologist and Virtual Production pioneer in Southeast Asia, specialising in real-time visual storytelling using Unreal Engine. She is the first Unreal Engine Authorized Instructor in Indonesia and among the first in Southeast Asia focused on virtual production.
+</p><p>
+She is also recognised as the first Virtual Art Director in the region, bridging cinematic direction, spatial design, and real-time technology to redefine immersive storytelling workflows.
+</p><p>
+With over 80 industry projects across commercials, music videos, film, television, and immersive experiences, Dimitri has played a key role in shaping virtual production practices in Southeast Asia. She is a Women in Games Ambassador, Women in Tech Ambassador, and currently leads the Unreal Engine Indonesian chapter. She was also recognised as part of the 100 Women Creators in Asia for her work in UEFN development.
+</p><p>
+She is currently pursuing a PhD in Creative Arts at Queensland University of Technology (QUT), focusing on real-time technologies and creative practice research.
+</p>"
   thumbnailUrl: 
   rockstar: false
   ribbon:
