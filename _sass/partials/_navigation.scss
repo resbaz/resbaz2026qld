@@ -23,6 +23,31 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transition: $base-transition;
     }
 }
+.top-header.solid-header {
+  padding-top: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+
+  .overlay {
+    opacity: 1;
+  }
+
+  nav li a {
+    color: $nav-scroll-color;
+  }
+
+  nav li a.current,
+  nav li a:hover {
+    color: $nav-scroll-color-hover;
+  }
+
+  .icon-menu {
+    fill: #464646;
+  }
+
+  .logo-header {
+    transform: translateY(1px);
+  }
+}
 .logo-header {
     display: block;
     transform: translateY(20px);

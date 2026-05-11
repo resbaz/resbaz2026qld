@@ -2,8 +2,9 @@
 layout: post
 title: Research Bazaar Policies and Code of Conduct
 permalink: /cod/
-image: stones.jpg
+image: stones.avif
 isStaticPost: true
+solidHeader: true
 ---
 ##### Research Bazaar Policies and Code of Conduct
 *Coming to ResBaz? Please read our policies (recording, reporting and anti-harassment) and Code of Conduct. We’re really serious about making sure that everyone feels safe and has a good time at all our events!*
@@ -70,4 +71,4 @@ Anti-harassment officers will be happy to help attendees contact police or crisi
 
 We value your attendance. We expect participants to follow these rules at the Research Bazaar venue, any related social events, and online forums.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/stones.avif" style="display:none">
