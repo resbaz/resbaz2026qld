@@ -748,7 +748,7 @@ Participants will:
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>Passive Acoustic Monitoring (PAM) is revolutionizing how we study biodiversity, allowing us to listen to ecosystems at scales previously impossible. However, the sheer volume of audio data can be overwhelming. This hands-on workshop introduces Open Ecoacoustics, Australia's national infrastructure for managing and analysing environmental sound.</p><p>We will navigate the transition from deploying a sensor in the field to generating actionable conservation insights. Participants will receive a guided tour of Ecosounds and the A20 desktop tool, learning how to securely upload massive datasets and leverage cutting-edge AI. We’ll explore how tools like Google's Perch & BirdNet AI foundation models allow researchers to build species recognizers that scan thousands of hours of audio in minutes. Finally, we’ll discuss how to translate these acoustic detections into robust reports and downstream spatial models to inform policy and habitat management.</p>"
 -
   title: "Relationship competencies for industry‑engaged research"
   themes: []
