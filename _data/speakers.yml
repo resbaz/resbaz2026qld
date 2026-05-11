@@ -328,20 +328,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://au.linkedin.com/in/marklcrowe
 # -
-#   id: 253
-#   name: Dr Lachlan
-#   surname: McKinnie
-#   pronouns: He/Him
-#   company: UniSC
-#   title: 
-#   bio: "I am a recent PhD graduate in bioinformatics from the University of the Sunshine Coast. My research focused on investigating the molecular biosynthesis pathways of red algae, and utilised large-scale genomics analysis. I am a skilled data scientist and Python coder, which I use for data analytics, program automation, and web development."
-#   thumbnailUrl: lachlan_mckinnie.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/lachlan-mckinnie-915a4a50
-# -
 #   id: 254
 #   name: Dr Ashar
 #   surname: Malik
@@ -682,6 +668,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.admscentre.org.au/dr-bogdan-mamaev/
+-
+  id: 253
+  name: Dr Lachlan
+  surname: McKinnie
+  pronouns: He/Him
+  company: UniSC
+  title: eResearch Analyst
+  bio: "I'm Dr Lachlan McKinnie, (acting) eResearch Analyst at UniSC and an early career researcher with a background in bioinformatics and molecular biology. I'm a skilled coder in Python and R and have a passion for open science and in skills sharing."
+  thumbnailUrl: lachlan_mckinnie.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/lachlan-mckinnie-915a4a50
 -
   id: 257
   name: Dimanthinie

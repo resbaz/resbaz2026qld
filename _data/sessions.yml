@@ -1075,6 +1075,29 @@ We'll cover questions like,
   service:
   hidden: false
   description: "Participants will be introduced to the effective use of gen AI tools for conducting literature reviews, as well as navigating ethical considerations in their application."
+-
+  title: "Advanced Excel and spreadsheeting for research data"
+  themes: []
+  id: 2079
+  speakers: [253]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This workshop will demonstrate best practices in using Microsoft Excel for research, as well as advanced functions and capabilities.
+</p><p>
+The content covered by this workshop will include:
+</p>
+<ul>
+<li>Best practices for laying out data in spreadsheets</li>
+<li>Formatting cells and data</li>
+<li>Conditional formatting</li>
+<li>Data exports and file formats</li>
+<li>Advanced functions including xlookup, concatenate, and more</li>
+<li>Tables and pivot tables</li>
+<li>Identifying and removing duplicate cells</li>
+<li>Advanced searching and filtering</li>
+<li>Quality of life features</li>
+</ul>"
 
 -
   title: ""
