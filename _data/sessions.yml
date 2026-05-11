@@ -1046,6 +1046,26 @@ We'll cover questions like,
 <li>'What is a virtual environment?'</li>
 <li>'Please help me: Python is not a recognised command, cmdlet etc.!!!'</li>
 </ul>"
+-
+  title: "Data donations using data download packages"
+  themes: []
+  id: 2077
+  speakers: [248]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>In this session, the participants will learn about a new ethical framework to collect data from social media platforms (Instagram, YouTube, ChatGPT) using data download packages (DDPs) for social science research. I will introduce:</p>
+<ul>
+<li>What DDPs contain and what kind of research questions they can help us answer.</li>
+<li>How to make sure data is handled properly.</li>
+<li>How to enrol respondents and manage their data.</li>
+</ul>
+<p>By the end of the session, the participants will be able to:</p>
+<ul>
+<li>Choose the right platform for their research based on the research question.</li>
+<li>Explore DDPs.</li>
+<li>Create data donation projects and enrol participants.</li>
+</ul>"
 
 -
   title: ""

@@ -281,20 +281,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: 
 # -
-#   id: 248
-#   name: Dr Bogdan
-#   surname: Mamaev
-#   pronouns: 
-#   company: Australian Internet Observatory
-#   title: Research Training Manager
-#   bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory (AIO). Having utilised a variety of digital methods in his research and in collaborations within political science and communications, he is dedicated to empowering researchers to use these approaches to enhance research outcomes and design more efficient methodologies for data collection and exploration."
-#   thumbnailUrl: bogdan_manaev.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.admscentre.org.au/dr-bogdan-mamaev/
-# -
 #   id: 250
 #   name: Dr Delaney
 #   surname: Burnard
@@ -683,6 +669,20 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/richelle-mcnae
 -
+  id: 248
+  name: Dr Bogdan
+  surname: Mamaev
+  pronouns: He/Him
+  company: Australian Internet Observatory
+  title: Research Training Manager
+  bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory. Specialising in digital methods for data collection, he researches how citizens participate in politics across different contexts, and explores how we can utilise the latest, cutting-edge technologies to understand our societies better."
+  thumbnailUrl: bogdan_manaev.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.admscentre.org.au/dr-bogdan-mamaev/
+-
   id: 257
   name: Dimanthinie
   surname: De Silva
@@ -871,7 +871,7 @@ She is currently developing an experimental writing project exploring how dialog
   social: 
 -
   id: 281
-  name: Alireza Y.
+  name: Dr Alireza Y.
   surname: Bavil
   pronouns: He/Him
   company: Griffith University
