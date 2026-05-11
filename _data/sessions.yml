@@ -1098,6 +1098,42 @@ The content covered by this workshop will include:
 <li>Advanced searching and filtering</li>
 <li>Quality of life features</li>
 </ul>"
+-
+  title: "Editing with Gen AI: Dos and don'ts"
+  themes: []
+  id: 2080
+  speakers: [238]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Exploring Gen AI use for editing and proofreading, issues, concerns, and ensuring you maintain your authorial voice."
+-
+  title: "How do we work together? Neurodivergence in the research student-supervisor relationship"
+  themes: []
+  id: 2081
+  speakers: [298,299,300]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "In this session, participants will learn about neurodivergence and research. Topics will include disability standards in education, reasonable adjustments, and the relational approach to supervision – including how to work well with their supervisors. This will be supported through scenario-based content and practical activities. Participants will leave the session with a completed checklist and reflection detailing how they work best, which they can then apply in conversations with their research supervisors."
+-
+  title: "AI as your coding assistant: Running NCBI BLAST on Linux without being a programmer"
+  themes: []
+  id: 2082
+  speakers: [301]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
+-
+  title: "Data driven endurance sports research: A workshop in R"
+  themes: []
+  id: 2083
+  speakers: [302]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "We are going deep into analysis of GPS data for athlete performance modelling. We will work with Trail Running data, but analysis methods are transfereable to a wide array of disciplines."
 
 -
   title: ""

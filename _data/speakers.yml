@@ -155,20 +155,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.qcif.edu.au/qcif-people/ryan-newis
 # -
-#   id: 238
-#   name: Dr Sara
-#   surname: Hutchinson
-#   pronouns: She/Her
-#   company: UniSC
-#   title: 
-#   bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
-#   thumbnailUrl: sara_hutchinson.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
-# -
 #   id: 239
 #   name: Siddeswara
 #   surname: Guru
@@ -622,6 +608,20 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
+-
+  id: 238
+  name: Dr Sara
+  surname: Hutchinson
+  pronouns: She/Her
+  company: UniSC
+  title: 
+  bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
+  thumbnailUrl: sara_hutchinson.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
 -
   id: 249
   name: Dr Simon
@@ -1123,6 +1123,86 @@ She is currently pursuing a PhD in Creative Arts at Queensland University of Tec
 </p><p>
 Before joining Griffith University, Amanda held roles at the University of Queensland, James Cook University, and the Herston Medical Library, building deep expertise across clinical and research‑intensive environments. She is a committed advocate for Open Research and Responsible Research Assessment, and is passionate about empowering researchers to strengthen their information literacy and research impact.
 </p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 298
+  name: Dr Abbe
+  surname: Winter
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "Dr Abbe Winter (SFHEA) is a results-driven writing wellbeing specialist, collaborative mentor, and independent researcher, skilled in the analysis of words and data for user needs. Abbe is a researcher trainer, leader, and mentor, with over 20 years’ experience in quality assurance, and change and project management. While her PhD focused on what helps workers in higher education cope with large-scale organisational change, and she was part of the small team that created and developed the concept of academagogy (the scholarly leadership of learning), her more recent research has focussed upon professional identity, developing writing skills, and reflective practice."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 299
+  name: Jillian 
+  surname: Blacker
+  pronouns: 
+  company: 
+  title: 
+  bio: "Jill Blacker is an innovative administrative manager with over 15 years’ experience in the higher education sector working across many different areas including action research projects focused on the widening participation agenda. She has extensive experience providing support to researchers, supervisors, and academic leaders on all aspects of higher degree research; and has a proven track record of resolving complex cases to ensure mutually agreeable outcomes. She is a confident mentor and coach and has been drawn to learning about mental health practices and strategies to provide support to researchers and supervisors. Building relationships and working collaboratively and creatively is a key component of her professional practice. She is a Fellow of Advance HE."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 300
+  name: Amy
+  surname: Webster
+  pronouns: 
+  company: 
+  title: 
+  bio: "Amy Webster is a Senior Disability Adviser committed to fostering inclusive pedagogy. She brings experience from roles in disability education and sport in the UK, including coordinating training and development at the National Autistic Society. In Australia, Amy has worked at the Queensland Human Rights Commission, developing and delivering training to ensure anti-discrimination and human rights legislation is understood and applied in practice. She champions neuroaffirming practices that are embedded, not added."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 301
+  name: Dr Min
+  surname: Zhao
+  pronouns: 
+  company: UniSC
+  title: 
+  bio: "<p>Dr Min Zhao is a Senior Lecturer at UniSC, School of Science, Technology and Engineering, specialising in bioinformatics and genomics. He graduated from Peking University in 2009 with a PhD and subsequently undertook a Postdoctoral Research Fellow position at Vanderbilt University, USA, where he focused on the analysis and integration of high-throughput genomic, transcriptome, and literature data in complex diseases.
+</p><p>
+Dr Zhao joined UniSC as a Research Fellow in 2014, leading an emerging group in the GeneCology Research Centre to integrate multi-dimensional data, including genome, transcriptome, and proteomics datasets. In 2018, he was promoted to Senior Research Fellow. He has supervised four PhD students and co-supervised two additional PhD students, fostering a collaborative research environment that has attracted approximately A$500,000 in scholarships and training grants.
+</p><p>
+His research focuses on the investigation of genetic regulation using large-scale genomics data, with an increasing emphasis on integrating artificial intelligence techniques, particularly large language models and intelligent agents, to enhance the analysis, interpretation, and translational impact of multi-omics datasets. He has published 115 research papers in international peer-reviewed journals, including 82 as lead or corresponding author, with over 5,400 citations and an H-index of 35 (Google Scholar). Approximately 50 percent of his publications are among the top 10 percent most cited articles worldwide, and 10 manuscripts appear in top-ranked journals (Top 5 percent including Nature, Nature Communications, Cell Research, American Journal of Respiratory and Critical Care Medicine).
+</p><p>
+Dr Zhao has developed widely used computational frameworks and databases, including TSGene (Tumor Suppressor Gene), which has received 750+ citations, been cited in 12 patents, and supported single-cell-based CRISPR/Cas9 design. Since 2017, he has conducted or co-led research projects totalling A$469,616, including an ARC Discovery Project as Chief Investigator.
+</p><p>
+His scientific contributions are recognised through editorial service on boards including PLoS One, PeerJ, and PeerJ Computer Science, and as a regular reviewer for leading journals such as Nucleic Acids Research and Bioinformatics. He has served as a program committee member for six international bioinformatics conferences, keynote speaker and session chair for six international conferences, and is actively involved in scientific leadership roles, including Vice President of the Australia New Zealand Marine Biotechnology Society, committee member of Research Bazaar Queensland (2023–2025), National Research Bazaar Network, and The International Conference on Intelligent Biology and Medicine.
+</p><p>
+Dr Zhao is regularly invited to review grants for national and international funding bodies, including NHMRC (2023–2025), ARC (2021–2025), and the National Science Centre Poland (2019–2024), reflecting his standing in the genomics and bioinformatics research community.</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 302
+  name: Dr Raimundo
+  surname: Sanchez
+  pronouns: He/Him
+  company: UQ
+  title: Research Fellow
+  bio: "Endurance Sports Scientist. Research Fellow at UQ. Founder of Metric Trails."
   thumbnailUrl: 
   rockstar: false
   ribbon:
