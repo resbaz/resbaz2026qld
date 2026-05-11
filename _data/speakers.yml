@@ -1112,6 +1112,23 @@ She is currently pursuing a PhD in Creative Arts at Queensland University of Tec
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 297
+  name: Amanda
+  surname: Pearson
+  pronouns: She/Her
+  company: Griffith University Library
+  title: Discipline Librarian
+  bio: "<p>Amanda Pearson is a Discipline Librarian with Researcher Services at Griffith University Library, specialising in advanced literature searching and systematic‑style review methodologies. She supports researchers in navigating AI‑enabled discovery tools, optimising researcher profiles, interpreting research metrics responsibly, and engaging with contemporary scholarly publishing practices.
+</p><p>
+Before joining Griffith University, Amanda held roles at the University of Queensland, James Cook University, and the Herston Medical Library, building deep expertise across clinical and research‑intensive environments. She is a committed advocate for Open Research and Responsible Research Assessment, and is passionate about empowering researchers to strengthen their information literacy and research impact.
+</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999

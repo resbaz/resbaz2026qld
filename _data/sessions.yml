@@ -1066,6 +1066,15 @@ We'll cover questions like,
 <li>Explore DDPs.</li>
 <li>Create data donation projects and enrol participants.</li>
 </ul>"
+-
+  title: "AI tools and considerations for literature reviews"
+  themes: []
+  id: 2078
+  speakers: [297,201]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Participants will be introduced to the effective use of gen AI tools for conducting literature reviews, as well as navigating ethical considerations in their application."
 
 -
   title: ""
