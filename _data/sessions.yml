@@ -805,7 +805,7 @@ We'll also build a what-if model, to demonstrate the process in action, and show
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>The famous statistician John Tukey once said: 'The greatest value of a picture is when it forces us to notice what we never expected to see.' As researchers, identifying this 'unseen' in your data is becoming crucial to publishing your next journal paper. While publishing papers is essential, it’s just a part of research communication; to maximise the impact of your work, it’s vital that you make your research findings accessible and engaging to a wide audience. In this workshop, we will discuss the best methods to communicate the story that your data tells.</p>"
 -
   title: "Data visualisation basics for publishing"
   themes: []
