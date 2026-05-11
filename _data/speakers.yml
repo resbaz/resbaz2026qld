@@ -13,34 +13,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.atomwitch.net/mini-cv/
 # -
-#   id: 212
-#   name: Joanna
-#   surname: Salerno
-#   pronouns: 
-#   company: QCIF
-#   title: Data Scientist
-#   bio: "As a Data Scientist at QCIF, I provide comprehensive support across QCIF’s research projects. I work closely with researchers to understand their project needs so that I can provide tailored support to advance their work. I also deliver workshops designed to help researchers upskill in areas such as programming, statistical analysis, data management, and research communication."
-#   thumbnailUrl: joanna_salerno.webp
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.qcif.edu.au/qcif-people/joanna-salerno
-# -
-#   id: 216
-#   name: Dr Ade
-#   surname: Adeyinka
-#   pronouns: 
-#   company: QCIF
-#   title: 
-#   bio: Ade is a casual trainer with QCIF. Previously, he was the digital research analyst at Southern Cross University (SCU) and the University of Southern Queensland (UniSQ). He specializes in the application of quantitative and qualitative techniques in proffering solutions to financial, social and management problems. His PhD thesis was on the application of weather index-insurance in managing drought risks among Australian farmers.
-#   thumbnailUrl: ade_adeyinka.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
-# -
 #   id: 221
 #   name: Dr Sara
 #   surname: King
@@ -98,20 +70,6 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://research.qut.edu.au/mabpp/people/senn-oon/
-# -
-#   id: 234
-#   name: Dr Danny
-#   surname: Meloncelli
-#   pronouns: 
-#   company: QCIF
-#   title: 
-#   bio: "Danny leads QCIF’s digital research training program, overseeing the development and delivery of high-impact courses that equip researchers with critical skills in coding, statistics, data management and bioinformatics. Danny has a PhD in Analytical Chemistry and a Master of Data Science. Prior to joining QCIF at the start of this year, Danny was a STEM Learning Adviser at UniSC for over a decade. Danny has a passion for simplifying complexity, upskilling others, fostering a growth mindset, and harnessing the power of education to create lasting impact."
-#   thumbnailUrl: danny_meloncelli.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
 # -
 #   id: 235
 #   name: Fellice
@@ -608,6 +566,48 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
+-
+  id: 212
+  name: Joanna
+  surname: Salerno
+  pronouns: 
+  company: QCIF
+  title: Data Scientist and Developer
+  bio: "As a Data Scientist and Developer at QCIF, I partner with researchers to understand their project needs and deliver tailored data science support, from configuring REDCap projects and developing custom software tools, to data analysis and statistical consulting. I also facilitate workshops to help researchers build skills in programming, statistical analysis, data management, and research communication."
+  thumbnailUrl: joanna_salerno.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/joanna-salerno
+-
+  id: 216
+  name: Dr Ade
+  surname: Adeyinka
+  pronouns: He/Him
+  company: QCIF
+  title: 
+  bio: "Ade is a trainer with QCIF and has about 20 years of experience as a statistician. Previously, he was the digital research analyst at Southern Cross University (SCU) and the University of Southern Queensland (UniSQ). He specializes in the application of quantitative and qualitative techniques in proffering solutions to financial, social and management problems. His PhD thesis was on the application of weather index-insurance in managing drought risks among Australian farmers.""
+  thumbnailUrl: ade_adeyinka.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
+-
+  id: 234
+  name: Dr Danny
+  surname: Meloncelli
+  pronouns: 
+  company: QCIF
+  title: 
+  bio: "Danny leads QCIF’s digital research training program, overseeing the development and delivery of high-impact courses that equip researchers with critical skills in coding, statistics, data management and bioinformatics. Danny has a PhD in Analytical Chemistry and a Master of Data Science. Prior to joining QCIF at the start of this year, Danny was a STEM Learning Adviser at UniSC for over a decade. Danny has a passion for simplifying complexity, upskilling others, fostering a growth mindset, and harnessing the power of education to create lasting impact."
+  thumbnailUrl: danny_meloncelli.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
 -
   id: 238
   name: Dr Sara
@@ -1203,6 +1203,48 @@ Dr Zhao is regularly invited to review grants for national and international fun
   company: UQ
   title: Research Fellow
   bio: "Endurance Sports Scientist. Research Fellow at UQ. Founder of Metric Trails."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 303
+  name: Justin
+  surname: Scott
+  pronouns: 
+  company: UQ Data Science CRP
+  title: 
+  bio: "Justin is a Biostatistician with the UQ Data Science Cooperative Research Platform (CRP)."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 304
+  name: Dr Vicki
+  surname: Thomson
+  pronouns: 
+  company: QUT Research Infrastructure
+  title: Support Specialist
+  bio: "Vicki Thomson is a support specialist at QUT’s Research Infrastructure, where she provides comprehensive support to researchers running their analyses on the supercomputer. Vicki provides advice about how to optimise supercomputer resource use and delivers workshops designed to help researchers upskill on the supercomputer. Vicki has a PhD in Evolutionary Biology, and has previously worked as a Research Fellow in the field."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 305
+  name: Kasia
+  surname: Koziara
+  pronouns: She/Her
+  company: UQ
+  title: Senior Data Analyst
+  bio: "Kasia is a Senior Data Analyst at UQ. She is an experienced data professional across multiple sectors: academic, non-profit and government. She is skilled in data extraction, modelling, and analysis with a passion for higher education, STEM outreach and public engagement. Kasia holds a PhD in Computational Chemistry from UQ."
   thumbnailUrl: 
   rockstar: false
   ribbon:
