@@ -64,7 +64,7 @@ Harassment includes:
 
 If a participant engages in harassing behaviors, the anti-harassment officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the anti-harassment officers or your site host immediately. If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, you are welcome to contact a a [Griffith University Harassment and Discrimination Officer](https://www.griffith.edu.au/safe-campuses/harassment-and-discrimination-officer-network).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the anti-harassment officers or your site host immediately. If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, you are welcome to [Report a Concern](https://www.qut.edu.au/about/governance-and-policy/report-a-concern) centrally.
 
 Anti-harassment officers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
