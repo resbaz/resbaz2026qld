@@ -13,34 +13,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.atomwitch.net/mini-cv/
 # -
-#   id: 212
-#   name: Joanna
-#   surname: Salerno
-#   pronouns: 
-#   company: QCIF
-#   title: Data Scientist
-#   bio: "As a Data Scientist at QCIF, I provide comprehensive support across QCIF’s research projects. I work closely with researchers to understand their project needs so that I can provide tailored support to advance their work. I also deliver workshops designed to help researchers upskill in areas such as programming, statistical analysis, data management, and research communication."
-#   thumbnailUrl: joanna_salerno.webp
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.qcif.edu.au/qcif-people/joanna-salerno
-# -
-#   id: 216
-#   name: Dr Ade
-#   surname: Adeyinka
-#   pronouns: 
-#   company: QCIF
-#   title: 
-#   bio: Ade is a casual trainer with QCIF. Previously, he was the digital research analyst at Southern Cross University (SCU) and the University of Southern Queensland (UniSQ). He specializes in the application of quantitative and qualitative techniques in proffering solutions to financial, social and management problems. His PhD thesis was on the application of weather index-insurance in managing drought risks among Australian farmers.
-#   thumbnailUrl: ade_adeyinka.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
-# -
 #   id: 221
 #   name: Dr Sara
 #   surname: King
@@ -99,20 +71,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://research.qut.edu.au/mabpp/people/senn-oon/
 # -
-#   id: 234
-#   name: Dr Danny
-#   surname: Meloncelli
-#   pronouns: 
-#   company: QCIF
-#   title: 
-#   bio: "Danny leads QCIF’s digital research training program, overseeing the development and delivery of high-impact courses that equip researchers with critical skills in coding, statistics, data management and bioinformatics. Danny has a PhD in Analytical Chemistry and a Master of Data Science. Prior to joining QCIF at the start of this year, Danny was a STEM Learning Adviser at UniSC for over a decade. Danny has a passion for simplifying complexity, upskilling others, fostering a growth mindset, and harnessing the power of education to create lasting impact."
-#   thumbnailUrl: danny_meloncelli.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
-# -
 #   id: 235
 #   name: Fellice
 #   surname: Catelo
@@ -154,20 +112,6 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.qcif.edu.au/qcif-people/ryan-newis
-# -
-#   id: 238
-#   name: Dr Sara
-#   surname: Hutchinson
-#   pronouns: She/Her
-#   company: UniSC
-#   title: 
-#   bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
-#   thumbnailUrl: sara_hutchinson.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
 # -
 #   id: 239
 #   name: Siddeswara
@@ -281,20 +225,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: 
 # -
-#   id: 248
-#   name: Dr Bogdan
-#   surname: Mamaev
-#   pronouns: 
-#   company: Australian Internet Observatory
-#   title: Research Training Manager
-#   bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory (AIO). Having utilised a variety of digital methods in his research and in collaborations within political science and communications, he is dedicated to empowering researchers to use these approaches to enhance research outcomes and design more efficient methodologies for data collection and exploration."
-#   thumbnailUrl: bogdan_manaev.png
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.admscentre.org.au/dr-bogdan-mamaev/
-# -
 #   id: 250
 #   name: Dr Delaney
 #   surname: Burnard
@@ -341,20 +271,6 @@
 #     - {abbr: "", title: "", url: ""}
 #     - {abbr: "", title: "", url: ""}
 #   social: https://au.linkedin.com/in/marklcrowe
-# -
-#   id: 253
-#   name: Dr Lachlan
-#   surname: McKinnie
-#   pronouns: He/Him
-#   company: UniSC
-#   title: 
-#   bio: "I am a recent PhD graduate in bioinformatics from the University of the Sunshine Coast. My research focused on investigating the molecular biosynthesis pathways of red algae, and utilised large-scale genomics analysis. I am a skilled data scientist and Python coder, which I use for data analytics, program automation, and web development."
-#   thumbnailUrl: lachlan_mckinnie.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://au.linkedin.com/in/lachlan-mckinnie-915a4a50
 # -
 #   id: 254
 #   name: Dr Ashar
@@ -651,6 +567,62 @@
     - {abbr: "", title: "", url: ""}
   social:
 -
+  id: 212
+  name: Joanna
+  surname: Salerno
+  pronouns: 
+  company: QCIF
+  title: Data Scientist and Developer
+  bio: "As a Data Scientist and Developer at QCIF, I partner with researchers to understand their project needs and deliver tailored data science support, from configuring REDCap projects and developing custom software tools, to data analysis and statistical consulting. I also facilitate workshops to help researchers build skills in programming, statistical analysis, data management, and research communication."
+  thumbnailUrl: joanna_salerno.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/joanna-salerno
+-
+  id: 216
+  name: Dr Ade
+  surname: Adeyinka
+  pronouns: He/Him
+  company: QCIF
+  title: 
+  bio: "Ade is a trainer with QCIF and has about 20 years of experience as a statistician. Previously, he was the digital research analyst at Southern Cross University (SCU) and the University of Southern Queensland (UniSQ). He specializes in the application of quantitative and qualitative techniques in proffering solutions to financial, social and management problems. His PhD thesis was on the application of weather index-insurance in managing drought risks among Australian farmers."
+  thumbnailUrl: ade_adeyinka.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
+-
+  id: 234
+  name: Dr Danny
+  surname: Meloncelli
+  pronouns: 
+  company: QCIF
+  title: 
+  bio: "Danny leads QCIF’s digital research training program, overseeing the development and delivery of high-impact courses that equip researchers with critical skills in coding, statistics, data management and bioinformatics. Danny has a PhD in Analytical Chemistry and a Master of Data Science. Prior to joining QCIF at the start of this year, Danny was a STEM Learning Adviser at UniSC for over a decade. Danny has a passion for simplifying complexity, upskilling others, fostering a growth mindset, and harnessing the power of education to create lasting impact."
+  thumbnailUrl: danny_meloncelli.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
+-
+  id: 238
+  name: Dr Sara
+  surname: Hutchinson
+  pronouns: She/Her
+  company: UniSC
+  title: 
+  bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
+  thumbnailUrl: sara_hutchinson.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
+-
   id: 249
   name: Dr Simon
   surname: Musgrave
@@ -682,6 +654,34 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/richelle-mcnae
+-
+  id: 248
+  name: Dr Bogdan
+  surname: Mamaev
+  pronouns: He/Him
+  company: Australian Internet Observatory
+  title: Research Training Manager
+  bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory. Specialising in digital methods for data collection, he researches how citizens participate in politics across different contexts, and explores how we can utilise the latest, cutting-edge technologies to understand our societies better."
+  thumbnailUrl: bogdan_manaev.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.admscentre.org.au/dr-bogdan-mamaev/
+-
+  id: 253
+  name: Dr Lachlan
+  surname: McKinnie
+  pronouns: He/Him
+  company: UniSC
+  title: eResearch Analyst
+  bio: "I'm Dr Lachlan McKinnie, (acting) eResearch Analyst at UniSC and an early career researcher with a background in bioinformatics and molecular biology. I'm a skilled coder in Python and R and have a passion for open science and in skills sharing."
+  thumbnailUrl: lachlan_mckinnie.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/lachlan-mckinnie-915a4a50
 -
   id: 257
   name: Dimanthinie
@@ -871,7 +871,7 @@ She is currently developing an experimental writing project exploring how dialog
   social: 
 -
   id: 281
-  name: Alireza Y.
+  name: Dr Alireza Y.
   surname: Bavil
   pronouns: He/Him
   company: Griffith University
@@ -1106,6 +1106,145 @@ With over 80 industry projects across commercials, music videos, film, televisio
 </p><p>
 She is currently pursuing a PhD in Creative Arts at Queensland University of Technology (QUT), focusing on real-time technologies and creative practice research.
 </p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 297
+  name: Amanda
+  surname: Pearson
+  pronouns: She/Her
+  company: Griffith University Library
+  title: Discipline Librarian
+  bio: "<p>Amanda Pearson is a Discipline Librarian with Researcher Services at Griffith University Library, specialising in advanced literature searching and systematic‑style review methodologies. She supports researchers in navigating AI‑enabled discovery tools, optimising researcher profiles, interpreting research metrics responsibly, and engaging with contemporary scholarly publishing practices.
+</p><p>
+Before joining Griffith University, Amanda held roles at the University of Queensland, James Cook University, and the Herston Medical Library, building deep expertise across clinical and research‑intensive environments. She is a committed advocate for Open Research and Responsible Research Assessment, and is passionate about empowering researchers to strengthen their information literacy and research impact.
+</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 298
+  name: Dr Abbe
+  surname: Winter
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "Dr Abbe Winter (SFHEA) is a results-driven writing wellbeing specialist, collaborative mentor, and independent researcher, skilled in the analysis of words and data for user needs. Abbe is a researcher trainer, leader, and mentor, with over 20 years’ experience in quality assurance, and change and project management. While her PhD focused on what helps workers in higher education cope with large-scale organisational change, and she was part of the small team that created and developed the concept of academagogy (the scholarly leadership of learning), her more recent research has focussed upon professional identity, developing writing skills, and reflective practice."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 299
+  name: Jillian 
+  surname: Blacker
+  pronouns: 
+  company: 
+  title: 
+  bio: "Jill Blacker is an innovative administrative manager with over 15 years’ experience in the higher education sector working across many different areas including action research projects focused on the widening participation agenda. She has extensive experience providing support to researchers, supervisors, and academic leaders on all aspects of higher degree research; and has a proven track record of resolving complex cases to ensure mutually agreeable outcomes. She is a confident mentor and coach and has been drawn to learning about mental health practices and strategies to provide support to researchers and supervisors. Building relationships and working collaboratively and creatively is a key component of her professional practice. She is a Fellow of Advance HE."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 300
+  name: Amy
+  surname: Webster
+  pronouns: 
+  company: 
+  title: 
+  bio: "Amy Webster is a Senior Disability Adviser committed to fostering inclusive pedagogy. She brings experience from roles in disability education and sport in the UK, including coordinating training and development at the National Autistic Society. In Australia, Amy has worked at the Queensland Human Rights Commission, developing and delivering training to ensure anti-discrimination and human rights legislation is understood and applied in practice. She champions neuroaffirming practices that are embedded, not added."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 301
+  name: Dr Min
+  surname: Zhao
+  pronouns: 
+  company: UniSC
+  title: 
+  bio: "<p>Dr Min Zhao is a Senior Lecturer at UniSC, School of Science, Technology and Engineering, specialising in bioinformatics and genomics. He graduated from Peking University in 2009 with a PhD and subsequently undertook a Postdoctoral Research Fellow position at Vanderbilt University, USA, where he focused on the analysis and integration of high-throughput genomic, transcriptome, and literature data in complex diseases.
+</p><p>
+Dr Zhao joined UniSC as a Research Fellow in 2014, leading an emerging group in the GeneCology Research Centre to integrate multi-dimensional data, including genome, transcriptome, and proteomics datasets. In 2018, he was promoted to Senior Research Fellow. He has supervised four PhD students and co-supervised two additional PhD students, fostering a collaborative research environment that has attracted approximately A$500,000 in scholarships and training grants.
+</p><p>
+His research focuses on the investigation of genetic regulation using large-scale genomics data, with an increasing emphasis on integrating artificial intelligence techniques, particularly large language models and intelligent agents, to enhance the analysis, interpretation, and translational impact of multi-omics datasets. He has published 115 research papers in international peer-reviewed journals, including 82 as lead or corresponding author, with over 5,400 citations and an H-index of 35 (Google Scholar). Approximately 50 percent of his publications are among the top 10 percent most cited articles worldwide, and 10 manuscripts appear in top-ranked journals (Top 5 percent including Nature, Nature Communications, Cell Research, American Journal of Respiratory and Critical Care Medicine).
+</p><p>
+Dr Zhao has developed widely used computational frameworks and databases, including TSGene (Tumor Suppressor Gene), which has received 750+ citations, been cited in 12 patents, and supported single-cell-based CRISPR/Cas9 design. Since 2017, he has conducted or co-led research projects totalling A$469,616, including an ARC Discovery Project as Chief Investigator.
+</p><p>
+His scientific contributions are recognised through editorial service on boards including PLoS One, PeerJ, and PeerJ Computer Science, and as a regular reviewer for leading journals such as Nucleic Acids Research and Bioinformatics. He has served as a program committee member for six international bioinformatics conferences, keynote speaker and session chair for six international conferences, and is actively involved in scientific leadership roles, including Vice President of the Australia New Zealand Marine Biotechnology Society, committee member of Research Bazaar Queensland (2023–2025), National Research Bazaar Network, and The International Conference on Intelligent Biology and Medicine.
+</p><p>
+Dr Zhao is regularly invited to review grants for national and international funding bodies, including NHMRC (2023–2025), ARC (2021–2025), and the National Science Centre Poland (2019–2024), reflecting his standing in the genomics and bioinformatics research community.</p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 302
+  name: Dr Raimundo
+  surname: Sanchez
+  pronouns: He/Him
+  company: UQ
+  title: Research Fellow
+  bio: "Endurance Sports Scientist. Research Fellow at UQ. Founder of Metric Trails."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 303
+  name: Justin
+  surname: Scott
+  pronouns: 
+  company: UQ Data Science CRP
+  title: 
+  bio: "Justin is a Biostatistician with the UQ Data Science Cooperative Research Platform (CRP)."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 304
+  name: Dr Vicki
+  surname: Thomson
+  pronouns: 
+  company: QUT Research Infrastructure
+  title: Support Specialist
+  bio: "Vicki Thomson is a support specialist at QUT’s Research Infrastructure, where she provides comprehensive support to researchers running their analyses on the supercomputer. Vicki provides advice about how to optimise supercomputer resource use and delivers workshops designed to help researchers upskill on the supercomputer. Vicki has a PhD in Evolutionary Biology, and has previously worked as a Research Fellow in the field."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 305
+  name: Kasia
+  surname: Koziara
+  pronouns: She/Her
+  company: UQ
+  title: Senior Data Analyst
+  bio: "Kasia is a Senior Data Analyst at UQ. She is an experienced data professional across multiple sectors: academic, non-profit and government. She is skilled in data extraction, modelling, and analysis with a passion for higher education, STEM outreach and public engagement. Kasia holds a PhD in Computational Chemistry from UQ."
   thumbnailUrl: 
   rockstar: false
   ribbon:

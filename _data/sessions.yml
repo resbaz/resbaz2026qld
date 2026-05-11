@@ -719,7 +719,7 @@ The workshop also introduces a broader philosophical perspective on learning bey
   subtype: Workshop
   service:
   hidden: false
-  description: "This workshop introduces software designed for long-form academic writing and its capacity to organise thoughts, structure chapters, and support conceptual thinking. Scrivener and freeware alternatives function as project-based systems in which entire manuscripts reside within a single hierarchised file. Unlike Word's document-centric approach, these platforms integrate structure and content management, enabling researchers to store drafts, references, and notes in a cohesive manner, and experiment with restructuring sections and chapters with ease. This privileges concept-centric networks and developmental thinking over sequential structures and the pressure to produce polished writing immediately. Participants will learn how these platforms enable 'writing for thinking' rather than 'writing up', facilitating thematic connections and reducing the chaos of multiple open documents during thesis or manuscript development."
+  description: "This workshop introduces software designed for long-form academic writing, highlighting its capacity to help researchers organise their thoughts, structure chapters, and support conceptual thinking. Software like Scrivener and its freeware alternatives are project-based systems, with entire manuscripts residing in a single hierarchised file. Unlike Word's document-centric approach, these programs integrate structure and content management, enabling researchers to store multiple drafts, compile references and notes, and to experiment with restructuring sections and chapters with ease. This focus prioritises developmental thinking over the pressure to produce polished writing immediately. Participants will learn how these programs enable 'writing for thinking' rather than 'writing up' and reduce the chaos of multiple open documents during thesis or manuscript development."
 -
   title: "Practical LLMs for research: From concepts to workflows"
   themes: []
@@ -748,7 +748,7 @@ Participants will:
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>Passive Acoustic Monitoring (PAM) is revolutionizing how we study biodiversity, allowing us to listen to ecosystems at scales previously impossible. However, the sheer volume of audio data can be overwhelming. This hands-on workshop introduces Open Ecoacoustics, Australia's national infrastructure for managing and analysing environmental sound.</p><p>We will navigate the transition from deploying a sensor in the field to generating actionable conservation insights. Participants will receive a guided tour of Ecosounds and the A20 desktop tool, learning how to securely upload massive datasets and leverage cutting-edge AI. We’ll explore how tools like Google's Perch & BirdNet AI foundation models allow researchers to build species recognizers that scan thousands of hours of audio in minutes. Finally, we’ll discuss how to translate these acoustic detections into robust reports and downstream spatial models to inform policy and habitat management.</p>"
 -
   title: "Relationship competencies for industry‑engaged research"
   themes: []
@@ -805,7 +805,7 @@ We'll also build a what-if model, to demonstrate the process in action, and show
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>The famous statistician John Tukey once said: 'The greatest value of a picture is when it forces us to notice what we never expected to see.' As researchers, identifying this 'unseen' in your data is becoming crucial to publishing your next journal paper. While publishing papers is essential, it’s just a part of research communication; to maximise the impact of your work, it’s vital that you make your research findings accessible and engaging to a wide audience. In this workshop, we will discuss the best methods to communicate the story that your data tells.</p>"
 -
   title: "Data visualisation basics for publishing"
   themes: []
@@ -1046,6 +1046,112 @@ We'll cover questions like,
 <li>'What is a virtual environment?'</li>
 <li>'Please help me: Python is not a recognised command, cmdlet etc.!!!'</li>
 </ul>"
+-
+  title: "Data donations using data download packages"
+  themes: []
+  id: 2077
+  speakers: [248]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>In this session, the participants will learn about a new ethical framework to collect data from social media platforms (Instagram, YouTube, ChatGPT) using data download packages (DDPs) for social science research. I will introduce:</p>
+<ul>
+<li>What DDPs contain and what kind of research questions they can help us answer.</li>
+<li>How to make sure data is handled properly.</li>
+<li>How to enrol respondents and manage their data.</li>
+</ul>
+<p>By the end of the session, the participants will be able to:</p>
+<ul>
+<li>Choose the right platform for their research based on the research question.</li>
+<li>Explore DDPs.</li>
+<li>Create data donation projects and enrol participants.</li>
+</ul>"
+-
+  title: "AI tools and considerations for literature reviews"
+  themes: []
+  id: 2078
+  speakers: [297,201]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Participants will be introduced to the effective use of gen AI tools for conducting literature reviews, as well as navigating ethical considerations in their application."
+-
+  title: "Advanced Excel and spreadsheeting for research data"
+  themes: []
+  id: 2079
+  speakers: [253]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This workshop will demonstrate best practices in using Microsoft Excel for research, as well as advanced functions and capabilities.
+</p><p>
+The content covered by this workshop will include:
+</p>
+<ul>
+<li>Best practices for laying out data in spreadsheets</li>
+<li>Formatting cells and data</li>
+<li>Conditional formatting</li>
+<li>Data exports and file formats</li>
+<li>Advanced functions including xlookup, concatenate, and more</li>
+<li>Tables and pivot tables</li>
+<li>Identifying and removing duplicate cells</li>
+<li>Advanced searching and filtering</li>
+<li>Quality of life features</li>
+</ul>"
+-
+  title: "Editing with Gen AI: Dos and don'ts"
+  themes: []
+  id: 2080
+  speakers: [238]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Exploring Gen AI use for editing and proofreading, issues, concerns, and ensuring you maintain your authorial voice."
+-
+  title: "How do we work together? Neurodivergence in the research student-supervisor relationship"
+  themes: []
+  id: 2081
+  speakers: [298,299,300]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "In this session, participants will learn about neurodivergence and research. Topics will include disability standards in education, reasonable adjustments, and the relational approach to supervision – including how to work well with their supervisors. This will be supported through scenario-based content and practical activities. Participants will leave the session with a completed checklist and reflection detailing how they work best, which they can then apply in conversations with their research supervisors."
+-
+  title: "AI as your coding assistant: Running NCBI BLAST on Linux without being a programmer"
+  themes: []
+  id: 2082
+  speakers: [301]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
+-
+  title: "Data driven endurance sports research: A workshop in R"
+  themes: []
+  id: 2083
+  speakers: [302]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "We are going deep into analysis of GPS data for athlete performance modelling. We will work with Trail Running data, but analysis methods are transfereable to a wide array of disciplines."
+-
+  title: "Software Carpentry: Plotting and Programming in Python (1.5 days)"
+  themes: []
+  id: 4001
+  speakers: [212,303,304,285,305,216]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+-
+  title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
+  themes: []
+  id: 4002
+  speakers: [212,303,304,234]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
 
 -
   title: ""
