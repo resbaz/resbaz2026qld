@@ -1169,6 +1169,15 @@ Objectives: This workshop will show participants how to use TERA and how it fits
 Description: The workshop will comprise live demonstrations of TERA, conducted by the TERA developers and expert users of the tools. The live demonstration will be interspersed with hands on tutorials in using the tools. Interactive feedback with the presenters will be encouraged, and sufficient time for this is incorporated in the design of the workshop. The expert skills of the presenters in both conducting reviews and using the tools is a key component of the workshop. All the tools in the workshop are free and available to be used via the Evidence Review Accelerator website: https://tera-tools.com/
 </p><p>
 Activities/Interaction Plans: The workshop will comprise of the following plan: 1) a brief introduction; 2) an interactive component with the presenters and participants designing and writing a review using the Methods Wizard; 3) a demonstration of creating focused searches using the Word Frequency Analyser, SearchRefiner, Polyglot Search Translator and the Deduplicator; 4) a demonstration of Generative AI powered screening using MechaScreener; 5) a demonstration of citation searching with SpiderCite; 6) interactive discussion and demonstration of the meta-analysis tools, MetaInsight, MetaDTA, MetaWise; 7) Using TERA Farmer to test whether all relevant studies have been found.</p>"
+-
+  title: "Lost in translation? Using AI tools for cross-cultural and multilingual research"
+  themes: []
+  id: 2085
+  speakers: [307]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "AI tools are increasingly used by researchers to translate documents, draft communications, and process data across languages. But translation is only part of the challenge — and often the easier part. This session draws on real examples from ethnographic fieldwork in rural Yunnan, China, to explore where AI tools genuinely help, where they fall short, and what the researcher must bring that AI cannot. We will look at three concrete cases. Participants will leave with practical strategies for integrating AI into multilingual research workflows while maintaining cultural rigour and research ethics."
 
 -
   title: ""

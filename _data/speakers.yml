@@ -1265,6 +1265,20 @@ Dr Zhao is regularly invited to review grants for national and international fun
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 307
+  name: Jenny
+  surname: Tang
+  pronouns: She/Her
+  company: UQ
+  title: 
+  bio: "Jenny Tang is a PhD candidate at the University of Queensland, researching specialty coffee production in Yunnan, China. A multilingual researcher fluent in English, Mandarin, and Cantonese, she has conducted four months of ethnographic fieldwork with ethnic minority farming communities in Menglian County, where navigating research across two languages and two very different audiences — academic and rural — required her to develop practical AI-assisted workflows for translation, participant communication, and cultural adaptation."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999
