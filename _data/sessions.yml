@@ -56,9 +56,18 @@
   service:
   hidden: true
   description: 
+-
+  title: "Welcome Address - Prof. Paula McDonald"
+  themes: []
+  id: 007
+  speakers: [309]
+  subtype:
+  service:
+  hidden: false
+  description: 
 # Room changes
 -
-  title: Move from KG-F509 to KG-E5 workshop rooms
+  title: "<small>Move from KG-F509 to KG-E5 workshop rooms</small>"
   themes: []
   id: 010
   speakers:
@@ -67,7 +76,7 @@
   hidden: true
   description: 
 -
-  title: Move from KG-E5 Function Space to KG-F509
+  title: "<small>Move from KG-E5 Function Space to KG-F509<small>"
   themes: []
   id: 011
   speakers:

@@ -1295,6 +1295,20 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 309
+  name: Prof. Paula
+  surname: McDonald
+  pronouns: 
+  company: QUT
+  title: DVC and VP Research
+  bio: "<p></p><p></p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999
