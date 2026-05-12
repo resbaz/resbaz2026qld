@@ -1178,6 +1178,28 @@ Activities/Interaction Plans: The workshop will comprise of the following plan: 
   service:
   hidden: false
   description: "AI tools are increasingly used by researchers to translate documents, draft communications, and process data across languages. But translation is only part of the challenge — and often the easier part. This session draws on real examples from ethnographic fieldwork in rural Yunnan, China, to explore where AI tools genuinely help, where they fall short, and what the researcher must bring that AI cannot. We will look at three concrete cases. Participants will leave with practical strategies for integrating AI into multilingual research workflows while maintaining cultural rigour and research ethics."
+-
+  title: "Stop presenting: Start storytelling"
+  themes: []
+  id: 2086
+  speakers: [308]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Most scientific presentations fail not because the research is weak—but because the story is buried.
+</p><p>
+This workshop teaches researchers how to transform results and complex science into compelling, logically structured presentations without sacrificing rigor. Participants will learn how to apply narrative principles to scientific talks—clarifying their core message, structuring results for maximum impact, and designing slides that support thinking rather than distract from it.
+</p><p>
+Through real examples and practical frameworks, attendees will leave with concrete tools to:</p>
+<ul>
+<li>Identify and sharpen the central message of their work</li>
+<li>The benefits of 'thinking outside the box' on occasion</li>
+<li>Structure presentations around a clear narrative arc</li>
+<li>Design figures and slides that enhance comprehension</li>
+<li>Avoid common pitfalls that undermine clear messaging</li>
+<li>Communicate complex research with clarity and confidence</li>
+</ul>
+<p>This is not a workshop on aesthetics. It is a workshop on thinking clearly—and making that thinking visible.</p>"
 
 -
   title: ""
