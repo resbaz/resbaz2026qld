@@ -1200,6 +1200,37 @@ Through real examples and practical frameworks, attendees will leave with concre
 <li>Communicate complex research with clarity and confidence</li>
 </ul>
 <p>This is not a workshop on aesthetics. It is a workshop on thinking clearly—and making that thinking visible.</p>"
+-
+  title: "Species Distribution Modelling in EcoCommons: Introduction to Platform and Notebook Workflows for Research"
+  themes: []
+  id: 2087
+  speakers: [237]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>EcoCommons Australia offers a comprehensive suite of resources for ecological modelling, including an intuitive, user-friendly platform featuring thousands of trusted datasets and a range of expert-developed workflows for species distribution and community modelling.
+</p><p>
+This workshop will begin with a brief introduction into species distribution model (SDM) theory, followed by a guided tour of the EcoCommons platform and coding notebook workflows. There will also be a focus on selecting appropriate occurrence and environmental data for research aims and questions.
+</p><p>
+We will cover:</p>
+<ul>
+<li>Basic concepts and applications of SDMs</li>
+<li>How to access and acquire biodiversity records from open data portals</li>
+<li>An introduction to the EcoCommons platform and its 59,000 curated environmental datasets</li>
+<li>Selecting sensible model data for research</li>
+<li>Building SDMs using a selection of the 19 available algorithms on the EcoCommons platform (detailed example of GLM and Maxent algorithms)</li>
+<li>Exploring and interpreting model outputs.</li>
+<li>Using EcoCommons notebooks to convert between spatial file formats and modify spatial outputs</li>
+</ul>
+ 
+<p>By the end of the workshop, attendees will understand how to:</p>
+<ul>
+<li>Navigate the EcoCommons platform</li>
+<li>Select fit-for-purpose data for your research question</li> 
+<li>Run robust and repeatable SDMs</li>
+<li>Produce accurate and meaningful results and modify model outputs for downstream workflows and reporting</li>
+<li>Access and use EcoCommons coding notebooks</li>
+</ul>"
 
 -
   title: ""

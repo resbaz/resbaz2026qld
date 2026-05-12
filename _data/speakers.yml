@@ -99,20 +99,6 @@
 #     - {abbr: "", title: "", url: ""}
 #   social: https://www.qut.edu.au/about/our-people/academic-profiles/virginie.perlo
 # -
-#   id: 237
-#   name: Dr Ryan
-#   surname: Newis
-#   pronouns: 
-#   company: QCIF
-#   title: 
-#   bio: "<p>Ryan has a diverse range of research experience (lab, field, data analysis) within the environmental sciences, ranging from environmental and ecological monitoring (water, soil, plants, animals) to chemical, landscape and molecular ecology. Ryan played a key role in pollination ecology research at Griffith University, focused on using field and molecular techniques to investigate the impacts of bee and insect pollination on horticultural crop yield, quality, nutrition and paternity. His own PhD studies focused on exploring the impacts of stingless beehive propagation, and tree resin (e.g. Eucalyptus) foraging behaviour using molecular techniques such as DNA metabarcoding.</p><p>At QCIF, Ryan is a Data Scientist and R Developer within the EcoCommons and Sustainable Futures team.</p>"
-#   thumbnailUrl: ryan_newis.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "", title: "", url: ""}
-#     - {abbr: "", title: "", url: ""}
-#   social: https://www.qcif.edu.au/qcif-people/ryan-newis
-# -
 #   id: 239
 #   name: Siddeswara
 #   surname: Guru
@@ -608,6 +594,20 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
+-
+  id: 237
+  name: Dr Ryan
+  surname: Newis
+  pronouns: He/Him
+  company: QCIF
+  title: 
+  bio: "<p>Dr Ryan Newis is an ecological data scientist and modeller with extensive experience in environmental science, data integration and analysis, species distribution modelling, and reproducible research workflows. As lead investigator on state and national projects, he develops scalable ecological modelling tools that inform biodiversity management and conservation planning. At QCIF, he contributes to the advancement of digital research infrastructure such as the EcoCommons platform, reproducible coding notebooks, and delivering stakeholder-driven environmental solutions. With a PhD from Griffith University in landscape and insect ecology, he combines strong analytical expertise, technical leadership, and applied research to bridge science and policy outcomes.</p>"
+  thumbnailUrl: ryan_newis.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/ryan-newis
 -
   id: 238
   name: Dr Sara
