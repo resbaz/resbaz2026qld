@@ -8,43 +8,217 @@ image: Wattle_ResbazQld_NathCampus.avif
 
 {% include top-section.html %}
 
+<style>
+    #registration-cta {
+        position: relative;
+        min-height: 340px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-image: url({{ site.baseurl }}/img/sections-background/whitewall.jpg);
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+        border-radius: 18px;
+        margin-bottom: 50px;
+    }
+
+    #registration-cta .registration-bg-overlay {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+            135deg,
+            rgba(255, 255, 255, 0.72),
+            rgba(255, 255, 255, 0.42)
+        );
+        z-index: 1;
+    }
+
+    #registration-cta .registration-link {
+        position: relative;
+        z-index: 2;
+        display: block;
+        width: 100%;
+        color: inherit;
+        text-decoration: none;
+        padding: 60px 20px;
+    }
+
+    #registration-cta .registration-card {
+        max-width: 850px;
+        margin: 0 auto;
+        padding: 38px 46px;
+        background: rgba(255, 255, 255, 0.9);
+        border: 1px solid rgba(255, 255, 255, 0.8);
+        border-radius: 22px;
+        box-shadow: 0 18px 45px rgba(0, 0, 0, 0.16);
+        backdrop-filter: blur(8px);
+    }
+
+    #registration-cta .registration-badge {
+        display: inline-block;
+        margin-bottom: 18px;
+        padding: 7px 16px;
+        border-radius: 999px;
+        background: rgba(211, 84, 0, 0.12);
+        color: #c44f00;
+        font-size: 1.2rem;
+        font-weight: 800;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+    }
+
+    #registration-cta h2 {
+        margin: 0 0 16px;
+        color: #222;
+        font-size: 2.7rem;
+        line-height: 1.2;
+        font-weight: 800;
+    }
+
+    #registration-cta .registration-text {
+        margin: 0 auto 28px;
+        max-width: 720px;
+        color: #333;
+        font-size: 1.65rem;
+        line-height: 1.55;
+        font-weight: 500;
+    }
+
+    #registration-cta .registration-price {
+        font-weight: 800;
+        color: #111;
+    }
+
+    #registration-cta .registration-button {
+        display: inline-block;
+        padding: 14px 28px;
+        border-radius: 999px;
+        background: #d35400;
+        color: #fff;
+        font-size: 1.45rem;
+        line-height: 1.2;
+        font-weight: 800;
+        box-shadow: 0 8px 20px rgba(211, 84, 0, 0.28);
+        transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    }
+
+    #registration-cta .registration-link:hover .registration-button {
+        background: #b94600;
+        transform: translateY(-2px);
+        box-shadow: 0 12px 26px rgba(211, 84, 0, 0.36);
+    }
+
+    #registration-cta .registration-link:hover .registration-card {
+        box-shadow: 0 22px 55px rgba(0, 0, 0, 0.2);
+    }
+
+    #register .registration-info {
+        margin-top: 10px;
+    }
+
+    #register .registration-info h2 {
+        margin-top: 34px;
+    }
+
+    #register .registration-info p {
+        font-size: 1.15em;
+        line-height: 1.75;
+    }
+
+    @media (max-width: 767px) {
+        #registration-cta {
+            min-height: 300px;
+            border-radius: 14px;
+            margin-bottom: 36px;
+        }
+
+        #registration-cta .registration-link {
+            padding: 40px 16px;
+        }
+
+        #registration-cta .registration-card {
+            padding: 30px 24px;
+            border-radius: 18px;
+        }
+
+        #registration-cta h2 {
+            font-size: 2.2rem;
+        }
+
+        #registration-cta .registration-text {
+            font-size: 1.35rem;
+        }
+
+        #registration-cta .registration-button {
+            font-size: 1.25rem;
+            padding: 13px 24px;
+        }
+
+        #register .registration-info p {
+            font-size: 1.05em;
+        }
+    }
+</style>
+
 <section id="register" class="partners">
     <div class="content-wrapper">
-        <!--
-            <section id="twitter-feed" class="twitter-feed image-section parallax"
-            style="background-image: url({{ site.baseurl }}/img/sections-background/whitewall.jpg);">
-            <a href="https://events.griffith.edu.au/d3BMaG" target="_blank">
-                <div class="overlay solid-overlay"></div>
-                <div class="content-wrapper">
-                    <div class="col-md-8 col-md-offset-2">
-                        <br>
-                        <h5>Registration is now open!<br>Just $50 for three full days of talks, workshops, networking
-                            and social
-                            activities!<br> <br> <b>Click here to Register</b>
-                            <h5>
-                    </div>
+
+        <section id="registration-cta">
+            <div class="registration-bg-overlay"></div>
+
+            <a class="registration-link"
+               href="https://events.griffith.edu.au/ZDqoP0"
+               target="_blank"
+               rel="noopener noreferrer">
+
+                <div class="registration-card">
+                    <div class="registration-badge">Registration open</div>
+
+                    <h2>Register for ResBaz Queensland 2026</h2>
+
+                    <p class="registration-text">
+                        <span class="registration-price">Just $60</span> for three full days of talks, workshops,
+                        networking and social activities.
+                    </p>
+
+                    <span class="registration-button">
+                        Click here to go to the registration page
+                    </span>
                 </div>
             </a>
-        </section>-->
-        <div class="col-lg-8 col-lg-offset-2">
+        </section>
+
+        <div class="col-lg-8 col-lg-offset-2 registration-info">
             <h2>Who can register?</h2>
 
-            <p>✔️ Researchers at ALL levels and from ALL disciplines<br>
-            ✔️ PhD candidates, research masters students, and early career researchers<br>
-            ✔️ Research technologists and software engineers supporting research<br>
-            ✔️ All university or government-funded staff or students welcome!</p>
+            <p>
+                ✔️ Researchers at ALL levels and from ALL disciplines<br>
+                ✔️ PhD candidates, research masters students, and early career researchers<br>
+                ✔️ Research technologists and software engineers supporting research<br>
+                ✔️ All university or government-funded staff or students welcome!
+            </p>
 
-            <p>Please note: commercial attendees are only permitted to attend through sponsorship agreements. Please get in touch for more details.</p>
+            <p>
+                Please note: commercial attendees are only permitted to attend through sponsorship agreements.
+                Please get in touch for more details.
+            </p>
 
             <h2>Cost of Living Support</h2>
 
-            <p>The cost of living is making life very tough right now. We don't want anyone to miss out on ResBaz
+            <p>
+                The cost of living is making life very tough right now. We don't want anyone to miss out on ResBaz
                 because of financial concerns, so please reach out for a free ticket if you are worried about the cost
-                of attending ResBaz.</p>
+                of attending ResBaz.
+            </p>
 
-            <p>We are also offering free registration to volunteers and those that need it, so get in touch <a
-                    href=" mailto:resbaz@qcif.edu.au " target="_blank">resbaz@qcif.edu.au</a>
-                if you need it or if you're keen to help out.</p>
-            </div>
+            <p>
+                We are also offering free registration to volunteers and those that need it, so get in touch
+                <a href="mailto:resbaz@qcif.edu.au" target="_blank">resbaz@qcif.edu.au</a>
+                if you need it or if you're keen to help out.
+            </p>
+        </div>
+
     </div>
 </section>
