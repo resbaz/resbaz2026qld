@@ -45,12 +45,31 @@
   speakers: 
   subtype:
   service:
-  hidden: false
+  hidden: true
   description: 
 -
   title: Afternoon tea + 10 Year Anniversary special event (KG-E5 Function Space)
   themes: []
   id: 006
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: 
+# Room changes
+-
+  title: Move from KG-F509 to KG-E5 workshop rooms
+  themes: []
+  id: 010
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: 
+-
+  title: Move from KG-E5 Function Space to KG-F509
+  themes: []
+  id: 011
   speakers:
   subtype:
   service:
@@ -1135,24 +1154,6 @@ The content covered by this workshop will include:
   hidden: false
   description: "We are going deep into analysis of GPS data for athlete performance modelling. We will work with Trail Running data, but analysis methods are transfereable to a wide array of disciplines."
 -
-  title: "Software Carpentry: Plotting and Programming in Python (1.5 days)"
-  themes: []
-  id: 4001
-  speakers: [212,303,304,285,305,216]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
--
-  title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
-  themes: []
-  id: 4002
-  speakers: [212,303,304,234]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
--
   title: "Accelerating systematic reviews with automation tools"
   themes: []
   id: 2084
@@ -1222,7 +1223,6 @@ We will cover:</p>
 <li>Exploring and interpreting model outputs.</li>
 <li>Using EcoCommons notebooks to convert between spatial file formats and modify spatial outputs</li>
 </ul>
- 
 <p>By the end of the workshop, attendees will understand how to:</p>
 <ul>
 <li>Navigate the EcoCommons platform</li>
@@ -1231,6 +1231,47 @@ We will cover:</p>
 <li>Produce accurate and meaningful results and modify model outputs for downstream workflows and reporting</li>
 <li>Access and use EcoCommons coding notebooks</li>
 </ul>"
+-
+  title: "Software Carpentry: Plotting and Programming in Python (1.5 days)"
+  themes: []
+  id: 4001
+  speakers: [212,303,304,285,305,216]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+
+# Carpentries
+-
+  title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
+  themes: []
+  id: 4002
+  speakers: [212,303,304,234]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+-
+  title: "QCIF Drop-in Consultations"
+  themes: []
+  id: 4003
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p></p><p></p>"
+
+# Room changes
+-
+  title: ""
+  themes: []
+  id: 5000
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: true
+  description: "<p></p><p></p>"
+
 
 -
   title: ""
