@@ -2403,6 +2403,9 @@ section {
     padding-bottom: 60px;
     text-align: center;
 }
+section.schedule {
+    min-height: 100px;
+}
 p {
     font-size: 17px;
     font-weight: 300;
