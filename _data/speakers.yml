@@ -1251,6 +1251,20 @@ Dr Zhao is regularly invited to review grants for national and international fun
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 306
+  name: Justin
+  surname: Clark
+  pronouns: 
+  company: Institute for Evidence-Based Healthcare
+  title: 
+  bio: "Justin Clark is a Research Fellow in Evidence Review Acceleration  at the Institute for Evidence-Based Healthcare (IEBH). He is also the Cochrane Information Specialist for the Acute Respiratory Infections Group, was a member of the Cochrane Information Specialists Executive and the Co-Lead of the search group of the Living Evidence Network. He is one of the inventors of the Two-Week Systematic Review (2weekSR) method, a founding member of the International Collaboration for the Automation of Systematic Reviews (ICASR) and leads the development of the Systematic Review Accelerator (SRA), a suite of automation tools that accelerate the production of evidence synthesis. His research focuses on improving evidence synthesis methods to reduce the resources needed to conduct reviews of the evidence."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 
 -
   id: 999

@@ -1152,6 +1152,23 @@ The content covered by this workshop will include:
   service:
   hidden: false
   description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+-
+  title: "Accelerating systematic reviews with automation tools"
+  themes: []
+  id: 2084
+  speakers: [306]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Background: The use of automation tools to assist in systematic review production is becoming more common. Most tools assist with, 1) identifying and removing duplicate records and 2) screening and selection of relevant studies. The Evidence Review Accelerator (TERA) supports all tasks in review production. TERA assists with designing the review question, searching for and deduplicating studies, selecting studies, data extraction, conducting multiple types of meta-analysis and writing the methods and results.
+</p><p>
+TERA is purpose built by the two-week systematic review team (2weekSR) to enable full reviews to be completed in vastly reduced timeframes. We published an analysis of 10 of our reviews showing median time to completion was 11 workdays. 
+</p><p>
+Objectives: This workshop will show participants how to use TERA and how it fits into review workflows to improve the speed and quality of conducting systematic reviews.
+</p><p>
+Description: The workshop will comprise live demonstrations of TERA, conducted by the TERA developers and expert users of the tools. The live demonstration will be interspersed with hands on tutorials in using the tools. Interactive feedback with the presenters will be encouraged, and sufficient time for this is incorporated in the design of the workshop. The expert skills of the presenters in both conducting reviews and using the tools is a key component of the workshop. All the tools in the workshop are free and available to be used via the Evidence Review Accelerator website: https://tera-tools.com/
+</p><p>
+Activities/Interaction Plans: The workshop will comprise of the following plan: 1) a brief introduction; 2) an interactive component with the presenters and participants designing and writing a review using the Methods Wizard; 3) a demonstration of creating focused searches using the Word Frequency Analyser, SearchRefiner, Polyglot Search Translator and the Deduplicator; 4) a demonstration of Generative AI powered screening using MechaScreener; 5) a demonstration of citation searching with SpiderCite; 6) interactive discussion and demonstration of the meta-analysis tools, MetaInsight, MetaDTA, MetaWise; 7) Using TERA Farmer to test whether all relevant studies have been found.</p>"
 
 -
   title: ""
