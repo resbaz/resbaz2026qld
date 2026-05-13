@@ -17,8 +17,8 @@
   name: Celise
   surname: Gibson
   pronouns: 
-  company: QUT College
-  title: Discipline Lead of Creative Industries
+  company: QUT
+  title: Wadjigan woman, Discipline Lead (Creative Industries), QUT College
   bio: 
   thumbnailUrl: celise_gibson.jpg
   rockstar: true
@@ -32,7 +32,7 @@
   surname: Kitano
   pronouns: 
   company: QUT
-  title: Language and Learning Educator
+  title: Language and Learning Educator, Graduate Research Education & Development (GRE+D)
   bio: 
   thumbnailUrl: natasha_kitano.jpg
   rockstar: true
@@ -158,7 +158,7 @@
   surname: Newis
   pronouns: He/Him
   company: QCIF
-  title: 
+  title: Software Developer (R Specialist)
   bio: "<p>Dr Ryan Newis is an ecological data scientist and modeller with extensive experience in environmental science, data integration and analysis, species distribution modelling, and reproducible research workflows. As lead investigator on state and national projects, he develops scalable ecological modelling tools that inform biodiversity management and conservation planning. At QCIF, he contributes to the advancement of digital research infrastructure such as the EcoCommons platform, reproducible coding notebooks, and delivering stakeholder-driven environmental solutions. With a PhD from Griffith University in landscape and insect ecology, he combines strong analytical expertise, technical leadership, and applied research to bridge science and policy outcomes.</p>"
   thumbnailUrl: ryan_newis.jpg
   rockstar: false
@@ -511,7 +511,7 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   surname: Karnavar
   pronouns: She/Her
   company: Griffith University
-  title: 
+  title: PhD Candidate
   bio: "<p>Anjusree is a Doctoral Researcher at Griffith University, focusing on Computer Vision, Image Restoration, and Deep Learning. Her research develops advanced deep learning and generative AI methods, including diffusion models and Vision Transformers, to restore and enhance degraded visual data for more reliable vision-based systems.Alongside her PhD, she holds a Master of Technology (by Research) in Computer Science and Engineering from Kerala University, India, where she published research in computer vision at national and international conferences. She brings over six years of professional experience across academia and industry. She has worked as an IT Support Officer at Migrant and Refugee Settlement Services (MARSS), Canberra, where she supported IT systems, user training, and technical operations. Prior to that, she spent six years as an Assistant Professor in Computer Science, contributing to teaching, mentoring, and research supervision. She is passionate about applying computer vision and AI to real-world problems, particularly in image understanding, restoration, and generative modeling. She is currently open to opportunities in Computer Vision, Machine Learning, and AI roles in industry and research."
   thumbnailUrl: 
   rockstar: false
@@ -739,7 +739,7 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   surname: Zhao
   pronouns: 
   company: UniSC
-  title: 
+  title: Senior Research Fellow
   bio: "<p>Dr Min Zhao is a Senior Lecturer at UniSC, School of Science, Technology and Engineering, specialising in bioinformatics and genomics. He graduated from Peking University in 2009 with a PhD and subsequently undertook a Postdoctoral Research Fellow position at Vanderbilt University, USA, where he focused on the analysis and integration of high-throughput genomic, transcriptome, and literature data in complex diseases.
 </p><p>
 Dr Zhao joined UniSC as a Research Fellow in 2014, leading an emerging group in the GeneCology Research Centre to integrate multi-dimensional data, including genome, transcriptome, and proteomics datasets. In 2018, he was promoted to Senior Research Fellow. He has supervised four PhD students and co-supervised two additional PhD students, fostering a collaborative research environment that has attracted approximately A$500,000 in scholarships and training grants.
@@ -897,6 +897,20 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
   bio: "</p>Luis Alberto Porras is a PhD candidate at Queensland University of Technology (QUT), specialising in learning analytics, blended learning, and educational design research. His research focuses on how teachers use learning analytics dashboards to solve problems of practice and support data-informed decision-making.
 </p><p>
 He has developed systematic and data-driven workflows for literature reviews, integrating Excel-based matrix outlining with Power BI dashboards to support academic writing, synthesis, and research design. His work is grounded in pragmatism and focuses on practical, transferable research methods for higher education contexts.<p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 312
+  name: Ooroosa
+  surname: Ali
+  pronouns: 
+  company: QCIF
+  title: Software Tester
+  bio: ""
   thumbnailUrl: 
   rockstar: false
   ribbon:
