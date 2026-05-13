@@ -5933,3 +5933,14 @@ nav li a:hover {
     font-size: 38px; /* or whatever you prefer */
     font-weight: 400; /* adjust if needed */
 }
+.about-cta {
+    text-align: center;
+    margin: 18px 0 0;
+    padding: 0;
+}
+.about-cta-button {
+    margin: 0;
+    padding: 8px 16px;
+    line-height: 1.2;
+    font-size: 16px;
+}
