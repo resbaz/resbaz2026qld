@@ -6,20 +6,78 @@ image: PurpleF_Dark_ResbazQld_NathCampus.jpg
 ---
 
 {% include top-section.html %}
-<section id="schedule" class="schedule">
-    <div class="content-wrapper">
-        <div class="col-lg-8 col-lg-offset-2">
-            <p>Welcome and Keynote locations:</p>
-            <ul>
-                <li>Welcome Address and Keynote Addresses are held in KG-F509 on days 1 and 2.</li>
-                <li>The day 3 Keynote Address is held in the KG-E5 Function Space.</li>
-            </ul></p>
-            <p>Drop-in consultations (outside of talk and workshop times, in room KG-E555):</p>
-            <ul>
-                <li>Days 1 and 2: QCIF drop-in consultations</li>
-                <li>Day 3: QCIF, R and Python drop-in consultations</li>
-            </ul></p>
-        </div> 
-    </div> 
+
+<section id="schedule-intro" class="schedule-intro">
+  <style>
+    #schedule-intro {
+      padding: 36px 0 22px;
+      background: #fff;
+    }
+
+    #schedule-intro .schedule-notice {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px 32px;
+      background: linear-gradient(135deg, #f8fafc 0%, #f3f6f8 100%);
+      border: 1px solid #d9e1e7;
+      border-left: 7px solid #7f9aa8;
+      border-radius: 14px;
+      box-shadow: 0 8px 24px rgba(31, 41, 55, 0.08);
+      text-align: center;
+      color: #263238;
+      font-size: 1.18em;
+      line-height: 1.65;
+    }
+
+    #schedule-intro .schedule-notice p {
+      margin: 0 0 12px;
+    }
+
+    #schedule-intro .schedule-notice p:last-child {
+      margin-bottom: 0;
+    }
+
+    #schedule-intro .schedule-notice .notice-heading {
+      font-weight: 700;
+      color: #1f2933;
+    }
+
+    #schedule-intro .schedule-notice .notice-detail {
+      color: #37474f;
+    }
+
+    @media (max-width: 767px) {
+      #schedule-intro {
+        padding: 28px 16px 18px;
+      }
+
+      #schedule-intro .schedule-notice {
+        padding: 20px 22px;
+        font-size: 1.05em;
+        text-align: left;
+      }
+    }
+  </style>
+
+  <div class="content-wrapper">
+    <div class="schedule-notice">
+      <p class="notice-heading">Welcome and Keynote locations:</p>
+
+      <p class="notice-detail">
+        Welcome Address and Keynote Addresses are held in KG-F509 on days 1 and 2.<br>
+        The day 3 Keynote Address is held in the KG-E5 Function Space.
+      </p>
+
+      <p class="notice-heading">
+        Drop-in consultations <span class="notice-detail">(outside of talk and workshop times, in room KG-E555):</span>
+      </p>
+
+      <p class="notice-detail">
+        Days 1 and 2: QCIF drop-in consultations<br>
+        Day 3: QCIF, R and Python drop-in consultations
+      </p>
+    </div>
+  </div>
 </section>
+
 {% include schedule.html %}
