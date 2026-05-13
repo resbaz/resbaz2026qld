@@ -6,7 +6,7 @@
   hidden: true
   description: null  
 -
-  title: Registration (in KG-F509 foyer)
+  title: Registration (in KG-F509 Foyer)
   themes: []
   id: 001
   speakers: 
@@ -64,6 +64,14 @@
   subtype:
   service:
   hidden: false
+  description: 
+# Registration with different location
+-
+  title: Registration (in KG-E5 Function Space)
+  themes: []
+  id: 008
+  speakers: 
+  hidden: true
   description: 
 # Room changes
 -
@@ -649,7 +657,7 @@ Through real examples and practical frameworks, attendees will leave with concre
 </ul>
 <p>This is not a workshop on aesthetics. It is a workshop on thinking clearly—and making that thinking visible.</p>"
 -
-  title: "Species Distribution Modelling in EcoCommons: Introduction to Platform and Notebook Workflows for Research"
+  title: "Species distribution modelling in EcoCommons: Introduction to platform and notebook workflows for research"
   themes: []
   id: 2087
   speakers: [237]
