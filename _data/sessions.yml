@@ -171,7 +171,7 @@ The workshop also introduces a broader philosophical perspective on learning bey
   title: "How to wrestle a billion words (of Hansard)"
   themes: []
   id: 2047
-  speakers: [202,273]
+  speakers: [202]
   subtype: Workshop
   service:
   hidden: false
@@ -310,7 +310,7 @@ On completion of this hands-on workshop, participants will be familiar with:
   title: "From a mess to a map"
   themes: []
   id: 2059
-  speakers: [202,249]
+  speakers: [249,202]
   subtype: Workshop
   service:
   hidden: false
@@ -404,7 +404,7 @@ By the end of the workshop, participants will be able to identify dyadic data st
   title: "Introduction to computational text analytics"
   themes: []
   id: 2067
-  speakers: [202]
+  speakers: [273,202]
   subtype: Workshop
   service:
   hidden: false

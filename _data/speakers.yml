@@ -3,7 +3,7 @@
   name: Prof. Michael
   surname: Milford
   pronouns:
-  company: QUT, Faculty of Engineering, School of Electrical Engineering & Robotics
+  company: School of Electrical Engineering & Robotics, Faculty of Engineering, QUT
   title: 
   bio: 
   thumbnailUrl: michael_milford.jpg
@@ -144,7 +144,7 @@
   surname: Meloncelli
   pronouns: 
   company: QCIF
-  title: 
+  title: Head, Skills & Training
   bio: "Danny leads QCIF’s digital research training program, overseeing the development and delivery of high-impact courses that equip researchers with critical skills in coding, statistics, data management and bioinformatics. Danny has a PhD in Analytical Chemistry and a Master of Data Science. Prior to joining QCIF at the start of this year, Danny was a STEM Learning Adviser at UniSC for over a decade. Danny has a passion for simplifying complexity, upskilling others, fostering a growth mindset, and harnessing the power of education to create lasting impact."
   thumbnailUrl: danny_meloncelli.png
   rockstar: false
@@ -259,9 +259,9 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
   name: Halimat
   surname: Atanda
   pronouns: She/Her
-  company: 
+  company: UQ
   title: 
-  bio: 
+  bio: "Halimat is a final-year PhD student at the Mater Research Institute-University of Queensland.  Her research focuses on developing software and pipelines to analyse cancer genomes obtained from a new DNA sequencing technology. She primarily uses Python to write analysis scripts and occasionally BaSH. She is also a science writer who has authored several simplified research articles to make biomedical research accessible to a wider audience."
   thumbnailUrl: halimat_atanda.jpg
   rockstar: false
   ribbon:
@@ -320,9 +320,9 @@ She is currently developing an experimental writing project exploring how dialog
   name: Dr Martin
   surname: Schweinberger
   pronouns: 
-  company: UQ
-  title: 
-  bio: "<p></p><p></p>"
+  company: UQ, LADAL
+  title: Senior Lecturer, Director or Research
+  bio: "<p>Martin Schweinberger uses big data and computational methods to explore the messy, fascinating reality of how people actually talk—including all the swear words, filler words, and informal expressions that traditional language education overlooks. As a Senior Lecturer in Applied Linguistics at the University of Queensland, he bridges the gap between computer science and linguistics to understand how language evolves in our digital age.</p><p></p>"
   thumbnailUrl: martin_schweinberger.jpg
   rockstar: false
   ribbon:
@@ -775,7 +775,7 @@ Dr Zhao is regularly invited to review grants for national and international fun
   surname: Scott
   pronouns: 
   company: UQ Data Science CRP
-  title: 
+  title: Biostatistician
   bio: "Justin is a Biostatistician with the UQ Data Science Cooperative Research Platform (CRP)."
   thumbnailUrl: 
   rockstar: false
@@ -863,7 +863,7 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
   surname: McDonald
   pronouns: 
   company: QUT
-  title: DVC and VP Research
+  title: Deputy Vice-Chancellor and Vice-President (Research)
   bio: "<p></p><p></p>"
   thumbnailUrl: 
   rockstar: true
@@ -877,7 +877,7 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
   surname: Oon
   pronouns: They/Them
   company: QUT / QCIF
-  title: 
+  title: Research Assistant
   bio: "Senn is a creative dabbler, frequent events volunteer, and education enthusiast. They are currently studying a Master's of Information Science degree while teaching with QCIF and QUT. Ask them about their recent thesis on archives in video games!"
   thumbnailUrl: 
   rockstar: false
