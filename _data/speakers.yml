@@ -248,7 +248,7 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
   company: 
   title: 
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: halimat_atanda.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -425,7 +425,7 @@ She is currently developing an experimental writing project exploring how dialog
 His multidisciplinary approach spans the development of EMG informed neuromusculoskeletal models, high fidelity finite element models using Abaqus, and automated pipelines for digital twin generation. This body of work has led to several high impact publications and has been recognised with multiple awards, including the Excellence in Research Thesis award for his PhD.
 </p><p>
 In addition to his academic research, Dr. Bavil is strongly committed to translating biomechanical modelling into clinically relevant tools. In his current role as a Research Fellow at Griffith University, he contributes to NHMRC and US DoD funded projects that integrate mechano-acoustic measurements, kinetic analysis, and computational modelling into next generation socket design, bone anchored implant assessment, and orthopaedic surgical workflows.</p>"
-  thumbnailUrl: 
+  thumbnailUrl: alireza_bavil.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -523,7 +523,7 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   company: UQ
   title: 
   bio: "Cameron is a technology trainer for UQ library and PhD student in atomic physics. He regularly runs Python training and consultations for researchers at the university, and uses the language in the computational aspects of his research (along with C++), which involves performing atomic structure calculations for exotic systems and interactions."
-  thumbnailUrl: 
+  thumbnailUrl: cameron_west.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
