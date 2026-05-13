@@ -917,3 +917,31 @@ He has developed systematic and data-driven workflows for literature reviews, in
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 313
+  name: Betsy
+  surname: Alpert
+  pronouns: 
+  company: QUT
+  title: Research Assistant, ARC Centre of Excellence for Automated Decision-Making & Society
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 314
+  name: Dr Eve
+  surname: Ansell
+  pronouns: 
+  company: QCIF
+  title: Data Scientist (HASS)
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
