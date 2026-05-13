@@ -74,7 +74,7 @@
   surname: Stapleton
   pronouns: She/Her
   company: Griffith University
-  title: Research Library Specialist
+  title: Library Research Specialist
   bio: "Sharron Stapleton is a Research Library Specialist at Griffith Library with over 30 years of experience in information management. She trains and advises researchers on data sourcing, preparation, visualization and publishing, and is a certified Data Carpentry instructor. A strong advocate for open research, Sharron regularly contributes as a trainer at ResBaz."
   thumbnailUrl: sharron_stapleton.jpg
   rockstar: false
@@ -172,7 +172,7 @@
   surname: Hutchinson
   pronouns: She/Her
   company: UniSC
-  title: 
+  title: Student Success Adviser
   bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
   thumbnailUrl: sara_hutchinson.jpg
   rockstar: false
@@ -246,7 +246,7 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
   surname: De Silva
   pronouns: She/Her
   company: QUT
-  title: 
+  title: PhD Candidate
   bio: "Dimanthinie is a responsible academic in higher education for Information Technology. She serves as a mentor, supervisor, and student advocate, assisting and directing students from the beginning of their undergraduate studies until graduation. She is now pursuing a PhD in Higher Education at Queensland University of Technology, with a research focus on developing an IT graduate who can adapt to the dynamic needs of an IT industry in terms of professional skills and competencies."
   thumbnailUrl: dimanthinie_de_silva.jpg
   rockstar: false
@@ -334,8 +334,8 @@ She is currently developing an experimental writing project exploring how dialog
   name: Dr Roy
   surname: Barkan
   pronouns: He/Him
-  company: USC
-  title: 
+  company: UniSC
+  title: Postdoctoral Research Fellow
   bio: "Dr Roy Barkan is a Research Fellow at the University of the Sunshine Coast specialising in genomics and bioinformatics. His research applies multi-omics approaches to address complex biological questions, with a focus on genome assembly, comparative genomics, and transcriptomics. Roy is passionate about molecular biology, genetics and bioinformatics."
   thumbnailUrl: 
   rockstar: false
@@ -349,7 +349,7 @@ She is currently developing an experimental writing project exploring how dialog
   surname: Taylor
   pronouns: She/Her
   company: QUT
-  title: 
+  title: Senior Lecturer
   bio: "Dr Madeline Taylor is a Senior Lecturer in Fashion, based in the School of Design. Her qualitative thematic research examines fashion consumption behaviour change and costume practice. She has recently published her first book with Routledge, Costumers at Work: Collaborative Creativity, Emotional Labour and Technical Skill in Costume Making, which was based on her PhD from University of Melbourne. She is a Marie Skłodowska-Curie Postdoctoral Fellow, Chair of ScenoLab Australia, and Books Editor for Studies in Costume and Performance."
   thumbnailUrl: 
   rockstar: false
@@ -393,7 +393,7 @@ He completed his PhD at QUT in 2015, focusing on ecoacoustics. His work sits at 
   surname: Fjaagesund
   pronouns: She/Her
   company: UniSC
-  title: 
+  title: Adjunct Appointee
   bio: "Shauna Fjaagesund is an industry-based researcher associated with the University of the Sunshine Coast and the University of Queensland. She concentrates on creating sustainable community and corporate health and well being models, with a focus on governance and stakeholder partnerships."
   thumbnailUrl: 
   rockstar: false
@@ -406,9 +406,11 @@ He completed his PhD at QUT in 2015, focusing on ecoacoustics. His work sits at 
   name: Dr Florin
   surname: Oprescu
   pronouns: 
-  company: 
-  title: 
-  bio: 
+  company: UniSC
+  title: Associate Professor in Health Promotion (School of Health, Public Health)
+  bio: "<p>Health promotion and education scholar specialized in mixed methods research - qualitative and quantitative. Passionate about educational development, teaching and learning, health education, health communication and capacity building. Advocate for translation of scientific evidence into practice and of good practice into evidence.
+</p><p>
+Associate Professor Florin Oprescu was awarded a PhD in Public Health (Community and Behavioural Health) from the University of Iowa in 2009. This is in addition to other formal degrees including Master of Business Administration, Master of Public Health and Medical Doctor.</p>"
   thumbnailUrl: 
   rockstar: false
   ribbon:
@@ -421,7 +423,7 @@ He completed his PhD at QUT in 2015, focusing on ecoacoustics. His work sits at 
   surname: Dendle
   pronouns: Any
   company: QUT
-  title: 
+  title: Research Engineer
   bio: "Nicholas is an operations research specialist, currently working with the Reef Restoration and Adaptation Program's Pilot Deployments Program, to help the Great Barrier Reef survive marine heatwaves. This followed a PhD on discrete-event simulation techniques for reducing waste in open-pit mining. The contrast continues to surprise others who aren't yet familiar with Nicholas' pursuit of answering the useful questions rather than the easy ones."
   thumbnailUrl: 
   rockstar: false
@@ -435,7 +437,7 @@ He completed his PhD at QUT in 2015, focusing on ecoacoustics. His work sits at 
   surname: Bavil
   pronouns: He/Him
   company: Griffith University
-  title: 
+  title: Research Fellow
   bio: "<p>Dr. Alireza Bavil’s areas of expertise include orthopaedic biomechanics, computational modelling, and surgical planning for bone implant systems. Since commencing his PhD at Griffith University, he has developed a highly translational research program focused on patient specific digital twins, neuromusculoskeletal modelling, and finite element analysis for orthopaedic applications. His work bridges clinical insight with advanced biomechanical simulation, with the aim of improving personalised surgical planning for complex procedures such as proximal femoral osteotomies and bone anchored prostheses.
 </p><p>
 His multidisciplinary approach spans the development of EMG informed neuromusculoskeletal models, high fidelity finite element models using Abaqus, and automated pipelines for digital twin generation. This body of work has led to several high impact publications and has been recognised with multiple awards, including the Excellence in Research Thesis award for his PhD.
@@ -453,8 +455,8 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   surname: Moat
   pronouns: She/Her
   company: UQ
-  title: 
-  bio: "Kaitlin is a post doctoral researcher working at UQ. During her time in research, she has had to communicate the same data to a wide variety of audiences, from industry partners at Boeing to senior academics at international conferences. Learning how to present the story of your data well is a skill Kaitlin has developed, and hopes to share with you in this workshop."
+  title: Postdoctoral Researcher
+  bio: "Kaitlin is a postdoctoral researcher working at UQ. During her time in research, she has had to communicate the same data to a wide variety of audiences, from industry partners at Boeing to senior academics at international conferences. Learning how to present the story of your data well is a skill Kaitlin has developed, and hopes to share with you in this workshop."
   thumbnailUrl: kaitlin_moat.jpg
   rockstar: false
   ribbon:
@@ -466,8 +468,8 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   name: Kylie
   surname: Burgess
   pronouns: 
-  company: 
-  title: 
+  company: Griffith University
+  title: Librarian (Researcher Services)
   bio: "<p></p><p></p>"
   thumbnailUrl: kylie_burgess.jpg
   rockstar: false
@@ -695,7 +697,7 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   surname: Winter
   pronouns: She/Her
   company: QUT
-  title: 
+  title: Writing Coach & Researcher
   bio: "Dr Abbe Winter (SFHEA) is a results-driven writing wellbeing specialist, collaborative mentor, and independent researcher, skilled in the analysis of words and data for user needs. Abbe is a researcher trainer, leader, and mentor, with over 20 years’ experience in quality assurance, and change and project management. While her PhD focused on what helps workers in higher education cope with large-scale organisational change, and she was part of the small team that created and developed the concept of academagogy (the scholarly leadership of learning), her more recent research has focussed upon professional identity, developing writing skills, and reflective practice."
   thumbnailUrl: 
   rockstar: false
@@ -708,8 +710,8 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   name: Jillian 
   surname: Blacker
   pronouns: 
-  company: 
-  title: 
+  company: QUT
+  title: HDR Client Services Manager (Client Support)
   bio: "Jill Blacker is an innovative administrative manager with over 15 years’ experience in the higher education sector working across many different areas including action research projects focused on the widening participation agenda. She has extensive experience providing support to researchers, supervisors, and academic leaders on all aspects of higher degree research; and has a proven track record of resolving complex cases to ensure mutually agreeable outcomes. She is a confident mentor and coach and has been drawn to learning about mental health practices and strategies to provide support to researchers and supervisors. Building relationships and working collaboratively and creatively is a key component of her professional practice. She is a Fellow of Advance HE."
   thumbnailUrl: 
   rockstar: false
@@ -722,8 +724,8 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   name: Amy
   surname: Webster
   pronouns: 
-  company: 
-  title: 
+  company: QUT
+  title: Senior Disability Adviser
   bio: "Amy Webster is a Senior Disability Adviser committed to fostering inclusive pedagogy. She brings experience from roles in disability education and sport in the UK, including coordinating training and development at the National Autistic Society. In Australia, Amy has worked at the Queensland Human Rights Commission, developing and delivering training to ensure anti-discrimination and human rights legislation is understood and applied in practice. She champions neuroaffirming practices that are embedded, not added."
   thumbnailUrl: 
   rockstar: false
