@@ -686,6 +686,25 @@ We will cover:</p>
 <li>Produce accurate and meaningful results and modify model outputs for downstream workflows and reporting</li>
 <li>Access and use EcoCommons coding notebooks</li>
 </ul>"
+-
+  title: "Designing literature review matrices with Excel and Power BI"
+  themes: []
+  id: 2088
+  speakers: [311]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This interactive workshop introduces a structured and data-driven approach to conducting literature reviews using Excel-based matrix outlining and Power BI dashboards. Participants will learn how to design and build a relational literature review database that supports systematic organization, citation extraction, and writing alignment for academic research (e.g., theses, journal articles, and systematic reviews).
+</p><p>
+The session will cover:</p>
+<ul>
+<li>Designing a structured literature review database in Excel (articles, metadata, classification)</li>
+<li>Building a citation extraction matrix aligned with writing purposes</li>
+<li>Linking sources to themes, categories, and sections of a research document</li>
+<li>Using Power BI to create dashboards for exploratory analysis (e.g., trends by year, topic distribution, methodological patterns)</li>
+<li>Leveraging dashboards to support sensemaking and academic writing</li>
+</ul>
+<p>By the end of the workshop, participants will have a reusable workflow to manage, analyse, and operationalise literature for research writing.</p>"
 # Carpentries
 -
   title: "Software Carpentry: Plotting and Programming in Python (1.5 days)"
@@ -705,12 +724,4 @@ We will cover:</p>
   service:
   hidden: false
   description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
--
-  title: "QCIF Drop-in Consultations"
-  themes: []
-  id: 4003
-  speakers: []
-  subtype: Workshop
-  service:
-  hidden: false
-  description: "<p></p><p></p>"
+

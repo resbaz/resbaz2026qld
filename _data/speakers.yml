@@ -887,3 +887,19 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 311
+  name: Luis Alberto
+  surname: Porras
+  pronouns: 
+  company: QUT
+  title: PhD Candidate
+  bio: "</p>Luis Alberto Porras is a PhD candidate at Queensland University of Technology (QUT), specialising in learning analytics, blended learning, and educational design research. His research focuses on how teachers use learning analytics dashboards to solve problems of practice and support data-informed decision-making.
+</p><p>
+He has developed systematic and data-driven workflows for literature reviews, integrating Excel-based matrix outlining with Power BI dashboards to support academic writing, synthesis, and research design. His work is grounded in pragmatism and focuses on practical, transferable research methods for higher education contexts.<p>"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
