@@ -678,17 +678,16 @@ We will cover:</p>
 <li>Produce accurate and meaningful results and modify model outputs for downstream workflows and reporting</li>
 <li>Access and use EcoCommons coding notebooks</li>
 </ul>"
+# Carpentries
 -
   title: "Software Carpentry: Plotting and Programming in Python (1.5 days)"
   themes: []
   id: 4001
-  speakers: [212,303,304,285,305,216]
+  speakers: [212,303,304,285,305,216,310]
   subtype: Workshop
   service:
   hidden: false
   description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
-
-# Carpentries
 -
   title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
   themes: []

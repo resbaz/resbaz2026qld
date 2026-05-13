@@ -853,3 +853,17 @@ Dr. Kafer has extensive experience communicating complex scientific concepts to 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 310
+  name: Senn
+  surname: Oon
+  pronouns: They/Them
+  company: QUT / QCIF
+  title: 
+  bio: "Senn is a creative dabbler, frequent events volunteer, and education enthusiast. They are currently studying a Master's of Information Science degree while teaching with QCIF and QUT. Ask them about their recent thesis on archives in video games!"
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
