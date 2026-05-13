@@ -362,9 +362,11 @@ She is currently developing an experimental writing project exploring how dialog
   name: Anthony
   surname: Truskinger
   pronouns: 
-  company: 
-  title: 
-  bio: 
+  company: Open EcoAcoustics
+  title: Technical Lead, RS Engineer
+  bio: "<p>Anthony Truskinger is a research software engineer and Technical Lead at Open EcoAcoustics, an ARDC Planet Research Data Commons project. He leads the development of open infrastructure and standards for ecoacoustic data and research software, enabling reproducible and scalable research. His work focuses on building software systems and data pipelines for analysing large environmental audio datasets for biodiversity monitoring.
+</p><p>
+He completed his PhD at QUT in 2015, focusing on ecoacoustics. His work sits at the intersection of software engineering, data-intensive science, and ecology, with contributions to platforms and open-source tools used to process and interpret large acoustic datasets. His publications cover bioacoustic event detection, annotation systems, and large-scale environmental monitoring workflows.</p>"
   thumbnailUrl: 
   rockstar: false
   ribbon:
