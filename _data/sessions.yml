@@ -368,7 +368,18 @@ We'll work through a case study and some demonstration tools to help you:
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>Don't let limited computing power slow down your research. The ARDC Nectar Research Cloud provides fast and scalable computing resources tailored specifically for research.
+</p><p>
+Whether you need to run intensive data analyses and complex simulations, train AI and ML models, manage big data or collaborate seamlessly across institutions, Nectar gives you the computational power to scale up your work.
+</p><p>
+Join us for an interactive introduction to Nectar, where we'll cover:</p>
+</ul>
+<li>What is cloud computing and how can it accelerate my research?</li>
+<li>Real-world case studies powered by Nectar.</li>
+<li>Guidance on accessing tutorials and ongoing support.</li>
+<li>Live Q&A to answer your questions.</li>
+</ul>
+<p>No cloud computing or coding experience is required to attend.</p>"
 -
   title: "Python behind-the-scenes: What data scientists should know"
   themes: []
@@ -408,7 +419,10 @@ By the end of the workshop, participants will be able to identify dyadic data st
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>
+Do you have more text than you know what to do with? Did you collect data including text for your project and now feel overwhelmed when you try to analyse? Is there too much? Are you doing the same thing over and over again and feeling like you're not using your time efficiently? Are you worried about missing the forest for the trees (or the trees for the forest)?  If any of these apply to you (or you're just interested in learning more) this workshop is for you.
+</p><p>
+This workshop will introduce the fundamentals of computational text analysis using LADAL. We'll start with the key questions of why and where computational methods might be appropriate for your work before demonstrating a few key computational methods that are relevant for many researchers.</p>"
 -
   title: "The research orchestrator: Building multi-tool agentic workflows for research"
   themes: []
@@ -598,7 +612,13 @@ The content covered by this workshop will include:
   subtype: Workshop
   service:
   hidden: false
-  description: "<p></p><p></p>"
+  description: "<p>Ever wanted to run bioinformatics tools from the command line but didn't know where to start? This hands-on workshop is designed for researchers with no programming background who want to harness the power of AI to make genomics analysis faster and less intimidating.
+</p><p>
+We will work through a complete beginner workflow in four practical steps. First, participants will be introduced to the Linux command line through Windows Subsystem for Linux 2 (WSL2) — no prior Linux experience required. Second, we will install NCBI BLAST+ locally, covering the essential steps of setting up a real bioinformatics tool in a Linux environment. Third, and most importantly, participants will learn how to use a freely available large language model (such as ChatGPT) to generate, explain, and troubleshoot Bash scripts for running BLAST searches — turning natural language questions into working code without writing a single line yourself. Finally, time permitting, we will demonstrate how an AI agent can go one step further: autonomously executing BLAST queries, parsing outputs, and returning results on your behalf.
+</p><p>
+By the end of this session, participants will be comfortable navigating a Linux terminal, will have a working BLAST installation, and will leave with a practical mental model for using AI as a coding assistant in their own research — applicable well beyond BLAST to any command-line bioinformatics tool.
+</p><p>
+All you need is a laptop with WSL2 installed. A setup guide will be circulated to registered participants before the session.</p>"
 -
   title: "Data driven endurance sports research: A workshop in R"
   themes: []
