@@ -71,7 +71,7 @@ layout: compress
     {% endif %} 
     <script>
         Waves.displayEffect();
-        {% if false %}
+        {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'index',
                     eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
