@@ -945,3 +945,45 @@ He has developed systematic and data-driven workflows for literature reviews, in
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 315
+  name: Dr Riad
+  surname: Akhundov
+  pronouns: 
+  company: Griffith
+  title: Senior eResearch Analyst
+  bio: "Riad Akhundov is a Senior eResearch Analyst in the eResearch and Specialised Advisory department at Griffith University. His PhD focused on Computational Biomechanics (i.e., computer/data science applied to human motion). As a eResearch Analyst, Riad is involved in various projects and collaborations, including instructing/assisting with workshops, helping researchers and students with their coding/IT/statistical needs, and building an eResearch knowledge base."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 316
+  name: Dr Catherine
+  surname: Kim
+  pronouns: She/Her
+  company: QUT
+  title: Postdoctoral Marine Scientist
+  bio: "Catherine is a Carpentries Instructor and has previously taught R at ResBaz and for QCIF. She is a postdoctoral marine scientist at QUT."
+  thumbnailUrl: catherine_kim.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 317
+  name: Stéphane
+  surname: Guillou
+  pronouns: He/Him
+  company: UQ
+  title: Technology Trainer, Library
+  bio: "Stéphane is a Technology Trainer at The University of Queensland Library. Having studied plant science and ecology, he worked as a research assistant at the School of Agriculture, before moving to the Library to teach about research software, data visualisation and programming. He is passionate about Open Research principles, skill-sharing about Open Source tools, and environmental conservation. He is a certified Carpentries Insutructor Trainer."
+  thumbnailUrl: stephane_guillou.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 

@@ -739,7 +739,7 @@ The session will cover:</p>
   title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
   themes: []
   id: 4002
-  speakers: [212,303,304,234]
+  speakers: [316,315,317,212,303,304,234]
   subtype: Workshop
   service:
   hidden: false
