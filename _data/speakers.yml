@@ -5,7 +5,9 @@
   pronouns:
   company: School of Electrical Engineering & Robotics, Faculty of Engineering, QUT
   title: 
-  bio: 
+  bio: "<p>I conduct interdisciplinary research at the boundary between robotics, neuroscience and computer vision and am a multi-award winning educational entrepreneur. My research models the neural mechanisms in the brain underlying tasks like navigation and perception to develop new technologies in challenging application domains such as all-weather, anytime positioning for autonomous vehicles. I am also passionate about engaging and educating all sectors of society around new opportunities and impacts from technology including robotics, autonomous vehicles and artificial intelligence. I currently hold the positions of Australian Research Council Laureate Fellow, Joint Director of the QUT Centre for Robotics, QUT Professor, Microsoft Research Faculty Fellow and am a former Chief Investigator at the Australian Centre for Robotic Vision.</p>
+<p>I have or am leading or co-leading projects totalling more than 48 million dollars in research and industry funding for fellowships and team grants. My papers have won (6) or been finalists (9) for 15 best paper awards including the 2012 ICRA Best Vision paper. My citation h-index is 44, with 10,526 citations as of August 2022. Awards include a Microsoft Research Faculty Fellowship, the ATSE Batterham Medal and Queensland Young Tall Poppy of the Year. I was named top robotics researcher in Australia by citation impact by The Australian Research Magazine (2019, 21) and was a top 3 finalist for the Australian Museum Eureka Prize for Outstanding Early Career Researcher and the APEC ASPIRE Prize. I have dual Australian-US citizenship and have lived and worked in locations including Boston, Edinburgh and London. I have collaborated with organizations including Harvard University, Boston University, Oxford University, MIT, Google Deepmind, Amazon, Ford, Intel, NVIDIA, Caterpillar, the US Air Force Office of Scientific Research and NASA’s Jet Propulsion Laboratory.</p>
+<p>As a lifelong educational entrepreneur, I have created innovative educational resources for students for 20 years, with customers across 35 countries. My company Math Thrills combines mass market entertainment and STEM education to create math-filled young adult fiction and movie-inspired education. Math Thrills has received funding from Kickstarter, QUTBluebox and the AMP Foundation, honours including the Queensland Young Tall Poppy of the Year Award, finalist at the Reimagine Education awards, a TedXQUT talk and a World Science Festival event. We have over 20 titles including The Complete Guide to AI for Kids, the STEM Storybook and Rachel Rocketeer.</p>"
   thumbnailUrl: michael_milford.jpg
   rockstar: true
   ribbon:
@@ -33,7 +35,9 @@
   pronouns: 
   company: QUT
   title: Language and Learning Educator, Graduate Research Education & Development (GRE+D)
-  bio: 
+  bio: >-
+    <p>Higher education specialist and doctoral researcher with over 20 years’ experience in teaching, researcher development, and academic support. A national and international leader in HDR wellbeing, mentoring, and supervision pedagogy. Passionate about building inclusive, connected research cultures and enhancing supervisory practice.</p>
+    <p>Chair of international mentoring and researcher development communities, including Mentoring for Researcher Developers - <a href="https://www.linkedin.com/company/m4rd/?viewAsMember=true" target="_blank" rel="noopener noreferrer">M4RD</a> and Network for Researcher Developers - <a href="https://www.linkedin.com/company/networkforresearcherdevelopers/?viewAsMember=true" target="_blank" rel="noopener noreferrer">NeRDs</a>, with strong global engagement and impact.</p>
   thumbnailUrl: natasha_kitano.jpg
   rockstar: true
   ribbon:
@@ -58,16 +62,32 @@
   id: 105
   name: Prof. Paula
   surname: McDonald
-  pronouns: 
+  pronouns:
   company: QUT
-  title: DVC and VP Research
-  bio: "<p></p><p></p>"
+  title: Deputy Vice-Chancellor and Vice-President (Research)
+  bio: >-
+    <p>Paula McDonald is Deputy Vice-Chancellor and Vice-President (Research) and a Professor of Work and Organisation. Since completing her PhD in 2004, Paula has worked closely with organisations in the public, private and community sectors on collaborative research which advances social justice in and beyond the workplace. Her research addresses:</p>
+
+    <ul>
+      <li>youth employment</li>
+      <li>technology and work (digital platform work; automation and AI)</li>
+      <li>vulnerable and disadvantaged worker groups</li>
+      <li>customised/flexible work and public/private boundaries</li>
+      <li>gendered dimensions of work (pay equality, everyday sexism)</li>
+      <li>workplace discrimination (sex discrimination, sexual harassment)</li>
+    </ul>
+
+    <p>Paula has published 150 academic journal articles, books, chapters and industry reports in these fields. She has been awarded 10 Australian Research Council grants including a Future Fellowship from 2013-16; six as lead investigator. Paula’s research has had demonstrable impact via expert testimony, workplace training, commissioned research reports, media engagement, submissions to government inquiries, membership on steering committees, and public speaking engagements. Her research was selected for submission and ranked “high” in the 2018 Excellence in Research Australia for Field of Research code 15.</p>
+
+    <p>Paula’s experience in higher education governance is reflected in her election and appointment to key university-level committees including QUT Council (2017-21); University Research Committee (2019-current); University Academic Board (2020-21; 2024-current); University Human Research Ethics Committee (2007-11); Academic Misconduct panels (2007; 2017); Research Degrees Committee (2011-12; 2024-current); ERA Research Quality groups (2015; 2018); and University Promotions Committee (2011-12).</p>
+
+    <p>Prior to an academic career, Paula held clinical and research roles in child and adolescent psychiatry, medical education, primary care and public health. She was elected to the Australian Academy of Social Sciences in 2021. Paula is a registered psychologist with the Australian Health Practitioner Agency since 2003, a graduate of the Australian Institute of Company Directors, and a senior fellow of the UK Higher Education Academy.</p>
   thumbnailUrl: paula_mcdonald.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: 
+  social:
 -
   id: 201
   name: Sharron
@@ -855,20 +875,6 @@ Kasia works as a Senior Data Analyst at The University of Queensland. In additio
 Dr. Kafer has extensive experience communicating complex scientific concepts to diverse audiences. Her postdoctoral work in Japan strengthened her ability to present effectively to non–native English-speaking researchers, while her work with Pacific communities through the Australian Centre for Pacific Islands Research has further developed her cross-cultural communication skills. In addition, her role as a research fellow and ambassador for the Jeans for Genes charity at CMRI refined her capacity to translate rigorous science for broad public audiences. She is deeply committed to mentoring early-career researchers and supporting students to become clear, confident, and thoughtful scientific communicators.</p>"
   thumbnailUrl: 
   rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: 
--
-  id: 309
-  name: Prof. Paula
-  surname: McDonald
-  pronouns: 
-  company: QUT
-  title: Deputy Vice-Chancellor and Vice-President (Research)
-  bio: "<p></p><p></p>"
-  thumbnailUrl: 
-  rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
