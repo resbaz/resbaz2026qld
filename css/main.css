@@ -5944,3 +5944,149 @@ nav li a:hover {
     line-height: 1.2;
     font-size: 16px;
 }
+
+/* ==========================================================================
+   Rockstar / Keynote speakers block
+   ========================================================================== */
+
+#rockstar-speakers {
+  min-height: 560px;
+  padding: 72px 0;
+  background-size: cover;
+  background-position: center;
+}
+
+#rockstar-speakers .content-wrapper {
+  position: relative;
+  z-index: 2;
+}
+
+#rockstar-speakers .overlay.solid-overlay {
+  opacity: 0.68;
+}
+
+#rockstar-speakers .rockstar-speakers-list {
+  float: none;
+  width: 100%;
+  margin-left: 0;
+  text-align: center;
+  color: #fff;
+}
+
+#rockstar-speakers #rockstar-speaker-title {
+  margin: 0 0 32px;
+  font-size: 38px;
+  font-weight: 300;
+  color: #fff;
+}
+
+#rockstar-speakers .rockstar-card-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--rockstar-count, 4), minmax(0, 1fr));
+  gap: 16px;
+  width: min(100%, var(--rockstar-grid-max-width, 920px));
+  margin: 0 auto 34px;
+}
+
+#rockstar-speakers .rockstar-card {
+  display: block;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 18px;
+  overflow: hidden;
+  text-align: left;
+  color: #222;
+  text-decoration: none;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#rockstar-speakers .rockstar-card:hover,
+#rockstar-speakers .rockstar-card:focus {
+  transform: translateY(-5px);
+  box-shadow: 0 22px 52px rgba(0, 0, 0, 0.35);
+  text-decoration: none;
+  color: #222;
+}
+
+#rockstar-speakers .rockstar-card-image {
+  height: 170px;
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+}
+
+#rockstar-speakers .rockstar-card-body {
+  padding: 16px 15px 18px;
+}
+
+#rockstar-speakers .rockstar-card-body h4 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #222;
+}
+
+#rockstar-speakers .rockstar-card-body h4 span {
+  font-weight: 700;
+}
+
+#rockstar-speakers .rockstar-card-title {
+  margin: 0 0 8px;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #444;
+}
+
+#rockstar-speakers .rockstar-card-company {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #777;
+}
+
+#rockstar-speakers .bordered {
+  display: inline-block;
+  margin-top: 2px;
+}
+
+@media (max-width: 991px) {
+  #rockstar-speakers .rockstar-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: min(100%, 640px);
+    gap: 20px;
+  }
+
+  #rockstar-speakers .rockstar-card-image {
+    height: 220px;
+  }
+
+  #rockstar-speakers .rockstar-card-body h4 {
+    font-size: 18px;
+  }
+
+  #rockstar-speakers .rockstar-card-title,
+  #rockstar-speakers .rockstar-card-company {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 600px) {
+  #rockstar-speakers {
+    padding: 56px 0;
+  }
+
+  #rockstar-speakers #rockstar-speaker-title {
+    font-size: 30px;
+  }
+
+  #rockstar-speakers .rockstar-card-grid {
+    grid-template-columns: 1fr;
+    width: min(100%, 330px);
+  }
+
+  #rockstar-speakers .rockstar-card-image {
+    height: 245px;
+  }
+}
