@@ -150,7 +150,7 @@
   surname: Adeyinka
   pronouns: He/Him
   company: QCIF
-  title: 
+  title: Trainer
   bio: "Ade is a trainer with QCIF and has about 20 years of experience as a statistician. Previously, he was the digital research analyst at Southern Cross University (SCU) and the University of Southern Queensland (UniSQ). He specializes in the application of quantitative and qualitative techniques in proffering solutions to financial, social and management problems. His PhD thesis was on the application of weather index-insurance in managing drought risks among Australian farmers."
   thumbnailUrl: ade_adeyinka.jpg
   rockstar: false
@@ -719,7 +719,7 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   company: QUT
   title: Writing Coach & Researcher
   bio: "Dr Abbe Winter (SFHEA) is a results-driven writing wellbeing specialist, collaborative mentor, and independent researcher, skilled in the analysis of words and data for user needs. Abbe is a researcher trainer, leader, and mentor, with over 20 years’ experience in quality assurance, and change and project management. While her PhD focused on what helps workers in higher education cope with large-scale organisational change, and she was part of the small team that created and developed the concept of academagogy (the scholarly leadership of learning), her more recent research has focussed upon professional identity, developing writing skills, and reflective practice."
-  thumbnailUrl: 
+  thumbnailUrl: abbe_winter.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -733,7 +733,7 @@ Before joining Griffith University, Amanda held roles at the University of Queen
   company: QUT
   title: HDR Client Services Manager (Client Support)
   bio: "Jill Blacker is an innovative administrative manager with over 15 years’ experience in the higher education sector working across many different areas including action research projects focused on the widening participation agenda. She has extensive experience providing support to researchers, supervisors, and academic leaders on all aspects of higher degree research; and has a proven track record of resolving complex cases to ensure mutually agreeable outcomes. She is a confident mentor and coach and has been drawn to learning about mental health practices and strategies to provide support to researchers and supervisors. Building relationships and working collaboratively and creatively is a key component of her professional practice. She is a Fellow of Advance HE."
-  thumbnailUrl: 
+  thumbnailUrl: jillian_blacker.png
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -988,6 +988,20 @@ He has developed systematic and data-driven workflows for literature reviews, in
   title: Technology Trainer, Library
   bio: "Stéphane is a Technology Trainer at The University of Queensland Library. Having studied plant science and ecology, he worked as a research assistant at the School of Agriculture, before moving to the Library to teach about research software, data visualisation and programming. He is passionate about Open Research principles, skill-sharing about Open Source tools, and environmental conservation. He is a certified Carpentries Insutructor Trainer."
   thumbnailUrl: stephane_guillou.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 318
+  name: Belinda
+  surname: Howard
+  pronouns: 
+  company: QUT
+  title: PhD Candidate
+  bio: "Belinda Howard is a PhD Researcher in School of Education at Queensland University of Technology whose study examines the existence of career development policy in Australian secondary schools. She teaches Indigenous education and career development theory, policy, and practice , drawing on both research expertise and extensive professional experience. Affiliated with the QUT Centre for Inclusive Education and a member of the Career Development Association of Australia, she also writes Candidly Academic, a blog blending reflexive commentary with practical insights from her doctoral work. With more than 15 years’ experience across mainstream and alternative education settings, Belinda has supported schools to design and implement whole‑school approaches to career development, driven by a commitment to equity, disengaged learners, and improving young people’s transitions. Across her research, teaching, writing, and professional practice, she works to strengthen how career development is understood within education systems and to contribute to meaningful policy and practice reform."
+  thumbnailUrl: belinda_howard.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
