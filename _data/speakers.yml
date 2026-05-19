@@ -1000,12 +1000,54 @@ Outside of work, she enjoys hiking and experimenting with cooking.</p>"
 -
   id: 318
   name: Belinda
-  surname: Howard
+  surname: Howard <small>(Panellist)</small>
   pronouns: 
   company: QUT
   title: PhD Candidate
   bio: "Belinda Howard is a PhD Researcher in School of Education at Queensland University of Technology whose study examines the existence of career development policy in Australian secondary schools. She teaches Indigenous education and career development theory, policy, and practice , drawing on both research expertise and extensive professional experience. Affiliated with the QUT Centre for Inclusive Education and a member of the Career Development Association of Australia, she also writes Candidly Academic, a blog blending reflexive commentary with practical insights from her doctoral work. With more than 15 years’ experience across mainstream and alternative education settings, Belinda has supported schools to design and implement whole‑school approaches to career development, driven by a commitment to equity, disengaged learners, and improving young people’s transitions. Across her research, teaching, writing, and professional practice, she works to strengthen how career development is understood within education systems and to contribute to meaningful policy and practice reform."
   thumbnailUrl: belinda_howard.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 319
+  name: Prof. Kieran
+  surname: Tranter (Panellist)
+  pronouns: He/Him
+  company: QUT
+  title: Chair of Law, Technology and Future (School of Law)
+  bio: "Kieran is the Chair of Law, Technology and Future at the School of Law, QUT. Kieran's research focuses on bringing together law, technology and the humanities to imagine and work towards better futures. He is founding general editor of Law, Technology and Humans. Kieran is particularly focused on supporting the next generation of researchers. The future needs their creativity and originality. He has supervised to completion 24 PhDs and is chair of the Council of Australian Law Deans thesis award committee."
+  thumbnailUrl: kieran_tranter.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 320
+  name: Dr Ruari
+  surname: Elkington (Panellist)
+  pronouns: 
+  company: QUT
+  title: Chief Investigator (Digital Media Research Centre); Senior Lecturer in Creative Industries (Creative Industries, Education and Social Justice Faculty)
+  bio: "Ruari Elkington is a Chief Investigator with QUT’s Digital Media Research Centre and publishes in the field of screen distribution, screen studies and education. Dr Elkington’s industry engagement and academic research is driven by questions around how screen content connects with discrete audiences in markets increasingly under pressure through creative and commercial tensions. His screen industry experience centred on the acquisition, marketing and distribution of documentary, feature film and innovative digital content to theatrical and online audiences and his scholarship remains driven by questions of how screen content connects with discrete audiences in spaces increasingly under pressure from creative and commercial tensions. Alongside Dr Tess Van Hemert, he co-leads the ‘Resilient Screens’ research project within the Transfroming Media INdustries program  of the DMRC. Over the last three years ‘Resilient Screens’ has collaborated on funded audience research with peak bodies in Australian film distribution and exhibition (NACO/CAA, ICA, MPDAA) and produced several industry reports for film festivals (BIFF) and major independent exhibition chains (Palace Cinemas). He is currently a Senior Lecturer in Creative Industries at the Queensland University of Technology’s Creative Industries, Education and Social Justice Faculty"
+  thumbnailUrl: ruari_elkington.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 321
+  name: Dr Kalyan
+  surname: Tadepalli (Panellist)
+  pronouns: 
+  company: QUT
+  title: Orthopaedic Surgeon; PhD Candidate
+  bio: "Kalyan is a board-certified orthopaedic surgeon with 15 years of clinical experience. He also holds a Master's degree in Data Science and an MBA in Operations Management. As a QUTPRA scholarship recipient, he is a full-time PhD student researching explainable predictive modelling of kidney outcomes in critical care."
+  thumbnailUrl: kalyan_tadepalli.png
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
