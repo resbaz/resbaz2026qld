@@ -234,18 +234,18 @@ At CSIRO's ON Program, Richelle plays a key role in strengthening Australia’s 
   social: https://au.linkedin.com/in/richelle-mcnae
 -
   id: 248
-  name: Dr Bogdan
-  surname: Mamaev
-  pronouns: He/Him
+  name: Dr Futoon
+  surname: Abushaqra
+  pronouns: She/her
   company: Australian Internet Observatory
-  title: Research Training Manager
-  bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory. Specialising in digital methods for data collection, he researches how citizens participate in politics across different contexts, and explores how we can utilise the latest, cutting-edge technologies to understand our societies better."
-  thumbnailUrl: bogdan_manaev.png
+  title: Researcher
+  bio: "Futoon Abu Shaqra is a researcher at the Australian Internet Observatory, specialising in digital Data Download Packages (DDPs) and their application in studying digital platforms and online behaviour. Her work focuses on supporting more consistent, accessible, and scalable use of user-generated data for research on digital platforms by developing frameworks for DDPs, including taxonomy and schema repositories to systematically describe and standardise platform data structures. Futoon holds a PhD in Computer Science from RMIT University, Australia, where she developed deep learning methodologies for sequence data modelling. Her broader research spans AI, machine learning, temporal data analytics, emotion recognition, audio analysis, and natural language processing."
+  thumbnailUrl: futoon_abushaqra.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://www.admscentre.org.au/dr-bogdan-mamaev/
+  social: https://www.admscentre.org.au/futoon-abushaqra/
 -
   id: 253
   name: Dr Lachlan
@@ -1053,3 +1053,17 @@ Outside of work, she enjoys hiking and experimenting with cooking.</p>"
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 322
+  name: Dan
+  surname: Tran
+  pronouns: 
+  company: Australian Internet Observatory
+  title: Software Developer
+  bio: "Dan Tran is a Software Developer at the Australian Internet Observatory (AIO), based at the University of Queensland. Specialising in full-stack web application development, Dan leverages his expertise in TypeScript, Java, and Python to build robust tools that empower large-scale data analysis and research. He primarily works on the AIO Platform, a web-based tool dedicated to collecting and analysing participant data donations to help drive impactful insights."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://social-science.uq.edu.au/profile/8117/dan-tran

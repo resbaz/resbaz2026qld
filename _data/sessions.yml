@@ -538,22 +538,20 @@ We'll cover questions like,
   title: "Data donations using data download packages"
   themes: []
   id: 2077
-  speakers: [248]
+  speakers: [248,322]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>In this session, the participants will learn about a new ethical framework to collect data from social media platforms (Instagram, YouTube, ChatGPT) using data download packages (DDPs) for social science research. I will introduce:</p>
-<ul>
-<li>What DDPs contain and what kind of research questions they can help us answer.</li>
-<li>How to make sure data is handled properly.</li>
-<li>How to enrol respondents and manage their data.</li>
-</ul>
-<p>By the end of the session, the participants will be able to:</p>
-<ul>
-<li>Choose the right platform for their research based on the research question.</li>
-<li>Explore DDPs.</li>
-<li>Create data donation projects and enrol participants.</li>
-</ul>"
+  description: "<p>This workshop introduces participants to Data Download Packages (DDPs) from platforms such as Instagram, YouTube, and ChatGPT for social science research. Participants will learn how online platforms collect and track user data, how to request and download their own data packages, and how DDPs can support ethical data donation research.
+  </p><p>
+  By the end of the session, participants will be able to:</p>
+  <ul>
+  <li>Understand what DDPs are and the types of data platforms collect.</li>
+  <li>Learn how online behaviour is tracked across platforms.</li>
+  <li>Evaluate how DDPs can be used in research.</li>
+  <li>Choose suitable platforms based on research questions.</li>
+  <li>Create data donation projects and enrol participants responsibly.</li>
+  </ul>"
 -
   title: "AI tools and considerations for literature reviews"
   themes: []
