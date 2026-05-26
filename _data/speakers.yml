@@ -336,20 +336,6 @@ She is currently developing an experimental writing project exploring how dialog
     - {abbr: "", title: "", url: ""}
   social: 
 -
-  id: 273
-  name: Dr Martin
-  surname: Schweinberger
-  pronouns: 
-  company: UQ, LADAL
-  title: Senior Lecturer, Director of Research
-  bio: "<p>Martin Schweinberger uses big data and computational methods to explore the messy, fascinating reality of how people actually talk—including all the swear words, filler words, and informal expressions that traditional language education overlooks. As a Senior Lecturer in Applied Linguistics at the University of Queensland, he bridges the gap between computer science and linguistics to understand how language evolves in our digital age.</p><p></p>"
-  thumbnailUrl: martin_schweinberger.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: 
--
   id: 274
   name: Dr Roy
   surname: Barkan
@@ -934,7 +920,7 @@ Outside of work, she enjoys hiking and experimenting with cooking.</p>"
   pronouns: 
   company: UQ
   title: Research Data Scientist, RAPID Community Data Lab
-  bio: ""
+  bio: "Elizabeth Alpert (Betsy) is a Research Data Scientist at UQ with the RAPID-CDL project (Reusable and Accessible Public Interest Documents, part of the ARDC Community Data Lab). She is a backend software developer by background and now works in research infrastructure for digital humanities. Ask Betsy about Python, open source software, data modelling, databases, technical writing, and what latest weirdness she has been reading about in the Australian federal Hansard!"
   thumbnailUrl: 
   rockstar: false
   ribbon:
