@@ -976,7 +976,7 @@ Outside of work, she enjoys hiking and experimenting with cooking.</p>"
   pronouns: He/Him
   company: UQ
   title: Technology Trainer, Library
-  bio: "Stéphane is a Technology Trainer at The University of Queensland Library. Having studied plant science and ecology, he worked as a research assistant at the School of Agriculture, before moving to the Library to teach about research software, data visualisation and programming. He is passionate about Open Research principles, skill-sharing about Open Source tools, and environmental conservation. He is a certified Carpentries Insutructor Trainer."
+  bio: "Stéphane is a Technology Trainer at The University of Queensland Library. Having studied plant science and ecology, he worked as a research assistant at the School of Agriculture, before moving to the Library to teach about research software, data visualisation and programming. He is passionate about Open Research principles, skill-sharing about Open Source tools, and environmental conservation. He is a certified Carpentries Instructor Trainer."
   thumbnailUrl: stephane_guillou.png
   rockstar: false
   ribbon:
@@ -1091,3 +1091,17 @@ Beyond his professional work, Zhao once spent two years travelling across Austra
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/our-people/xiang-zhao-(zhao)
+-
+  id: 325
+  name: Dr Caitie
+  surname: Kuempel
+  pronouns: 
+  company: Griffith University
+  title: Senior Lecturer
+  bio: "Dr Kuempel leads the Sustainable Seas Research Group at Griffith University. SSRG uses quantitative tools to synthesise new and existing data to assess the what and where of human impacts on the environment and the environments impact on humans from local to global scales, particularly in our world’s oceans. This information is then used to actions and policies to minimise these threats. Her work largely falls within four main themes: 1) mapping impacts of human activities, 2) spatial conservation planning, 3) land-sea interactions and 4) measuring trade-offs and progress towards sustainability goals. She is also passionate about science communication and open, reproducible research."
+  thumbnailUrl: caitie_kuempel.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://social-science.uq.edu.au/profile/8117/dan-tran
