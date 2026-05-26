@@ -732,7 +732,7 @@ The session will cover:</p>
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+  description: "<p>An introduction to Python that places an emphasis on working with and visualising tabular data.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p><p>See the <a href='https://stragu.github.io/2026-06-23-resbaz-qld-python/'>dedicated website</a></p>"
 -
   title: "Software Carpentry: R for Reproducible Scientific Analysis (1.5 days)"
   themes: []
@@ -741,5 +741,5 @@ The session will cover:</p>
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p>"
+  description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p><p>See the <a href='https://stragu.github.io/2026-06-23-resbaz-qld-r/'>dedicated website</a></p>"
 
