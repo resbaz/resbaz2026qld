@@ -112,7 +112,7 @@
   title: "Keynote Address - Learn how to work well with your HDR supervisor"
   themes: []
   id: 103
-  speakers: [103,318,319,320,321]
+  speakers: [103,318,319,320,321,323]
   subtype: Talk
   hidden: false
   description: Establishing an effective relationship with your supervisors is key to the HDR journey. This presentation looks at the role of the supervisor and the role of the student in your higher degree research journey and how these roles may change over candidature. A panel of HDR supervisors and HDR students will join the presenter to discuss topics like feedback, tough conversations, cultural considerations, AI and much more. 
@@ -678,7 +678,7 @@ Through real examples and practical frameworks, attendees will leave with concre
   title: "Species distribution modelling in EcoCommons: Introduction to platform and notebook workflows for research"
   themes: []
   id: 2087
-  speakers: [237,312]
+  speakers: [237,324,312]
   subtype: Workshop
   service:
   hidden: false

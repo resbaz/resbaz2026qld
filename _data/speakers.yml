@@ -899,7 +899,7 @@ He has developed systematic and data-driven workflows for literature reviews, in
   id: 312
   name: Ooroosa
   surname: Ali
-  pronouns: 
+  pronouns: She/Her
   company: QCIF
   title: Software Tester
   bio: "<p>Ooroosa joined QCIF as a Software Tester after gaining three and a half years of experience in the same role. Her expertise lies in Functional, End-to-End, and Regression testing across multiple platforms, including mobile and web applications. 
@@ -907,7 +907,7 @@ He has developed systematic and data-driven workflows for literature reviews, in
 She holds a Bachelor's degree in Computer Science and Electronics from Mysore University, India. Ooroosa is passionate about learning new technologies, designing and executing test cases, identifying critical bugs, and applying SDLC and Agile methodologies to ensure exceptional software quality. 
 </p><p>
 Outside of work, she enjoys hiking and experimenting with cooking.</p>"
-  thumbnailUrl: 
+  thumbnailUrl: oorosa_ali.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -1053,3 +1053,41 @@ Outside of work, she enjoys hiking and experimenting with cooking.</p>"
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://social-science.uq.edu.au/profile/8117/dan-tran
+-
+  id: 323
+  name: Dr Sumudu
+  surname: Hewage (Panellist)
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "<p>Dr Sumudu Hewage (Hey-va-gey) is a researcher–educator at Queensland University of Technology who completed her PhD in 2025. Her work spans implementation science, health services research, and public health teaching, with roles at the Australian Centre for Health Services Innovation (AusHSI), the QUT School of Medicine, and the School of Public Health. Drawing on both her doctoral experience and current academic role, she brings a dual perspective as a recent HDR graduate and an early career academic to the discussion.
+</p><p>
+Drawing on her own HDR journey, Sumudu is particularly interested in the evolving relationship between students and supervisors across candidature, including taking an active role in research, navigating expectations and uncertainty. As an international graduate, she also brings insights into cultural expectations and norms that may shape the HDR journey for students from culturally and linguistically diverse backgrounds.
+</p><p>
+She is passionate about fostering psychologically safe and supportive research environments where students feel empowered and grow into independent researchers.</p>"
+  thumbnailUrl: sumudu_hewage.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 324
+  name: Xiang
+  surname: Zhao
+  pronouns: 
+  company: QCIF
+  title: Software Developer and R Specialist
+  bio: "<p>Xiang Zhao (Zhao) joined QCIF in 2024 as a Software Developer and R Specialist, where he maintains and develops ecological algorithms for the EcoCommons Platform.
+</p><p>
+Before this, he completed an MPhil at Queensland University of Technology (QUT), applying spatial mapping, modelling, statistics, and optimisation techniques to analyse historical biodiversity survey patterns in terrestrial Antarctica and propose an optimal design for future research. Alongside his research, he tutored in GIS and Environmental Planning units at QUT, sharing his expertise in GIS and cartography.
+</p><p>
+He is passionate about advancing ecological research through programming, reproducible workflows, and scalable infrastructure. Zhao specialises in R, but also enjoys working with Python and other tools that support data science and geospatial analysis. He is particularly interested in developing open-source software to enable researchers and conservation practitioners to run species distribution models and make evidence-based decisions for biodiversity conservation.
+</p><p>
+Beyond his professional work, Zhao once spent two years travelling across Australia as a backpacker, which deepened his appreciation for the country’s diverse landscapes and wildlife. Earlier in his career, he contributed to a conservation project in Southwest China that focused on protecting giant panda habitats from livestock impacts—a project that earned him the BirdLife International Young Conservation Leaders Award. When not coding or working in conservation, he enjoys hiking and birdwatching.</p>"
+  thumbnailUrl: xiang_zhao.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/our-people/xiang-zhao-(zhao)
