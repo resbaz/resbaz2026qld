@@ -15,7 +15,7 @@ Throughout these policies, we refers to the Research Bazaar team of staff and vo
 By accepting a place at the Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
 
 ##### Code of Conduct
-*This Code of Conduct draws inspiration from the ResBaz Melbourne [Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/).*
+*This Code of Conduct draws inspiration from the ResBaz Melbourne [Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/){:target="_blank" rel="noopener noreferrer"}. Participants at ResBaz QLD 2026 also agree to comply with the [QUT Code for responsible conduct of research](http://mopp.qut.edu.au/document/view.php?id=154){:target="_blank" rel="noopener noreferrer"}.*
 
 The Research Bazaar is a learning environment where everyone is welcome. It’s a diverse community from a wide range of backgrounds and interests, academically and socially. To ensure that everyone has a safe and enjoyable experience, please bring a spirit of respect and friendly inquiry to all your social interactions at the Research Bazaar.
 
@@ -26,6 +26,13 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 **Be respectful.** Participants come from a huge range of backgrounds and experience levels. Everyone should feel comfortable to ask for the help they need to understand the discussion. Listen and support others to learn. Remember that everyone here has their own field of expertise.
 
 **Be kind to others.** Be careful and respectful in the words that you choose to use. Do not insult or put down other participants or their background.
+
+##### Inclusive communication
+Participants at ResBaz QLD 2026 also agree to be guided by the following resources (may require QUT login): <br>
+*[A Guide to Inclusive Language at QUT](https://qutvirtual4.qut.edu.au/documents/d/staff/a-guide-to-inclusive-language-at-qut){:target="_blank" rel="noopener noreferrer"}.* <br>
+*[QUT Recommended Guidelines for Aboriginal and Torres Strait Islander Terminology](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf){:target="_blank" rel="noopener noreferrer"}.* <br>
+*[Pronouns – A Quick Guide](https://qutvirtual4.qut.edu.au/documents/4389321/4598321/Pronouns+quick+guide.pdf/fb684e53-3621-5bc4-b813-77419a7cf5e3?t=1705455399386){:target="_blank" rel="noopener noreferrer"}.* <br>
+*[Words at Work Guide – Diversity Council of Australia](https://qutvirtual4.qut.edu.au/documents/d/staff/words-at-work){:target="_blank" rel="noopener noreferrer"}.*
 
 ##### Photography/video/audio recording policy
 We will be taking photographs and (potentially) videos of sessions (formal and social) at ResBaz. These images and recordings may be used to promote the conference and other activities by the Research Bazaar Qld team.
@@ -42,7 +49,7 @@ Comments made on social media may be republished with attribution (for example r
 Please remember that the Research Bazaar is a learning environment and **don’t distract other attendees by photographing/ live tweeting excessively during training sessions.**
 
 ##### Anti-harassment policy
-*This policy is based on the ResBaz Melbourne [Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/).*
+*This policy is based on the ResBaz Melbourne [Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/){:target="_blank" rel="noopener noreferrer"}.*
 
 ###### Summary
 The Research Bazaar is dedicated to providing a harassment-free experience for everyone at our events and in our forums. We do not tolerate harassment of attendees in any form. Attendees violating these rules may be sanctioned or expelled from the event and its forums at the discretion of the anti-harassment officers or the host.
@@ -65,7 +72,7 @@ Harassment includes:
 
 If a participant engages in harassing behaviors, the anti-harassment officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the anti-harassment officers or your site host immediately. If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, you are welcome to [Report a Concern](https://www.qut.edu.au/about/governance-and-policy/report-a-concern) centrally.
+*If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the anti-harassment officers or your site host immediately. If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, you are welcome to [Report a Concern](https://www.qut.edu.au/about/governance-and-policy/report-a-concern){:target="_blank" rel="noopener noreferrer"} centrally.*
 
 Anti-harassment officers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
