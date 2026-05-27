@@ -28,11 +28,13 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 **Be kind to others.** Be careful and respectful in the words that you choose to use. Do not insult or put down other participants or their background.
 
 ##### Inclusive communication
-Participants at ResBaz QLD 2026 also agree to be guided by the following resources (may require QUT login): <br>
-*[A Guide to Inclusive Language at QUT](https://qutvirtual4.qut.edu.au/documents/d/staff/a-guide-to-inclusive-language-at-qut){:target="_blank" rel="noopener noreferrer"}.* <br>
-*[QUT Recommended Guidelines for Aboriginal and Torres Strait Islander Terminology](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf){:target="_blank" rel="noopener noreferrer"}.* <br>
-*[Pronouns – A Quick Guide](https://qutvirtual4.qut.edu.au/documents/4389321/4598321/Pronouns+quick+guide.pdf/fb684e53-3621-5bc4-b813-77419a7cf5e3?t=1705455399386){:target="_blank" rel="noopener noreferrer"}.* <br>
-*[Words at Work Guide – Diversity Council of Australia](https://qutvirtual4.qut.edu.au/documents/d/staff/words-at-work){:target="_blank" rel="noopener noreferrer"}.*
+Participants at ResBaz QLD 2026 also agree to be guided by the following resources: <br>
+<ul>
+  <li><a href="{{ site.baseurl }}/assets/docs/inclusive-communication/qut-guide-inclusive-language.pdf" target="_blank" rel="noopener">A Guide to Inclusive Language at QUT</a></li>
+  <li><a href="{{ site.baseurl }}/assets/docs/inclusive-communication/qut-aboriginal-torres-strait-islander-terminology.pdf" target="_blank" rel="noopener">QUT Recommended Guidelines for Aboriginal and Torres Strait Islander Terminology</a></li>
+  <li><a href="{{ site.baseurl }}/assets/docs/inclusive-communication/pronouns-quick-guide.pdf" target="_blank" rel="noopener">Pronouns – A Quick Guide</a></li>
+  <li><a href="{{ site.baseurl }}/assets/docs/inclusive-communication/dca-words-at-work.pdf" target="_blank" rel="noopener">Words at Work Guide – Diversity Council of Australia</a></li>
+</ul>
 
 ##### Photography/video/audio recording policy
 We will be taking photographs and (potentially) videos of sessions (formal and social) at ResBaz. These images and recordings may be used to promote the conference and other activities by the Research Bazaar Qld team.
