@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls
+  title: Lunch and Stalls + Special Guest
   themes: []
   id: 004
   speakers:
@@ -742,4 +742,13 @@ The session will cover:</p>
   service:
   hidden: false
   description: "<p>An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.</p><p>Note that this workshop runs over 1.5 days, from 9:30 am on Tuesday 23rd, to 12:30 pm on Wednesday 24th. Please only book this workshop if you plan to attend it in its entirety.</p><p>See the <a href='https://stragu.github.io/2026-06-23-resbaz-qld-r/'>dedicated website</a></p>"
-
+-
+  title: Lunch and Stalls
+  themes: []
+  id: 4003
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: null
+-
