@@ -478,7 +478,7 @@ This workshop will introduce the fundamentals of computational text analysis usi
   hidden: false
   description: "<p>Want to build an AI assistant that guides learning rather than just handing out answers? This 1-hour demo walks through deploying a secure, Retrieval-Augmented Generation (RAG) chatbot using Dify on the ARDC Nectar Research Cloud.
 </p><p>
-Using an Information Data Spaces (IDSA) learning mentor as our practical use-case, we will demystify the end-to-end pipeline:
+Using an International Dataspaces (IDSA) learning mentor as our practical use-case, we will demystify the end-to-end pipeline:
 </p><p>
 <ul>
 <li>Structuring raw documentation for optimal AI retrieval.</li>
