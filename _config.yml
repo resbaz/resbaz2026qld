@@ -199,23 +199,32 @@ footerBlocks:
 #   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
  -
   title: "Gold Sponsors"
-  #links:
-   #- {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+  links:
+    - {text: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    - {text: "CSIRO on Prime", link: "https://www.csiro.au/en/work-with-us/funding-programs/Innovation-programs/ON-Prime", imageUrl: "../img/organizers/CSIRO-ONInnovationProgram.png"}
+    - {text: "Sage Publishing", link: "https://www.sagepub.com/home", imageUrl: "../img/organizers/sage2023.png"}
 #   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
   title: "Silver Sponsor"
-  #links:
+  links:
+    - {text: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
     #- {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
     #- {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
+ -    
+  title: "Bronze Sponsor"
+  links:
+    - {text: "Tricky Goose", link: "https://www.trickygoose.training/", imageUrl: "../img/organizers/tricky_goose.jpg"}
  -  
   title: "Collaborating Institutes"
   links:
-   - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
-   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
    - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "../img/organizers/GU.gif"}
-   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.png"}
-   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "QUT", description: "Queensland University of Technology", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.png"}
+   - {text: "Griffith University", link: "griffith.edu.au", imageUrl: "../img/organizers/GU.gif"}
+   - {text: "UQ", description: "The University of Queensland", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {text: "UniSC", description: "University of the Sunshine Coast", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "SCU", description: "Southern Cross University", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/SCU.png"}
+  # - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
+
  -  
   title: "Contacts"
   links:
