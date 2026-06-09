@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd689WEt6ZJPmd-833S7DaHjthJlvcNmm6qSfePuqnxiyrg6Q/viewform", text: "Get involved"}
- - {link: "https://docs.google.com/forms/d/1irfd45Ugc-Ao2ToQQV1jOQIYpXweCrJACUEjEnmj0hI/viewform", text: "Keep me informed"}
+ # - {link: "https://docs.google.com/forms/d/1irfd45Ugc-Ao2ToQQV1jOQIYpXweCrJACUEjEnmj0hI/viewform", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
