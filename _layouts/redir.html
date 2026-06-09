@@ -1,0 +1,14 @@
+---
+# layout to redirect
+# use "redirect_to" in the front matter
+---
+
+<html>
+  <head>
+    <meta http-equiv="refresh" content="2;url={{ page.redirect_to | prepend: site.baseurl }}">
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+    <p>Page has moved. Redirecting...</p>
+  </body>
+</html>
