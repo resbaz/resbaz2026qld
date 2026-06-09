@@ -173,6 +173,14 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 * **Note 2: There are two items in `_data/sessions.yml` which are used to specify lunch/coffee breaks, by default these have the IDs `503` and `307` respectively.**
 * The example above shows a single day with 4 'tracks/streams'. In the timeslot from `11-11:45` there would be no talks for `Stream 1-3`, and the item with the ID `001` specified in `_data/sessions.yml` would appear in `Stream 4`.
 
+### Redirects
+
+If a page changes names, you can redirect from the old name. In the old page's front matter:
+
+* keep the same `permalink`
+* use `layout: redir`
+* add `redirect_to: /new_page_name/` to point to the new page's permalink
+
 ## Used libraries
 
 * [Bootstrap](https://github.com/twbs/bootstrap)
