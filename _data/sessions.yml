@@ -39,7 +39,7 @@
   hidden: true
   description: null
 -
-  title: Announcement of prize winners and ResBaz QLD 2027 host + Closing statement
+  title: Announcement of prize winners and ResBaz QLD 2027 host + Closing statement (in KG-E5 Function Space)
   themes: []
   id: 005
   speakers: 
@@ -48,7 +48,7 @@
   hidden: true
   description: 
 -
-  title: Afternoon tea + 10 Year Anniversary special event (KG-E5 Function Space)
+  title: Afternoon tea + 10 Year Anniversary special event (in KG-E5 Function Space)
   themes: []
   id: 006
   speakers:
@@ -117,7 +117,7 @@
   hidden: false
   description: Establishing an effective relationship with your supervisors is key to the HDR journey. This presentation looks at the role of the supervisor and the role of the student in your higher degree research journey and how these roles may change over candidature. A panel of HDR supervisors and HDR students will join the presenter to discuss topics like feedback, tough conversations, cultural considerations, AI and much more. 
 -
-  title: "Keynote Address - How to make the world just a little bit better"
+  title: "Keynote Address - How to make the world just a little bit better (in KG-E5 Function Space)"
   themes: []
   id: 104
   speakers: [104]
