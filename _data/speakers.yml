@@ -571,7 +571,7 @@ In addition to his academic research, Dr. Bavil is strongly committed to transla
   id: 290
   name: Dr Zachary
   surname: Amir
-  pronouns: She/Her
+  pronouns: 
   company: TERN / UQ
   title: Principal Data Scientist
   bio: "Zachary Amir is a Principal Data Scientist working for TERN to develop the Wildlife Observatory of Australia (WildObs). Zachary's particular focus is on developing the WildObs database, a large standardized collection of camera trapping observations, deployments, and media that is accessible to researchers and biodiversity data aggregators. Zachary completed his PhD at UQ in 2024, having worked across the lifecycle of camera-trapping data, from fieldwork to research publications."
@@ -1130,6 +1130,20 @@ Beyond his professional work, Zhao once spent two years travelling across Austra
   title: Software Developer
   bio: "<p>Muhammad Yasir is a Software Developer at QCIF, working on data platforms and cloud-based systems for wildlife image processing and research workflows. He has experience in full-stack development, cloud infrastructure, databases, and scalable data processing systems. His work focuses on building reliable software solutions that support research, data management, and digital transformation.</p>"
   thumbnailUrl: muhammad_yasir.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 328
+  name: Claire
+  surname: Herne
+  pronouns: She/Any
+  company: QQCIF Digital Research
+  title: Bioinformatician
+  bio: "Claire Herne is a bioinformatician at QCIF Digital Research supporting a range of projects, including the Wildlife Observatory of Australia (WildObs), Australia’s national platform for processing and sharing wildlife camera data. Claire supports researchers with bioinformatics analysis and is an instructor with The Carpentries, delivering workshops in R and on the Galaxy platform."
+  thumbnailUrl: claire_herne.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
