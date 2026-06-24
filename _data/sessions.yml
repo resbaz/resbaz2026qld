@@ -618,14 +618,16 @@ By the end of this session, participants will be comfortable navigating a Linux 
 </p><p>
 All you need is a laptop with WSL2 installed. A setup guide will be circulated to registered participants before the session.</p>"
 -
-  title: "Data driven endurance sports research: A workshop in R"
+  title: "(CANCELLED) Data driven endurance sports research: A workshop in R"
   themes: []
   id: 2083
   speakers: [302]
   subtype: Workshop
   service:
   hidden: false
-  description: "We are going deep into analysis of GPS data for athlete performance modelling. We will work with Trail Running data, but analysis methods are transfereable to a wide array of disciplines."
+  description: "<p>Unfortunately, this workshop had to be cancelled. If you had booked it, you should have received an email letting you know you are able to join one of the other sessions.
+  </p><p>
+  Original description: We are going deep into analysis of GPS data for athlete performance modelling. We will work with Trail Running data, but analysis methods are transfereable to a wide array of disciplines.</p>"
 -
   title: "Accelerating systematic reviews with automation tools"
   themes: []
