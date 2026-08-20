@@ -12,7 +12,7 @@
         -->
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
-                {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true and session.materials != blank %} 
+                {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true and session.materials %} 
                     <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
                         <h5>{{ session.title  }}</h5>
                         <p>{% if session.subtype != null %}
@@ -32,7 +32,7 @@
                         {% endif %}</p>
                         <span class="text-body">Download materials: 
                             {% for material_link in session.materials %}
-                                <a href="{{ material_link }}">Registration link</a> 
+                                <a href="{{ material_link }}">Link</a> 
                             {% endfor %}
                         </span>
                     </div>
