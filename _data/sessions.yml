@@ -202,6 +202,7 @@ The workshop also introduces a broader philosophical perspective on learning bey
   subtype: Workshop
   service:
   hidden: false
+  materials: [https://qcif-training.github.io/llm_workshop/04_llms_for_code_and_data_analysis.html]
   description: "<p>This interactive session introduces researchers to practical uses of large language models (LLMs) across the research lifecycle. It combines conceptual understanding with hands-on demonstrations of real workflows.
 </p><p>
 Participants will:
@@ -449,6 +450,7 @@ This workshop will introduce the fundamentals of computational text analysis usi
   subtype: Workshop
   service:
   hidden: false
+  materials: [https://docs.google.com/presentation/d/1IlpxWuJuujwCqZfvzDUL8pehuZRK-YYT/edit?usp=sharing&ouid=115732362682574687909&rtpof=true&sd=true]
   description: "In an era of rapidly increasing data volume and accessibility, the ability to design effective data visualisations is a critical research skill. In this workshop we will explore what makes a “good” plot good through a focus on the philosophy, physiology, and narrative storytelling role of visualisation, rather than on specific tools or software. Drawing on principles of human perception, cognition, and scientific storytelling, the session discusses how design choices shape what readers actually see and understand. This workshop aims to provide participants with a transferable understanding of design principles for creating visualisations that distil complex information into clear, meaningful, and persuasive research narratives."
 -
   title: "Harness the power of your ORCID"

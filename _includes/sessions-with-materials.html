@@ -1,0 +1,44 @@
+<!-- Begin Session Section -->
+<section id="schedule" class="schedule">
+    <div class="content-wrapper">
+        <!-- Hide session filter 
+        Filter sessions by topic:
+        <select id="themes">
+            <option value="">Show all</option>
+            {% for theme in site.data.themes %}
+                <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
+            {% endfor %}
+        </select>
+        -->
+        <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
+            {% for session in site.data.sessions %}
+                {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true and session.materials != blank %} 
+                    <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
+                        <h5>{{ session.title  }}</h5>
+                        <p>{% if session.subtype != null %}
+						<span class="theme-metadata">{{ session.subtype }}</span>
+						{% endif %}</p>
+                        <p>{% if session.complexity != null %}
+						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
+						{% endif %}</p>
+						<p>{% if session.length != null %}
+						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
+						{% endif %}</p>
+						<p>{% if session.capacity != null %}
+						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
+						{% endif %}</p>
+                        <p>{% if session.recorded != null %}
+                        <span class="theme-metadata"><span class="caption">Recorded: </span>{{ session.recorded }}</span>
+                        {% endif %}</p>
+                        <span class="text-body">Download materials: 
+                            {% for material_link in session.materials %}
+                                <a href="{{ material_link }}">Registration link</a> 
+                            {% endfor %}
+                        </span>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Schedule Section -->
